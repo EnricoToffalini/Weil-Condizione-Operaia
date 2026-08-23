@@ -305,24 +305,43 @@ document.addEventListener("DOMContentLoaded", () => {
   // accessibile e compatta, senza duplicare gli id del documento.
   const sourceToc = document.querySelector("#quarto-margin-sidebar #TOC");
   if (sourceToc?.querySelector("a")) {
-    const mobileToc = document.createElement("details");
+    const mobileToc = document.createElement("div");
     mobileToc.id = "co-mobile-toc";
 
-    const summary = document.createElement("summary");
-    summary.textContent = "Contenuti";
+    const toggle = document.createElement("button");
+    toggle.type = "button";
+    toggle.className = "co-mobile-toc-toggle";
+    toggle.textContent = "Contenuti";
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.setAttribute("aria-controls", "co-mobile-toc-panel");
+
+    const panel = document.createElement("div");
+    panel.id = "co-mobile-toc-panel";
+    panel.hidden = true;
 
     const nav = sourceToc.cloneNode(true);
     nav.id = "TOC-mobile";
+    // Evita la regola Quarto che nasconde nav[role="doc-toc"] su mobile.
+    nav.removeAttribute("role");
     nav.setAttribute("aria-label", "Indice della pagina");
     nav.querySelector("#toc-title")?.remove();
     nav.querySelectorAll("[id]").forEach((element) => element.removeAttribute("id"));
     nav.querySelectorAll("ul.collapse").forEach((list) => list.classList.remove("collapse"));
     nav.querySelectorAll(".active").forEach((link) => link.classList.remove("active"));
+
+    const setTocOpen = (open) => {
+      panel.hidden = !open;
+      toggle.setAttribute("aria-expanded", String(open));
+    };
+    toggle.addEventListener("click", () => {
+      setTocOpen(toggle.getAttribute("aria-expanded") !== "true");
+    });
     nav.addEventListener("click", (event) => {
-      if (event.target.closest("a")) mobileToc.open = false;
+      if (event.target.closest("a")) setTocOpen(false);
     });
 
-    mobileToc.append(summary, nav);
+    panel.append(nav);
+    mobileToc.append(toggle, panel);
     const titleBlock = main.querySelector("#title-block-header");
     (titleBlock ?? main).insertAdjacentElement(titleBlock ? "afterend" : "afterbegin", mobileToc);
   }

@@ -289,15 +289,34 @@ h2.sez-ed {
     box-shadow: 0 1px 4px rgb(0 0 0 / 8%);
   }
 
-  #co-mobile-toc > summary {
+  .co-mobile-toc-toggle {
+    display: block;
+    width: 100%;
     padding: 0.7rem 0.9rem;
+    border: 0;
+    background: transparent;
+    color: inherit;
     font-size: 0.9rem;
     font-weight: 600;
+    text-align: left;
     cursor: pointer;
   }
 
+  .co-mobile-toc-toggle::after {
+    content: "\25BE";
+    float: right;
+    transition: transform 0.15s ease;
+  }
+
+  .co-mobile-toc-toggle[aria-expanded="true"]::after {
+    transform: rotate(180deg);
+  }
+
+  #co-mobile-toc-panel[hidden] {
+    display: none !important;
+  }
+
   #TOC-mobile {
-    /* Quarto nasconde globalmente nav[role="doc-toc"] su schermi stretti. */
     display: block !important;
     padding: 0 0.9rem 0.9rem;
   }
