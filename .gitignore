@@ -23,4 +23,7 @@ Thumbs.db
 .vscode/
 
 # Immagini di Wikimedia scaricate per il PDF: cache, si ricostruisce da sola.
-site/_immagini/
+# Le due cover sorgenti, invece, fanno parte stabile del progetto.
+site/_immagini/*
+!site/_immagini/cover.jpg
+!site/_immagini/cover.png

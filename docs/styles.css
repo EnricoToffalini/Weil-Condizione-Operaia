@@ -54,6 +54,8 @@
 h2, h3 {
   margin-top: 2.75rem;
   font-weight: 600;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
 }
 
 /* Titoli di sezione aggiunti da questa edizione: non appartengono al testo di
@@ -80,17 +82,33 @@ h2.sez-ed {
 
 /* ---- tabelle e formule della trascrizione ------------------------------- */
 
-/* Le tabelle del diario e dei frammenti sono larghe: scorrono da sole
-   invece di allargare la pagina. */
+/* Le tabelle del diario e dei frammenti sono larghe: il contenitore scorre
+   senza allargare la pagina. Su telefono diventa un pannello richiudibile. */
 #quarto-document-content table {
   font-size: 0.85rem;
 }
 
 #quarto-document-content .table-responsive,
-#quarto-document-content > table {
+#quarto-document-content .co-table-scroll {
   display: block;
   overflow-x: auto;
   max-width: 100%;
+  overscroll-behavior-inline: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+#quarto-document-content .co-table-scroll table {
+  display: table;
+  min-width: 36rem;
+  margin-bottom: 0;
+}
+
+.co-table-panel {
+  margin: 1rem 0;
+}
+
+.co-table-panel > summary {
+  display: none;
 }
 
 /* ---- menù dei capitoli e indice della pagina ---------------------------- */
@@ -111,7 +129,7 @@ h2.sez-ed {
   border-radius: 6px;
 }
 
-#TOC, #quarto-sidebar {
+#TOC, #TOC-mobile, #quarto-sidebar {
   font-size: 0.85rem;
 }
 
@@ -125,12 +143,16 @@ h2.sez-ed {
   line-height: 1.35;
 }
 
-#TOC li {
+#TOC li, #TOC-mobile li {
   margin-bottom: 0.5rem;
 }
 
-#TOC .nav-link {
+#TOC .nav-link, #TOC-mobile .nav-link {
   line-height: 1.35;
+}
+
+#co-mobile-toc {
+  display: none;
 }
 
 #toc-title {
@@ -204,4 +226,140 @@ h2.sez-ed {
 
 #quarto-sidebar .sidebar-tools-main .quarto-navigation-tool:hover::after {
   text-decoration: underline;
+}
+
+/* ---- schermi piccoli ---------------------------------------------------- */
+
+@media (max-width: 991.98px) {
+  /* Nella barra mobile il nome di un capitolo lungo deve lasciare spazio ai
+     pulsanti laterali, senza invaderli. */
+  .quarto-secondary-nav .container-fluid,
+  .quarto-secondary-nav .quarto-page-breadcrumbs,
+  .quarto-secondary-nav .breadcrumb,
+  .quarto-secondary-nav .breadcrumb-item {
+    min-width: 0;
+  }
+
+  .quarto-secondary-nav .quarto-page-breadcrumbs {
+    overflow: hidden;
+  }
+
+  .quarto-secondary-nav .breadcrumb-item,
+  .quarto-secondary-nav .breadcrumb-item a,
+  .quarto-secondary-nav .chapter-title {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  #quarto-document-content h1,
+  #quarto-document-content h2,
+  #quarto-document-content h3,
+  #quarto-document-content h4 {
+    line-height: 1.38;
+    overflow-wrap: anywhere;
+    hyphens: auto;
+  }
+
+  #quarto-document-content h1 {
+    font-size: clamp(1.65rem, 7vw, 2rem);
+  }
+
+  #quarto-document-content h2 {
+    font-size: clamp(1.3rem, 5.6vw, 1.65rem);
+  }
+
+  #quarto-document-content h3 {
+    font-size: clamp(1.15rem, 4.8vw, 1.4rem);
+  }
+
+  /* Indice interno sempre raggiungibile durante la lettura. */
+  #co-mobile-toc {
+    display: block;
+    position: sticky;
+    top: 3.45rem;
+    z-index: 5;
+    max-height: min(65vh, 32rem);
+    margin: 0.5rem 0 1.5rem;
+    border: 1px solid #d8d7ee;
+    border-radius: 6px;
+    background: var(--co-fondo-menu);
+    overflow-y: auto;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 8%);
+  }
+
+  #co-mobile-toc > summary {
+    padding: 0.7rem 0.9rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  #TOC-mobile {
+    /* Quarto nasconde globalmente nav[role="doc-toc"] su schermi stretti. */
+    display: block !important;
+    padding: 0 0.9rem 0.9rem;
+  }
+
+  #TOC-mobile ul {
+    margin-bottom: 0;
+    padding-left: 1.1rem;
+  }
+
+  #TOC-mobile .nav-link {
+    padding: 0.15rem 0;
+  }
+}
+
+@media (max-width: 575.98px) {
+  #quarto-document-content p {
+    font-size: 1.03rem;
+    line-height: 1.62;
+    text-align: left;
+    overflow-wrap: break-word;
+  }
+
+  #quarto-document-content h2,
+  #quarto-document-content h3 {
+    margin-top: 2.2rem;
+  }
+
+  h2.sez-ed {
+    font-size: 0.98rem;
+    line-height: 1.45;
+    letter-spacing: 0.025em;
+  }
+
+  .cappello {
+    padding: 0.75rem 0.85rem;
+  }
+
+  .co-table-panel {
+    border: 1px solid var(--co-filetto);
+    border-radius: 5px;
+    background: var(--co-fondo-tenue);
+  }
+
+  .co-table-panel > summary {
+    display: list-item;
+    padding: 0.65rem 0.8rem;
+    color: var(--co-tenue);
+    font-size: 0.88rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .co-table-panel[open] > summary {
+    border-bottom: 1px solid var(--co-filetto);
+  }
+
+  .co-table-scroll {
+    padding: 0.45rem;
+    background: white;
+  }
+
+  #quarto-document-content .co-table-scroll table {
+    font-size: 0.78rem;
+  }
 }

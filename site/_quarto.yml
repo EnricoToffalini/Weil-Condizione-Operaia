@@ -51,6 +51,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body: _includes/mobile-html.html
     toc: true
     toc-depth: 3
     toc-title: "Contenuti"
@@ -117,6 +118,18 @@ format:
           ItalicFont     = LinBiolinum_RI.otf,
           BoldFont       = LinBiolinum_RB.otf,
           BoldItalicFont = LinBiolinum_RBO.otf]
+        % Sfondo della sola pagina di copertina. In scrbook `\maketitle`
+        % apre internamente una titlepage: uno sfondo `*` verrebbe consumato
+        % dal cambio pagina iniziale. Lo teniamo quindi attivo per tutta
+        % l'esecuzione di `\maketitle` e lo rimuoviamo subito dopo.
+        % Il PNG resta archiviato accanto al JPG ma non viene usato.
+        \usepackage{eso-pic}
+        \AddToHook{cmd/maketitle/before}{%
+          \AddToShipoutPictureBG{%
+            \AtPageLowerLeft{%
+              \includegraphics[width=\paperwidth,height=\paperheight]{%
+                \detokenize{_immagini/cover.jpg}}}}}
+        \AddToHook{cmd/maketitle/after}{\ClearShipoutPictureBG}
         % Le tabelle del diario e dei frammenti hanno molte colonne strette:
         % in A5 stanno nella giustezza solo in corpo minore.
         \usepackage{etoolbox}

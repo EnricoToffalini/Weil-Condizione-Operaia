@@ -257,6 +257,72 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const main = document.querySelector("#quarto-document-content");
+  if (!main) return;
+
+  // Quarto nasconde l'indice nel margine sotto i 992 px. Ne crea una copia
+  // accessibile e compatta, senza duplicare gli id del documento.
+  const sourceToc = document.querySelector("#quarto-margin-sidebar #TOC");
+  if (sourceToc?.querySelector("a")) {
+    const mobileToc = document.createElement("details");
+    mobileToc.id = "co-mobile-toc";
+
+    const summary = document.createElement("summary");
+    summary.textContent = "Contenuti";
+
+    const nav = sourceToc.cloneNode(true);
+    nav.id = "TOC-mobile";
+    nav.setAttribute("aria-label", "Indice della pagina");
+    nav.querySelector("#toc-title")?.remove();
+    nav.querySelectorAll("[id]").forEach((element) => element.removeAttribute("id"));
+    nav.querySelectorAll("ul.collapse").forEach((list) => list.classList.remove("collapse"));
+    nav.querySelectorAll(".active").forEach((link) => link.classList.remove("active"));
+    nav.addEventListener("click", (event) => {
+      if (event.target.closest("a")) mobileToc.open = false;
+    });
+
+    mobileToc.append(summary, nav);
+    const titleBlock = main.querySelector("#title-block-header");
+    (titleBlock ?? main).insertAdjacentElement(titleBlock ? "afterend" : "afterbegin", mobileToc);
+  }
+
+  // Sul telefono le tabelle molto larghe restano disponibili, ma non
+  // deformano la pagina: sono chiuse di default e scorrono quando aperte.
+  const phone = window.matchMedia("(max-width: 575.98px)");
+  const tablePanels = [];
+  main.querySelectorAll("table").forEach((table) => {
+    if (table.closest(".co-table-panel")) return;
+
+    const panel = document.createElement("details");
+    panel.className = "co-table-panel";
+    const summary = document.createElement("summary");
+    const scroller = document.createElement("div");
+    scroller.className = "co-table-scroll";
+
+    table.before(panel);
+    panel.append(summary, scroller);
+    scroller.append(table);
+    tablePanels.push({ panel, summary });
+  });
+
+  const labelTable = ({ panel, summary }) => {
+    summary.textContent = panel.open ? "Nascondi tabella" : "Mostra tabella";
+  };
+  const setTableMode = (isPhone) => {
+    tablePanels.forEach((entry) => {
+      entry.panel.open = !isPhone;
+      labelTable(entry);
+    });
+  };
+  tablePanels.forEach((entry) => {
+    entry.panel.addEventListener("toggle", () => labelTable(entry));
+  });
+  setTableMode(phone.matches);
+  phone.addEventListener("change", (event) => setTableMode(event.matches));
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
