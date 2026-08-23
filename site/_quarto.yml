@@ -7,10 +7,19 @@ project:
 
 lang: it
 
+# La traduzione italiana di Quarto non copre l'etichetta del pulsante di
+# scaricamento, che resterebbe in inglese.
+language:
+  tools-download: "Scarica"
+
 book:
   title: "La Condizione Operaia"
   subtitle: "Traduzione italiana dell'edizione Gallimard 1951"
   author: "Simone Weil"
+  # Nome del PDF del libro: docs/la-condizione-operaia.pdf
+  output-file: "la-condizione-operaia"
+  # Mette il link di scaricamento del PDF nella barra laterale del sito.
+  downloads: [pdf]
   search: true
   sidebar:
     title: "La Condizione Operaia - Simone Weil"
@@ -51,3 +60,63 @@ format:
     anchor-sections: true
     link-external-newwindow: true
     fig-responsive: true
+
+  # Versione libro, pagina A5 (148 x 210 mm), pensata per la lettura a schermo
+  # e per la stampa casalinga in fascicoli.
+  pdf:
+    # Porta in locale le immagini di Wikimedia: LaTeX non sa leggere un file
+    # scaricato senza estensione. Vedi il commento in testa al filtro.
+    filters:
+      - _filtri/struttura-pdf.lua
+      - _filtri/immagini-pdf.lua
+      - _filtri/formule-wikisource.lua
+      - _filtri/simboli-matematici.lua
+    # Wikimedia rifiuta le richieste senza un User-Agent riconoscibile e
+    # risponde con un messaggio di testo al posto dell'immagine.
+    request-headers:
+      - ["User-Agent", "quarto-render (La Condizione Operaia, edizione italiana)"]
+    documentclass: scrbook
+    classoption: [oneside]
+    papersize: a5
+    geometry:
+      - a5paper
+      - inner=16mm
+      - outer=14mm
+      - top=16mm
+      - bottom=18mm
+    # Un mezzo punto in più rispetto al corpo precedente, mantenendo la
+    # compattezza necessaria alla pagina A5.
+    fontsize: 10.5pt
+    linestretch: 1.06
+    indent: true
+    toc: true
+    toc-depth: 1
+    toc-title: "Indice"
+    number-sections: false
+    colorlinks: true
+    linkcolor: black
+    urlcolor: black
+    include-in-header:
+      text: |
+        % Linux Libertine (in dotazione a TinyTeX) al posto del Latin Modern
+        % predefinito: fra i caratteri già disponibili è l'unico che copra il
+        % greco politonico dell'epigrafe del Diario e l'asterisco triplo degli
+        % stacchi. I nomi sono quelli dei file, che TeX trova da sé: il nome
+        % della famiglia richiederebbe il carattere installato nel sistema.
+        \setmainfont{LinLibertine_R.otf}[
+          ItalicFont     = LinLibertine_RI.otf,
+          BoldFont       = LinLibertine_RB.otf,
+          BoldItalicFont = LinLibertine_RBI.otf]
+        \setsansfont{LinBiolinum_R.otf}[
+          ItalicFont     = LinBiolinum_RI.otf,
+          BoldFont       = LinBiolinum_RB.otf,
+          BoldItalicFont = LinBiolinum_RBO.otf]
+        % Le tabelle del diario e dei frammenti hanno molte colonne strette:
+        % in A5 stanno nella giustezza solo in corpo minore.
+        \usepackage{etoolbox}
+        \AtBeginEnvironment{longtable}{\scriptsize}
+        % Nella giustezza stretta dell'A5 le parole non spezzabili (i nomi di
+        % file della nota al testo, le sigle, i numeri) sborderebbero nel
+        % margine: meglio qualche riga con gli spazi un po' larghi.
+        \setlength{\emergencystretch}{3em}
+        \sloppy

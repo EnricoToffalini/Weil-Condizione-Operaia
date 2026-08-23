@@ -22,3 +22,5 @@ Thumbs.db
 .idea/
 .vscode/
 
+# Immagini di Wikimedia scaricate per il PDF: cache, si ricostruisce da sola.
+site/_immagini/

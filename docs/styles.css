@@ -148,3 +148,59 @@ h2.sez-ed {
   font-size: 0.88rem;
   color: var(--co-tenue);
 }
+
+/* ---- centratura della pagina -------------------------------------------- */
+
+/* Quarto appoggia la griglia (menù, colonna di lettura, indice) al bordo
+   sinistro e lascia tutto lo spazio in eccesso a destra. Sugli schermi larghi
+   il blocco viene invece centrato, con la stessa larghezza massima per il
+   contenuto e per il piè di pagina, così che il menù cominci sempre allo
+   stesso punto passando da un capitolo all'altro. */
+
+:root {
+  --co-larghezza-pagina: 1414px;
+}
+
+@media (min-width: 992px) {
+  #quarto-content.page-columns {
+    max-width: var(--co-larghezza-pagina);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  footer.footer .nav-footer {
+    max-width: var(--co-larghezza-pagina);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+}
+
+/* ---- scaricamento del PDF ----------------------------------------------- */
+
+/* Quarto riduce il rimando al libro in PDF a una piccola icona accanto al
+   titolo della barra laterale, dove nessuno la cerca. Qui diventa una riga
+   leggibile sotto il titolo. */
+
+#quarto-sidebar .sidebar-tools-main {
+  display: block;
+  margin: 0.35rem 0 0.15rem;
+}
+
+#quarto-sidebar .sidebar-tools-main .quarto-navigation-tool {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding-left: 0;
+  font-size: 0.8rem;
+  color: var(--co-tenue);
+}
+
+#quarto-sidebar .sidebar-tools-main .quarto-navigation-tool::after {
+  content: "Scarica il libro in PDF";
+}
+
+#quarto-sidebar .sidebar-tools-main .quarto-navigation-tool:hover::after {
+  text-decoration: underline;
+}

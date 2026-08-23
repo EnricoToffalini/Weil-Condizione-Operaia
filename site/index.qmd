@@ -2,6 +2,7 @@
 title: "Prefazione"
 ---
 
-<!-- Segnaposto: una riga soltanto, da ampliare. -->
+Queste pagine raccolgono una traduzione italiana integrale dei sedici scritti di Simone Weil riuniti da Albert Camus in *La Condition ouvrière* (Gallimard, Paris 1951): lettere, il diario tenuto durante l'anno di fabbrica del 1934-1935, appunti, articoli e saggi sulla condizione degli operai e sul senso del lavoro. Questa traduzione italiana è stata realizzata da GPT-5.6 Sol, con l’ausilio di Claude Opus 5.0. Ho realizzato la traduzione perché volevo leggerla. 
 
-Questo sito raccoglie la traduzione italiana integrale dei sedici scritti di Simone Weil riuniti da Albert Camus in *La Condition ouvrière* (Gallimard, Paris 1951): lettere, il diario tenuto durante l'anno di fabbrica del 1934-1935, appunti, articoli e saggi sulla condizione degli operai e sul senso del lavoro.
+Di Simone Weil si conoscono il pensiero filosofico, le domande estreme e la tensione verso la *grazia*. Qui, invece, c'è la testimonianza diretta della *gravità*: la fabbrica, la fatica, l'alienazione, l’umiliazione, ma anche la solidarietà e la dignità dentro condizioni durissime. Non sono pagine da leggere tutte; sono sono appunti, frammenti, materiali grezzi. Ma sono da conoscere.
+
