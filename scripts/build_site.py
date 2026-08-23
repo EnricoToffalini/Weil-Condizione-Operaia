@@ -235,6 +235,22 @@ def normalizza(righe: list[str]) -> list[str]:
     return risultato
 
 
+def distingui_note(righe: list[str], prefisso: str) -> list[str]:
+    """Antepone il numero del testo alle etichette delle note a piè di pagina.
+
+    Nel PDF i capitoli confluiscono in un solo documento Pandoc: le note
+    numerate da 1 in ogni testo si sovrapporrebbero, e delle etichette ripetute
+    Pandoc tiene solo la prima definizione (segnalando «duplicate note
+    reference»). Le etichette non compaiono nel testo reso — la numerazione
+    delle note la rifà Pandoc, capitolo per capitolo — quindi il prefisso resta
+    invisibile al lettore, nel sito come nel libro.
+    """
+    return [
+        RIFERIMENTO_NOTA.sub(lambda t: f"[^{prefisso}-{t.group(1)}]", riga)
+        for riga in righe
+    ]
+
+
 def ripulisci_righe_vuote(righe: list[str]) -> list[str]:
     risultato: list[str] = []
     for riga in righe:
@@ -271,9 +287,13 @@ def sigla(titolo: str, lunghezza_massima: int = 60) -> str:
     return piano
 
 
+def numero_del_testo(sorgente: Path) -> str:
+    return sorgente.stem.partition("_")[0]
+
+
 def nome_di_uscita(sorgente: Path, titolo: str, impostazioni: dict) -> str:
-    numero = sorgente.stem.partition("_")[0]
-    return f"{numero}-{impostazioni.get('sigla') or sigla(titolo)}.qmd"
+    parte = impostazioni.get("sigla") or sigla(titolo)
+    return f"{numero_del_testo(sorgente)}-{parte}.qmd"
 
 
 def componi(sorgente: Path, impostazioni: dict, manifest: dict) -> tuple[str, str]:
@@ -294,6 +314,12 @@ def componi(sorgente: Path, impostazioni: dict, manifest: dict) -> tuple[str, st
     righe = livella_titoletti(righe, impostazioni)
     righe = normalizza(righe)
     righe = ripulisci_righe_vuote(righe)
+
+    # Per ultimo, a struttura ormai fissata: i confronti fatti sopra (blocchi,
+    # sezioni, code di note) guardano il testo come sta nel corpus.
+    numero = numero_del_testo(sorgente)
+    righe = distingui_note(righe, numero)
+    cappello = distingui_note(cappello, numero)
 
     unita = manifest.get(intestazione.get("id"), {})
     riferimento = ""

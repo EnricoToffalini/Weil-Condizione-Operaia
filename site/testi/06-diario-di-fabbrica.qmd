@@ -8,7 +8,7 @@ title: "Diario di fabbrica (1934-1935)"
 
 <div id="p35" class="ancora-pagina"></div><!-- page: 35; scan: Page:Weil - La Condition ouvrière, 1951.djvu/43 -->
 
-πόλλ᾽ ἀεκαζομένη, κρατερὴ δ᾽ ἐπικείσετ᾽ ἀνάγκη.[^1]
+πόλλ᾽ ἀεκαζομένη, κρατερὴ δ᾽ ἐπικείσετ᾽ ἀνάγκη.[^06-1]
 
 Non basta che l’uomo sappia ciò che fa — occorre, se possibile, che ne *percepisca l’uso* — che percepisca la natura modificata da lui.
 
@@ -331,7 +331,7 @@ Totale dei prezzi: 3 fr. 40 + 4 fr. 15 + 12 fr. 60 = 20 fr. 15; aggiungervi 1 h.
 
 11 h. ¼-3 h. 40: *grande pressa* con Robert: togliere le bavature — facile. C 280-804 — impiegate *2 h. ½* (appena *non liquidato*; ho avuto il buono soltanto alla fine). Robert, prima un po’ brusco, è diventato molto gentile, paziente, attento a farmi capire il mio lavoro. Il magazziniere deve avergli parlato. Robert è decisamente simpatico. Importanza delle qualità umane di un regolatore.
 
-3 h. 45-5 h. ¼ e [^2]
+3 h. 45-5 h. ¼ e [^06-2]
 
 *Mercoledì 9.* — 7 h.-1 h. ½: piegatura alla macchina a pulsanti. L’utensile si grippava — oliare ogni pezzo — (a questo proposito, il caposquadra mi ha parlato con una gentilezza insolita) — lungo — 62%; ma probabilmente la tariffa non conta. Fatti 833 — segnate in tutto *6 h.* — Lavoro non troppo noioso, grazie al senso di responsabilità (studiavo il modo di evitare che si grippasse).
 
@@ -586,7 +586,7 @@ Conversazioni durante la fermata (dovrei annotarle tutte). Sulle case di perifer
 
 <a id="p63"></a><!-- page: 63; scan: Page:Weil - La Condition ouvrière, 1951.djvu/75 -->si fa aiutare economicamente da lui e «non si priva di nulla»; per quanto ho capito, il tempo che non passa a fare l’amore lo passa a cucinarsi da mangiare e a mangiare.
 
-Ma in Nénette c’è anche qualcos’altro — quando parla dei suoi bambini (un ragazzo di 13 anni, una bambina di 6) — dei loro studi — del gusto di suo figlio per la lettura (ne parla con rispetto). Negli ultimi giorni di questa settimana, settimana in cui è rimasta continuamente in fermata, ha una gravità insolita; evidentemente si domanda come farà a pagare la retta dei bambini[^3].
+Ma in Nénette c’è anche qualcos’altro — quando parla dei suoi bambini (un ragazzo di 13 anni, una bambina di 6) — dei loro studi — del gusto di suo figlio per la lettura (ne parla con rispetto). Negli ultimi giorni di questa settimana, settimana in cui è rimasta continuamente in fermata, ha una gravità insolita; evidentemente si domanda come farà a pagare la retta dei bambini[^06-3].
 
 Incidente a proposito della <abbr class="abbr" title="Signora">Sig.<sup style="font-size:70%;">ra</sup></abbr> Forestier. Si parla di fare una colletta per lei. Eugénie dichiara che non darà niente. Anche Joséphine (ma quella non deve dare spesso), e aggiunge che la <abbr class="abbr" title="Signora">Sig.<sup style="font-size:70%;">ra</sup></abbr> Forestier è passata in fabbrica a salutare tutti (proprio il giorno in cui sono rientrata) per via della colletta. Neppure Nénette e l’italiana, un tempo sue grandi amiche, daranno niente. Pare che abbia fatto del male, non a loro, ma a parecchie altre (?).
 
@@ -691,7 +691,7 @@ Finito alle 4 h. ½ — segnate 3 h. ¼ in tutto.
 
 ¼ h. di scarti.
 
-Conversazione agli scarti: Souchal grossolano. Joséphine <a id="p69"></a><!-- page: 69; scan: Page:Weil - La Condition ouvrière, 1951.djvu/81 -->un giorno gli ha intimato di venire a…[^4], e lo ha fatto costringere da Mouquet. Questi è giusto, ma capriccioso. Regola i buoni liquidati ora a… ora a… non secondo la durezza del lavoro!
+Conversazione agli scarti: Souchal grossolano. Joséphine <a id="p69"></a><!-- page: 69; scan: Page:Weil - La Condition ouvrière, 1951.djvu/81 -->un giorno gli ha intimato di venire a…[^06-4], e lo ha fatto costringere da Mouquet. Questi è giusto, ma capriccioso. Regola i buoni liquidati ora a… ora a… non secondo la durezza del lavoro!
 
 Pezzi delicati da mettere alla battuta: matrice quasi senza rilievo («*bilamine*»), con Léon. C. 421 227, 2 100 pezzi con i pulsanti, dunque a 0,72. Segnate 6 h. ¼. Stessa macchina sulla quale avevo fatto le linguette la 2<sup style="font-size:70%">a</sup> volta, e che Jacquot non era riuscito a sistemare.
 
@@ -701,7 +701,7 @@ Pommera (Jacquot e la macchina delle linguette). Regolatori e macchine.
 
 *Mercoledì.* — ½ h. di scarti.
 
-*Pianoforte* dalle 7 h. ½ alle 8 h. ¼. C. 15 682, b. 11, poi c. 15 682, b. 8, entrambe a 0,495%. 180 pezzi per la 1<sup style="font-size:70%">a</sup>, 460 per la 2<sup style="font-size:70%">a</sup>. Segno 25 min., poi 1 h. ¼. Lentezza lamentabile. Quella il cui amico è pittore viene da me…[^5]
+*Pianoforte* dalle 7 h. ½ alle 8 h. ¼. C. 15 682, b. 11, poi c. 15 682, b. 8, entrambe a 0,495%. 180 pezzi per la 1<sup style="font-size:70%">a</sup>, 460 per la 2<sup style="font-size:70%">a</sup>. Segno 25 min., poi 1 h. ¼. Lentezza lamentabile. Quella il cui amico è pittore viene da me…[^06-5]
 
 *Rivettatura*, «supporto inferiore ass.». C. 24 280, b. 45, 200 pezzi a 0 fr. 10 (un tempo 0,028!) (prezzo provvisorio per la commessa Souchal) dalle 9 h. ¾ circa fino a giovedì mattina. Segnate 6 h. ¼ in tutto. Fatti al mattino 75 pezzi, cioè ancora 7 fr. 50. Mal di testa violentissimo, quel giorno, senza il quale avrei potuto andare più veloce. La sera prima ero andata a letto per tempo, ma mi sono svegliata alle 2 h. Al mattino, voglia di restare a casa. In fabbrica, ogni movimento fa male. Louisette, dalla sua macchina, vede che non va.
 
@@ -934,7 +934,7 @@ Queste preoccupazioni supplementari, come?…
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2 cassette dei suggerimenti.  Divulgazione, preparare… | |  |  |  | | --- | --- | --- | |  | }    {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}}  {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}} |  | | 1 per il *bene della ditta.*  1 per il *bene degli operai.* | |  |  |  | | --- | --- | --- | |  | }    {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}}  {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}} |  | | Innovazioni.  Tecniche.  Sprechi. |
 
-Raccontare l’incidente burocratico… [^6] Collegamento.
+Raccontare l’incidente burocratico… [^06-6] Collegamento.
 
 «Trappola per capitalisti»: rinnovo dell’attrezzatura. Uno rinnova un’attrezzatura ammortizzata; gli altri *devono* fare altrettanto, benché la loro non sia ammortizzata (perché si calcola il costo di produzione particolare, non generale). La volta successiva, il primo ne patisce a sua volta…
 
@@ -1034,7 +1034,7 @@ Emozioni terribili, il giorno dell’assunzione, e il giorno dopo andando ad aff
 
 Quando, 3 mesi prima, avevo sentito raccontare la storia della fresa che aveva trapassato la mano di un’operaia, mi ero detta che, con un’immagine simile nella memoria, non mi sarebbe stato facile lavorare mai a una fresatrice. Tuttavia, sotto questo aspetto, non ho avuto in nessun momento paura da vincere.
 
-*Giovedì 6.* — Dalle 8 h. alle 12 h., guardato[^7] — dalle 2 h. ½ alle 10 h., lavorato. 400 nelle prime 2 h. In tutto 2.050, persa 1 h. ½ o più per colpa del regolatore. Esausta all’uscita.
+*Giovedì 6.* — Dalle 8 h. alle 12 h., guardato[^06-7] — dalle 2 h. ½ alle 10 h., lavorato. 400 nelle prime 2 h. In tutto 2.050, persa 1 h. ½ o più per colpa del regolatore. Esausta all’uscita.
 
 L’inconveniente di una situazione di schiavitù è che si è <a id="p87"></a><!-- page: 87; scan: Page:Weil - La Condition ouvrière, 1951.djvu/99 -->tentati di considerare realmente esistenti degli esseri umani che sono pallide ombre nella caverna. Es.: il mio regolatore, quel giovane bastardo. Reazione necessaria su questo punto. [Mi è passata, dopo alcune settimane.]
 
@@ -1500,16 +1500,16 @@ Alla Renault, ero arrivata a un atteggiamento più stoico. Sostituire l’accett
 
 ---
 
-[^1]: Ben tuo malgrado, sotto la pressione di una dura necessità.
+[^06-1]: Ben tuo malgrado, sotto la pressione di una dura necessità.
 
-[^2]: Frase incompiuta nel testo originale.
+[^06-2]: Frase incompiuta nel testo originale.
 
-[^3]: L’incontro alla metropolitana, mentre sono alla Renault. Racconta che otto giorni prima è stata malata, non ha potuto avvertire e non osa più tornare all’Alsthom — (che cosa rischia? ma…) Senza dubbio colpo di testa… Aria di compassione addolorata, quando dico che sono alla Renault.
+[^06-3]: L’incontro alla metropolitana, mentre sono alla Renault. Racconta che otto giorni prima è stata malata, non ha potuto avvertire e non osa più tornare all’Alsthom — (che cosa rischia? ma…) Senza dubbio colpo di testa… Aria di compassione addolorata, quando dico che sono alla Renault.
 
-[^4]: Parola illeggibile nel testo.
+[^06-4]: Parola illeggibile nel testo.
 
-[^5]: Frase incompiuta nel testo.
+[^06-5]: Frase incompiuta nel testo.
 
-[^6]: Vedi [Diario di fabbrica, p. 47](#p47).
+[^06-6]: Vedi [Diario di fabbrica, p. 47](#p47).
 
-[^7]: Simone Weil faceva allora parte della squadra che lavorava dalle 14 h. ½ alle 22 h.
+[^06-7]: Simone Weil faceva allora parte della squadra che lavorava dalle 14 h. ½ alle 22 h.

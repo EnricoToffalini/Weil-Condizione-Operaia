@@ -40,7 +40,7 @@ Creda a tutta la mia simpatia
 
 S. Weil.
 
-*P.-S.* — Ha visto *Tempi moderni*[^1], suppongo? La macchina per mangiare: ecco il simbolo più bello e più vero della situazione degli operai nella fabbrica. <a id="p185"></a><!-- page: 185; scan: Page:Weil - La Condition ouvrière, 1951.djvu/197 -->
+*P.-S.* — Ha visto *Tempi moderni*[^11-1], suppongo? La macchina per mangiare: ecco il simbolo più bello e più vero della situazione degli operai nella fabbrica. <a id="p185"></a><!-- page: 185; scan: Page:Weil - La Condition ouvrière, 1951.djvu/197 -->
 
 ## Seconda lettera {.sez-ed}
 
@@ -90,7 +90,7 @@ S. Weil.
 
 Tornerò probabilmente a Parigi domani sera per 24 ore. È estremamente penoso e angosciante dover restare in provincia in una situazione simile. <a id="p188"></a><!-- page: 188; scan: Page:Weil - La Condition ouvrière, 1951.djvu/200 -->
 
-## *a)* Lettera di Simone Weil[^2].
+## *a)* Lettera di Simone Weil[^11-2].
 
 Caro amico,
 
@@ -170,6 +170,6 @@ A. Detœuf.
 
 ---
 
-[^1]: Film di Charlie Chaplin.
+[^11-1]: Film di Charlie Chaplin.
 
-[^2]: *Nouveaux Cahiers*, 15 dicembre 1937. — Corrispondenza tra S. Weil e A. Detœuf.
+[^11-2]: *Nouveaux Cahiers*, 15 dicembre 1937. — Corrispondenza tra S. Weil e A. Detœuf.

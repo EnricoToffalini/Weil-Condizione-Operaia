@@ -112,7 +112,7 @@ Manovali specializzati: tutti uomini (tuttavia il magazziniere mi ha detto che c
 
 Al caporeparto non piace che le operaie momentaneamente senza lavoro si riuniscano in molte a chiacchierare. Senza dubbio teme che si generi così un cattivo spirito… Le operaie non pensano di stupirsi di cose di questo genere e non si chiedono il perché. Il loro commento: «I capi sono fatti per comandare.»
 
-[^2] Dramma in fabbrica oggi (giovedì). Hanno licenziato un’operaia che aveva sbagliato 400 pezzi. Tubercolotica, con un marito disoccupato metà del tempo e dei bambini (avuti da un altro, credo), allevati dalla famiglia del padre. Sentimento delle altre operaie, miscuglio di pietà e del «ben le sta» delle bambine a scuola. Pare che fosse una cattiva compagna e una cattiva operaia. Commenti. Aveva addotto l’oscurità (dopo le 6 e ½ si spengono tutte le lampade). «E io ho ben <a id="p113"></a><!-- page: 113; scan: Page:Weil - La Condition ouvrière, 1951.djvu/125 -->fatto questa e quest’altra cosa senza luce.» «Non avrebbe dovuto rispondere al capo (aveva rifiutato di fare il lavoro), avrebbe dovuto andare a dire al vicedirettore: Ho avuto torto, ma, ecc.» «Quando bisogna guadagnarsi da vivere, bisogna fare quel che va fatto.» «Quando ci si deve guadagnare da vivere, bisogna essere più coscienziosi (!).»
+[^07-2] Dramma in fabbrica oggi (giovedì). Hanno licenziato un’operaia che aveva sbagliato 400 pezzi. Tubercolotica, con un marito disoccupato metà del tempo e dei bambini (avuti da un altro, credo), allevati dalla famiglia del padre. Sentimento delle altre operaie, miscuglio di pietà e del «ben le sta» delle bambine a scuola. Pare che fosse una cattiva compagna e una cattiva operaia. Commenti. Aveva addotto l’oscurità (dopo le 6 e ½ si spengono tutte le lampade). «E io ho ben <a id="p113"></a><!-- page: 113; scan: Page:Weil - La Condition ouvrière, 1951.djvu/125 -->fatto questa e quest’altra cosa senza luce.» «Non avrebbe dovuto rispondere al capo (aveva rifiutato di fare il lavoro), avrebbe dovuto andare a dire al vicedirettore: Ho avuto torto, ma, ecc.» «Quando bisogna guadagnarsi da vivere, bisogna fare quel che va fatto.» «Quando ci si deve guadagnare da vivere, bisogna essere più coscienziosi (!).»
 
 Alcune operaie:
 
@@ -422,7 +422,7 @@ Confrontare:
 
 e: …πρὸς ἄλλης ἱστὸν ὑφαίνοις,
  καί κεν ὕδωρ φορέοις Μεσσηίδος ἢ Ὑπερείης,
- πόλλ᾽ ἀεκαζομένη, κρατερὴ δ᾽ ἐπικείσετ᾽ ἀνάγκη[^3].
+ πόλλ᾽ ἀεκαζομένη, κρατερὴ δ᾽ ἐπικείσετ᾽ ἀνάγκη[^07-3].
 
 Il potere. Le sue specie, i suoi gradi, la profonda trasformazione che opera nelle anime. Capitano e marinaio (Peisson). Caporeparto (Mouquet) e operaio…
 
@@ -540,9 +540,9 @@ Questa unione è evidentemente la condizione di una felicità piena. Essa sola f
 
 ---
 
-[^2]: Vedi [pagina 38](https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/06#p38 "La Condition ouvrière/06").
+[^07-2]: Vedi [pagina 38](https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/06#p38 "La Condition ouvrière/06").
 
-[^3]: *Iliade*, VI, 456-458.
+[^07-3]: *Iliade*, VI, 456-458.
 
 … tesserai la tela per un’altra   
  E porterai l’acqua dalla Messeide o dall’Iperea,  

@@ -20,7 +20,7 @@ Signore,
 
 Non posso dire che la sua risposta mi abbia stupita. Ne speravo un’altra, ma senza contarci troppo.
 
-Non cercherò di difendere il testo[^2] che lei ha rifiutato. Se fosse cattolico, non resisterei alla tentazione di mostrarle che lo spirito che ispirava il mio articolo, e che l’ha urtata, non è altro che lo spirito cristiano puro e semplice; credo che non mi sarebbe difficile. Ma non ho motivo di usare con lei argomenti del genere. Del resto non voglio discutere. Lei è il capo e non deve rendere conto delle sue decisioni.
+Non cercherò di difendere il testo[^08-2] che lei ha rifiutato. Se fosse cattolico, non resisterei alla tentazione di mostrarle che lo spirito che ispirava il mio articolo, e che l’ha urtata, non è altro che lo spirito cristiano puro e semplice; credo che non mi sarebbe difficile. Ma non ho motivo di usare con lei argomenti del genere. Del resto non voglio discutere. Lei è il capo e non deve rendere conto delle sue decisioni.
 
 Voglio soltanto dirle che la «tendenza» che le è sembrata inammissibile era stata sviluppata da me di proposito e deliberatamente. Lei mi ha detto — ripeto i suoi stessi termini — che è molto difficile elevare gli operai. Il primo dei principi pedagogici è che, per elevare qualcuno, bambino o adulto, bisogna anzitutto elevarlo ai propri occhi. Questo è cento volte più vero quando il principale ostacolo allo sviluppo risiede in condizioni di vita umilianti.
 
@@ -40,7 +40,7 @@ La ringrazio di avermi inviato gli ultimi numeri del giornale.
 
 Mi asterrò dal venire a trovarla a R., per la ragione che le ho dato, se resta disposto a prendermi lì come operaia. Ma ho motivo di credere che le sue disposizioni nei miei confronti siano cambiate. Un progetto simile, per riuscire, esige un grado molto elevato di fiducia e di comprensione reciproca.
 
-Se non è più disposto ad assumermi, o se il sig. M\*\*\*[^3] si oppone, verrò certamente a R., come lei ha la bontà di permettermi, non appena ne troverò il tempo. La avvertirò in anticipo.
+Se non è più disposto ad assumermi, o se il sig. M\*\*\*[^08-3] si oppone, verrò certamente a R., come lei ha la bontà di permettermi, non appena ne troverò il tempo. La avvertirò in anticipo.
 
 Voglia ricevere, Signore, l’assicurazione dei miei distinti sentimenti.
 
@@ -48,7 +48,7 @@ S. Weil.
 
 <div id="p128" class="ancora-pagina"></div><!-- page: 128; scan: Page:Weil - La Condition ouvrière, 1951.djvu/140 -->
 
-### Un appello agli operai di R.[^4].
+### Un appello agli operai di R.[^08-4].
 
 Cari amici sconosciuti che faticate nelle officine di R., vengo a fare appello a voi. Vengo a chiedervi la vostra collaborazione a *Entre Nous*.
 
@@ -286,11 +286,11 @@ Esistono disuguaglianze naturali. A mio avviso, l’organizzazione sociale — p
 
 ## Sesta lettera {.sez-ed}
 
-Signore[^5],
+Signore[^08-5],
 
 Ho riflettuto ancora su ciò che mi ha detto. Ecco le mie conclusioni. Crederà che io abbia un carattere molto irresoluto, ma ho semplicemente una mente lenta. Mi scuso di non essere giunta subito a una decisione definitiva, come avrei dovuto.
 
-Ecco. Date le possibilità immediate e molto ampie di conoscere la sua fabbrica che lei è tanto gentile da accordarmi, non sarebbe ragionevole da parte mia sacrificarle a un progetto forse irrealizzabile. Perché potrei lavorare da lei in condizioni accettabili soltanto se ci fosse un posto libero e nessuna domanda di assunzione a R., cosa poco verosimile in un prossimo futuro. Altrimenti, anche se lei mi iscrivesse in una lista e mi assumesse quando venisse il mio turno, gli operai troverebbero anormale che io venissi assunta mentre vi fossero donne di R. che chiedono di esserlo; indovinerebbero che lei mi conosce; io non potrei fornire alcuna spiegazione chiara; e diventerebbe estremamente difficile stabilire rapporti di cameratismo fiducioso. Così, senza escludere completamente il mio progetto originario, che tuttavia si trova rinviato a un futuro indeterminato, accetto la sua proposta di dedicare una giornata alla fabbrica. Le proporrò una data più avanti. <a id="p150"></a><!-- page: 150; scan: Page:Weil - La Condition ouvrière, 1951.djvu/162 -->Quanto al signor M.[^6], lascio a lei decidere se sia meglio chiedergli subito di accordare o rifiutare un’autorizzazione di principio, facendogli nello stesso tempo osservare che il mio progetto è sottoposto a condizioni che ne rendono poco probabile l’esecuzione, in ogni caso a breve termine; oppure se sia meglio non dire nulla fino al giorno in cui si presentasse per me una possibilità concreta di lavorare da lei. Il vantaggio che avrei nel sapere subito come stanno le cose sarebbe che, se dice di no, nelle mie indagini a R. non sarei trattenuta da alcun secondo fine; nel caso contrario, cercherei per ogni evenienza di non farmi notare troppo durante le mie visite alla fabbrica. D’altra parte, forse non vale la pena di parlare di un progetto così vago. Faccia come preferisce. Ancora una volta, mi scuso di aver cambiato posizione come ho fatto.
+Ecco. Date le possibilità immediate e molto ampie di conoscere la sua fabbrica che lei è tanto gentile da accordarmi, non sarebbe ragionevole da parte mia sacrificarle a un progetto forse irrealizzabile. Perché potrei lavorare da lei in condizioni accettabili soltanto se ci fosse un posto libero e nessuna domanda di assunzione a R., cosa poco verosimile in un prossimo futuro. Altrimenti, anche se lei mi iscrivesse in una lista e mi assumesse quando venisse il mio turno, gli operai troverebbero anormale che io venissi assunta mentre vi fossero donne di R. che chiedono di esserlo; indovinerebbero che lei mi conosce; io non potrei fornire alcuna spiegazione chiara; e diventerebbe estremamente difficile stabilire rapporti di cameratismo fiducioso. Così, senza escludere completamente il mio progetto originario, che tuttavia si trova rinviato a un futuro indeterminato, accetto la sua proposta di dedicare una giornata alla fabbrica. Le proporrò una data più avanti. <a id="p150"></a><!-- page: 150; scan: Page:Weil - La Condition ouvrière, 1951.djvu/162 -->Quanto al signor M.[^08-6], lascio a lei decidere se sia meglio chiedergli subito di accordare o rifiutare un’autorizzazione di principio, facendogli nello stesso tempo osservare che il mio progetto è sottoposto a condizioni che ne rendono poco probabile l’esecuzione, in ogni caso a breve termine; oppure se sia meglio non dire nulla fino al giorno in cui si presentasse per me una possibilità concreta di lavorare da lei. Il vantaggio che avrei nel sapere subito come stanno le cose sarebbe che, se dice di no, nelle mie indagini a R. non sarei trattenuta da alcun secondo fine; nel caso contrario, cercherei per ogni evenienza di non farmi notare troppo durante le mie visite alla fabbrica. D’altra parte, forse non vale la pena di parlare di un progetto così vago. Faccia come preferisce. Ancora una volta, mi scuso di aver cambiato posizione come ho fatto.
 
 Mi permetta di ricordarle che le chiedo in ogni caso di non parlare al signor M. della mia esperienza nelle fabbriche parigine, né del resto a nessun altro.
 
@@ -316,7 +316,7 @@ S. Weil.
 
 ## Settima lettera {.sez-ed}
 
-Signore[^7],
+Signore[^08-7],
 
 Avrei voluto risponderle prima. Finora non ho avuto la possibilità di fissare una data. Le va bene che venga a trovarla giovedì 30 aprile, all’ora solita? Se sì, non occorre rispondere. La proposta che mi fa, di trascorrere un’intera giornata a R. per vedere tutto più da vicino, non poteva farmi più piacere; soltanto, penso che sia necessario un colloquio preliminare per fissare il programma. La ringrazio infinitamente di offrirmi così il modo di rendermi meglio conto delle cose. Non chiedo certo altro che mettere, in ogni campo, le mie idee alla prova del contatto con i fatti; e creda che la probità intellettuale è sempre ai miei occhi il primo dei doveri.
 
@@ -332,7 +332,7 @@ S. Weil.
 
 ## Ottava lettera {.sez-ed}
 
-Signore[^8],
+Signore[^08-8],
 
 Non mi è ancora possibile fissarle una data. Ma, nel frattempo, sono stata così toccata dalla generosità che dimostra nei miei confronti — ricevendomi, rispondendo alle mie domande, aprendomi le porte della sua fabbrica — che ho deciso di scriverle del materiale da pubblicare, <a id="p154"></a><!-- page: 154; scan: Page:Weil - La Condition ouvrière, 1951.djvu/166 -->in modo da farle recuperare almeno una parte del tempo che le costo.
 
@@ -358,7 +358,7 @@ Spero che riuscirà a fare in modo di pubblicare questo scritto tutto in una vol
 
 <div id="p155" class="ancora-pagina"></div><!-- page: 155; scan: Page:Weil - La Condition ouvrière, 1951.djvu/167 -->
 
-### Frammento di lettera[^9].
+### Frammento di lettera[^08-9].
 
 Signore,
 
@@ -376,7 +376,7 @@ Lei non mi ha capita per quanto riguarda i licenziamenti. Non è l’arbitrio in
 
 ## Decima lettera {.sez-ed}
 
-Signore[^10],
+Signore[^08-10],
 
 Ho aspettato di giorno in giorno, prima di scriverle, di poterle fissare una data. Finora non mi è stato possibile farlo, perché in tutto questo periodo non sono stata affatto bene. Ora, trascorrere un’intera giornata a visitare una fabbrica è faticoso; e può essere proficuo soltanto se si è capaci di conservare fino a sera lucidità e presenza di spirito.
 
@@ -432,7 +432,7 @@ Signorina,
 
 ## Dodicesima lettera {.sez-ed}
 
-Signore[^11],
+Signore[^08-11],
 
 Lei mi scrive esattamente come se fossi mancata di eleganza morale al punto da trionfare su vinti e oppressi. Naturalmente, se lei fosse in prigione, o sul lastrico, o in esilio, o in una situazione simile, mi asterrei dall’esprimere gioia al riguardo o persino dal provarne. Ma, fino a nuovo avviso, lei è direttore a R., non è vero? Gli operai continuano a lavorare ai suoi ordini? Anche con i nuovi salari, continua a guadagnare un po’ più di un formatore, immagino? In ultima analisi, nulla di essenziale è cambiato. Quanto all’avvenire, nessuno sa che cosa porterà, né se l’attuale vittoria operaia avrà costituito, in fin dei conti, una tappa verso un regime totalitario comunista, oppure verso un regime totalitario fascista, oppure ancora (ciò che spero, ahimè, senza crederci) verso un regime non totalitario.
 
@@ -450,22 +450,22 @@ Spero, d’altra parte, che nessun cambiamento nei suoi sentimenti nei miei conf
 
 ---
 
-[^2]: Si veda il testo che segue la lettera.
+[^08-2]: Si veda il testo che segue la lettera.
 
-[^3]: Il proprietario della fabbrica.
+[^08-3]: Il proprietario della fabbrica.
 
-[^4]: Si veda la lettera precedente.
+[^08-4]: Si veda la lettera precedente.
 
-[^5]: Non datata (aprile 1936?).
+[^08-5]: Non datata (aprile 1936?).
 
-[^6]: Proprietario della fabbrica.
+[^08-6]: Proprietario della fabbrica.
 
-[^7]: Non datata (aprile 1936?).
+[^08-7]: Non datata (aprile 1936?).
 
-[^8]: Non datata (aprile-maggio 1936?).
+[^08-8]: Non datata (aprile-maggio 1936?).
 
-[^9]: Non datato (aprile-maggio 1936?).
+[^08-9]: Non datato (aprile-maggio 1936?).
 
-[^10]: Non datata (aprile-maggio 1936). Vedi note pp. 152, 153, 155.
+[^08-10]: Non datata (aprile-maggio 1936). Vedi note pp. 152, 153, 155.
 
-[^11]: Non datata, giugno 1936.
+[^08-11]: Non datata, giugno 1936.

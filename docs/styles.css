@@ -5,14 +5,15 @@
 
 :root {
   --co-tenue: #6d6a66;
-  --co-filetto: #d8d4cd;
+  --co-filetto: #e8e4dd;
   --co-fondo-tenue: #f5f3ef;
-  --co-fondo-menu: #efedea;
+  --co-fondo-menu: #efefff;
 }
 
 /* ---- corpo del testo ---------------------------------------------------- */
 
 #quarto-document-content p {
+  font-size: 1.1rem;
   line-height: 1.7;
   text-align: justify;
   hyphens: auto;

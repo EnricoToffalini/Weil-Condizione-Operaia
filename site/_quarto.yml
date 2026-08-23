@@ -92,7 +92,7 @@ format:
       - footskip=32pt
     # Corpo del testo: mezzo punto in più del precedente 10.5pt, ancora
     # compatibile con la compattezza della pagina A5.
-    fontsize: 11pt
+    fontsize: 11.5pt
     linestretch: 1.06
     indent: true
     toc: true
