@@ -299,6 +299,14 @@ h2.sez-ed {
     border-radius: 6px;
     background: var(--co-fondo-menu);
     box-shadow: 0 1px 4px rgb(0 0 0 / 8%);
+    transition: transform 0.22s ease, opacity 0.18s ease;
+    will-change: transform;
+  }
+
+  .co-mobile-toc-bar.co-mobile-toc-hidden {
+    transform: translateY(calc(-100% - 4rem));
+    opacity: 0;
+    pointer-events: none;
   }
 
   .co-mobile-toc-toggle {
@@ -348,6 +356,12 @@ h2.sez-ed {
 
   #TOC-mobile .nav-link {
     padding: 0.15rem 0;
+  }
+}
+
+@media (max-width: 991.98px) and (prefers-reduced-motion: reduce) {
+  .co-mobile-toc-bar {
+    transition: none;
   }
 }
 

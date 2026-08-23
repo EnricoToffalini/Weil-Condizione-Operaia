@@ -283,6 +283,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const setTocOpen = (open) => {
       panel.hidden = !open;
       toggle.setAttribute("aria-expanded", String(open));
+      if (open) bar.classList.remove("co-mobile-toc-hidden");
     };
     toggle.addEventListener("click", () => {
       setTocOpen(toggle.getAttribute("aria-expanded") !== "true");
@@ -296,6 +297,31 @@ document.addEventListener("DOMContentLoaded", () => {
     mobileToc.append(bar);
     const titleBlock = main.querySelector("#title-block-header");
     (titleBlock ?? main).insertAdjacentElement(titleBlock ? "beforebegin" : "afterbegin", mobileToc);
+
+    // Come la barra principale di Quarto: scompare scorrendo verso il basso
+    // e riappare verso l'alto. Se il menu e' aperto resta sempre visibile.
+    const mobileViewport = window.matchMedia("(max-width: 991.98px)");
+    let lastTocScrollY = Math.max(0, window.scrollY);
+    let tocScrollFrame = false;
+    window.addEventListener("scroll", () => {
+      if (tocScrollFrame || !mobileViewport.matches) return;
+      tocScrollFrame = true;
+      window.requestAnimationFrame(() => {
+        const currentY = Math.max(0, window.scrollY);
+        const movement = currentY - lastTocScrollY;
+
+        if (!panel.hidden || currentY < 24) {
+          bar.classList.remove("co-mobile-toc-hidden");
+        } else if (movement > 8) {
+          bar.classList.add("co-mobile-toc-hidden");
+        } else if (movement < -8) {
+          bar.classList.remove("co-mobile-toc-hidden");
+        }
+
+        if (Math.abs(movement) > 8 || currentY < 24) lastTocScrollY = currentY;
+        tocScrollFrame = false;
+      });
+    }, { passive: true });
   }
 
   // Sul telefono le tabelle molto larghe restano disponibili, ma non
