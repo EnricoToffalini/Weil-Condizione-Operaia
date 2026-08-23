@@ -367,6 +367,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const mobileToc = document.createElement("div");
     mobileToc.id = "co-mobile-toc";
 
+    const bar = document.createElement("div");
+    bar.className = "co-mobile-toc-bar";
+
     const toggle = document.createElement("button");
     toggle.type = "button";
     toggle.className = "co-mobile-toc-toggle";
@@ -400,9 +403,10 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     panel.append(nav);
-    mobileToc.append(toggle, panel);
+    bar.append(toggle, panel);
+    mobileToc.append(bar);
     const titleBlock = main.querySelector("#title-block-header");
-    (titleBlock ?? main).insertAdjacentElement(titleBlock ? "afterend" : "afterbegin", mobileToc);
+    (titleBlock ?? main).insertAdjacentElement(titleBlock ? "beforebegin" : "afterbegin", mobileToc);
   }
 
   // Sul telefono le tabelle molto larghe restano disponibili, ma non

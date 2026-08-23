@@ -231,6 +231,10 @@ h2.sez-ed {
 /* ---- schermi piccoli ---------------------------------------------------- */
 
 @media (max-width: 991.98px) {
+  html {
+    scroll-padding-top: 7rem;
+  }
+
   /* Nella barra mobile il nome di un capitolo lungo deve lasciare spazio ai
      pulsanti laterali, senza invaderli. */
   .quarto-secondary-nav .container-fluid,
@@ -277,15 +281,23 @@ h2.sez-ed {
   /* Indice interno sempre raggiungibile durante la lettura. */
   #co-mobile-toc {
     display: block;
-    position: sticky;
-    top: 3.45rem;
-    z-index: 5;
-    max-height: min(65vh, 32rem);
+    position: relative;
+    min-height: 2.75rem;
     margin: 0.5rem 0 1.5rem;
+  }
+
+  .co-mobile-toc-bar {
+    position: fixed;
+    top: 3.45rem;
+    left: 1rem;
+    right: 1rem;
+    z-index: 1025;
+    width: auto;
+    max-width: 760px;
+    margin-inline: auto;
     border: 1px solid #d8d7ee;
     border-radius: 6px;
     background: var(--co-fondo-menu);
-    overflow-y: auto;
     box-shadow: 0 1px 4px rgb(0 0 0 / 8%);
   }
 
@@ -316,6 +328,14 @@ h2.sez-ed {
     display: none !important;
   }
 
+  #co-mobile-toc-panel {
+    max-height: min(60vh, 28rem);
+    max-height: min(60dvh, 28rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+
   #TOC-mobile {
     display: block !important;
     padding: 0 0.9rem 0.9rem;
@@ -332,6 +352,11 @@ h2.sez-ed {
 }
 
 @media (max-width: 575.98px) {
+  .co-mobile-toc-bar {
+    left: 0.5rem;
+    right: 0.5rem;
+  }
+
   #quarto-document-content p {
     font-size: 1.03rem;
     line-height: 1.62;
