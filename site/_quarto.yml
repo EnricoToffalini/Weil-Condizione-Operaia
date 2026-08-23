@@ -78,15 +78,21 @@ format:
     documentclass: scrbook
     classoption: [oneside]
     papersize: a5
+    # Margini un po' più larghi del minimo: in A5 la giustezza resta piena
+    # ma il testo non arriva a ridosso del taglio. `footskip` è la distanza
+    # fra il fondo dello specchio e la riga del numero di pagina: tenendola
+    # sotto al margine inferiore, il numero resta staccato dal fondo foglio
+    # (con il valore calcolato da geometry ci finiva quasi a contatto).
     geometry:
       - a5paper
-      - inner=16mm
-      - outer=14mm
-      - top=16mm
-      - bottom=18mm
-    # Un mezzo punto in più rispetto al corpo precedente, mantenendo la
-    # compattezza necessaria alla pagina A5.
-    fontsize: 10.5pt
+      - inner=18mm
+      - outer=16mm
+      - top=18mm
+      - bottom=22mm
+      - footskip=32pt
+    # Corpo del testo: mezzo punto in più del precedente 10.5pt, ancora
+    # compatibile con la compattezza della pagina A5.
+    fontsize: 11pt
     linestretch: 1.06
     indent: true
     toc: true
@@ -120,3 +126,8 @@ format:
         % margine: meglio qualche riga con gli spazi un po' larghi.
         \setlength{\emergencystretch}{3em}
         \sloppy
+        % Le voci dell'indice sono sedici e parecchie vanno a capo: con lo
+        % stacco predefinito di scrbook (1em fra un capitolo e l'altro)
+        % l'ultima riga sconfinava nella pagina seguente. Comprimendo solo
+        % lo spazio fra le voci l'indice torna in una pagina sola.
+        \DeclareTOCStyleEntry[beforeskip=.2em]{chapter}{chapter}
