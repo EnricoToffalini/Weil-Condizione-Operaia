@@ -1,0 +1,175 @@
+---
+id: co-1951-11
+title_it: Lettere ad Auguste Detœuf (1936-1937)
+author: Simone Weil
+source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/11
+wikisource_page: La Condition ouvrière/11
+revision_id: 12780025
+revision_timestamp: '2022-10-24T19:55:44Z'
+---
+
+<a id="p181"></a><!-- page: 181; scan: Page:Weil - La Condition ouvrière, 1951.djvu/193 -->
+
+# LETTERE AD AUGUSTE DETŒUF (1936-1937)
+
+Caro Signore,
+
+Mi rimprovero molto di non riuscire a farmi comprendere pienamente da lei, perché è certamente colpa mia. Se il mio progetto dovrà realizzarsi un giorno — il progetto di entrare da lei come operaia per un periodo indeterminato, al fine di collaborare con lei, da quella posizione, a tentativi di riforma — bisognerà che prima si sia stabilita una piena comprensione.
+
+Mi ha colpita ciò che mi ha detto l’altro giorno, che la dignità è qualcosa di interiore che non dipende dai gesti esteriori. È del tutto vero che si possono sopportare in silenzio e senza reagire molte ingiustizie, oltraggi, ordini arbitrari senza che la dignità scompaia, anzi. Basta avere l’animo forte. Cosicché, se le dico, per esempio, che il primo urto di questa vita da operaia ha fatto di me per un certo tempo una specie di bestia da soma, che ho ritrovato a poco a poco il sentimento della mia dignità soltanto al prezzo di sforzi quotidiani e di sofferenze morali estenuanti, lei ha il diritto di concludere che sono io a mancare di fermezza. D’altra parte, se tacessi — cosa che preferirei di gran lunga — a che cosa sarebbe servito aver fatto questa esperienza?
+
+Allo stesso modo non potrò farmi comprendere finché lei mi attribuirà, come evidentemente fa, una certa ripugnanza sia nei confronti del lavoro manuale in sé, sia nei confronti della disciplina e dell’obbedienza in sé. Ho sempre avuto, al contrario, una viva inclinazione per il lavoro manuale (benché non sia dotata in questo senso, è vero), e in particolare per i lavori più faticosi. Molto prima di lavorare in fabbrica avevo imparato a conoscere il lavoro dei campi: fienagione — mietitura — trebbiatura — raccolta delle <a id="p182"></a><!-- page: 182; scan: Page:Weil - La Condition ouvrière, 1951.djvu/194 -->patate (dalle 7 del mattino alle 10 di sera…), e nonostante fatiche schiaccianti vi avevo trovato gioie pure e profonde. Creda anche che sono capace di sottomettermi con gioia e con la massima buona volontà a ogni disciplina necessaria all’efficacia del lavoro, purché sia una disciplina umana.
+
+Chiamo umana ogni disciplina che faccia appello in larga misura alla buona volontà, all’energia e all’intelligenza di chi obbedisce. Sono entrata in fabbrica con una buona volontà ridicola, e mi sono accorta abbastanza presto che nulla era più fuori luogo. In me si faceva appello soltanto a ciò che si poteva ottenere con la costrizione più brutale.
+
+L’obbedienza così come l’ho praticata si definisce per i caratteri seguenti. Anzitutto riduce il tempo alla dimensione di pochi secondi. Ciò che definisce in ogni essere umano il rapporto tra il corpo e lo spirito, cioè che il corpo vive nell’istante presente, mentre lo spirito domina, percorre e orienta il tempo, è proprio ciò che in quel periodo definiva il rapporto tra me e i miei capi. Dovevo limitare costantemente la mia attenzione al gesto che stavo compiendo. Non dovevo coordinarlo con altri, ma soltanto ripeterlo fino al minuto in cui un ordine me ne avrebbe imposto un altro. È un fatto ben noto che, quando il sentimento del tempo si limita all’attesa di un avvenire sul quale non si può nulla, il coraggio viene meno. In secondo luogo, l’obbedienza impegna l’essere umano intero; nella sua sfera un ordine orienta l’attività, per me un ordine poteva sconvolgere da cima a fondo il corpo e l’anima, perché ero — come parecchie altre — quasi continuamente al limite delle mie forze. Un ordine poteva cadermi addosso in un momento di sfinimento e costringermi a forzare — a forzare fino alla disperazione. Un capo può imporre metodi di lavoro, oppure utensili difettosi, oppure una cadenza, che per l’eccesso della fatica tolgono ogni interesse alle ore trascorse fuori dalla fabbrica. Anche lievi differenze di salario possono, in certe situazioni, incidere sulla vita stessa. In queste condizioni si dipende talmente dai capi che non si può fare a meno di temerli e — ancora una confessione penosa — occorre uno sforzo perpetuo per non cadere nella servilità. In terzo luogo, questa disciplina, quanto ai moventi, fa appello soltanto all’interesse nella sua forma più <a id="p183"></a><!-- page: 183; scan: Page:Weil - La Condition ouvrière, 1951.djvu/195 -->meschina — alla scala dei soldi — e alla paura. Se si accorda dentro di sé un posto importante a questi moventi, ci si avvilisce. Se li si sopprime, se ci si rende indifferenti ai soldi e alle lavate di capo, ci si rende nello stesso tempo incapaci di obbedire con la completa passività richiesta e di ripetere i gesti del lavoro alla cadenza imposta; incapacità prontamente punita dalla fame. Ho pensato talvolta che sarebbe meglio essere piegati a una simile obbedienza dall’esterno, per esempio a colpi di frusta, piuttosto che dovervisi piegare da sé, reprimendo ciò che si ha di migliore dentro di sé.
+
+In questa situazione, la grandezza d’animo che permette di disprezzare le ingiustizie e le umiliazioni è quasi impossibile da esercitare. Al contrario, molte cose in apparenza insignificanti — la timbratura, la necessità di presentare una carta d’identità all’ingresso della fabbrica (alla Renault), il modo in cui viene effettuata la paga, lievi rimproveri — umiliano profondamente, perché ricordano e rendono sensibile la situazione in cui ci si trova. Lo stesso vale per le privazioni e per la fame.
+
+L’unica risorsa per non soffrire è sprofondare nell’incoscienza. È una tentazione alla quale molti soccombono, in una forma o nell’altra, e alla quale io stessa ho spesso ceduto. Conservare la lucidità, la coscienza, la dignità che si addicono a un essere umano è possibile, ma significa condannarsi a dover superare quotidianamente la disperazione. Almeno, questo è ciò che ho provato.
+
+Il movimento attuale ha alla base la disperazione. Per questo non può essere ragionevole. Nonostante le sue buone intenzioni, lei non ha tentato finora nulla per liberare da questa disperazione coloro che le sono subordinati; perciò non spetta a lei biasimare ciò che vi è d’irragionevole in questo movimento. È per questo che, l’altro giorno, mi sono un po’ scaldata nella discussione — cosa di cui poi mi sono pentita — benché sia del tutto d’accordo con lei sulla gravità dei pericoli da temere. Anche per me, in fondo, è la disperazione a farmi provare una gioia senza mescolanza nel vedere finalmente i miei compagni rialzare una buona volta la testa, senza alcuna considerazione per le possibili conseguenze.
+
+Tuttavia credo che, se le cose andranno bene, cioè se gli operai riprenderanno il lavoro entro un termine abbastanza breve e con il sentimento di aver riportato una vittoria, tra qualche tempo la situazione sarà favorevole per tentare delle riforme nelle sue fabbriche. Bisognerà anzitutto <a id="p184"></a><!-- page: 184; scan: Page:Weil - La Condition ouvrière, 1951.djvu/196 -->lasciare loro il tempo di perdere il sentimento della loro forza passeggera, di perdere l’idea che li si possa temere, di riprendere l’abitudine alla sottomissione e al silenzio. Dopo di che lei potrà forse stabilire direttamente tra loro e lei quei rapporti di fiducia indispensabili a ogni azione, facendo loro sentire che li comprende — se tuttavia io riuscirò a farglieli comprendere, il che presuppone evidentemente, anzitutto, che non mi sbagli credendo di averli compresi io stessa.
+
+Per quanto riguarda la situazione attuale, se gli operai riprendono il lavoro con salari di poco superiori a quelli che avevano, ciò può avvenire soltanto in due modi. O avranno il sentimento di cedere alla forza e si rimetteranno al lavoro con umiliazione e disperazione. Oppure saranno accordate loro compensazioni morali, e ce n’è una sola possibile: la facoltà di controllare che i bassi salari derivino da una necessità e non dalla cattiva volontà del padrone. È quasi impossibile, lo so bene. In ogni caso i padroni, se fossero saggi, dovrebbero fare di tutto perché le soddisfazioni che concederanno diano agli operai l’impressione di una vittoria. Nel loro attuale stato d’animo, non sopporterebbero il sentimento della sconfitta.
+
+Tornerò probabilmente a Parigi mercoledì sera. Passerei volentieri da lei giovedì o venerdì mattina prima delle 9, purché non la disturbi e le sembri utile che parliamo. Mi conosco; so che, una volta passata questa fase di effervescenza, non oserò più venire così da lei, per paura di importunarla, e, da parte sua, lei sarà forse di nuovo trascinato dal corso delle occupazioni quotidiane a rinviare certi problemi.
+
+Se rischio di disturbarla anche minimamente, non avrà che da farmelo sapere, oppure semplicemente non ricevermi. So benissimo che ha ben altro da fare che conversare.
+
+Creda a tutta la mia simpatia
+
+S. Weil.
+
+*P.-S.* — Ha visto *Tempi moderni*[^1], suppongo? La macchina per mangiare: ecco il simbolo più bello e più vero della situazione degli operai nella fabbrica. <a id="p185"></a><!-- page: 185; scan: Page:Weil - La Condition ouvrière, 1951.djvu/197 -->
+
+*Venerdì.*
+
+Caro Signore,
+
+Questa mattina sono riuscita a entrare di frodo alla Renault, nonostante la severità del servizio d’ordine. Ho pensato che potesse essere utile comunicarle le mie impressioni.
+
+1<sup style="font-size:70%">o</sup> *Gli operai non sanno nulla delle trattative.* — Non li si mette al corrente di nulla. Credono che la Renault rifiuti di accettare il contratto collettivo. Un’operaia mi ha detto: pare che per i salari sia sistemato, ma lui non vuole ammettere un contratto collettivo. Un operaio mi ha detto: per noi credo che si sarebbe sistemato 3 giorni fa, ma siccome quelli della sorveglianza ci hanno sostenuti, adesso li sosteniamo noi. Ecc. — Trovano, ahimè, naturale non sapere nulla. Ci sono talmente abituati…
+
+2<sup style="font-size:70%">o</sup> Si comincia chiaramente ad averne abbastanza. Alcuni, benché combattivi, lo ammettono apertamente.
+
+3<sup style="font-size:70%">o</sup> Regna un’atmosfera straordinaria di diffidenza, di sospetto. Un cerimoniale singolare: quelli che escono e non rientrano, che si assentano senza autorizzazione, vengono votati all’infamia scrivendo i loro nomi su una lavagna in un reparto (usanza russa), impiccandoli in effigie e organizzando in loro onore un funerale burlesco. Quasi certamente, alla ripresa del lavoro, si esigerà il loro licenziamento. Peraltro, poca solidarietà nell’atmosfera. Silenzio generale.
+
+4<sup style="font-size:70%">o</sup> 3 giorni fa (credo) è stato costituito un sindacato «professionale» dei quadri intermedi (a partire dai regolatori compresi!), su iniziativa delle Croix de Feu, a quanto si dice. Gli operai dicono che è stato sciolto già il giorno dopo e che il 97% dei quadri intermedi e dei tecnici ha aderito alla C. G. T.
+
+Soltanto la cassa assicurativa della Renault — che occupa un locale della Renault e fa parte dell’impresa — è in sciopero, ma senza bandiere alla porta, ed espone due copie di un foglio che smentisce lo scioglimento del sindacato, annuncia che esso conta 3.500 iscritti, che ne sono stati costituiti altri simili alla Citroën, alla Fiat, ecc., e che si metterà immediatamente a reclutare tra gli operai. Questo a pochi metri dagli edifici sui quali sventolano le bandiere rosse. Nessuno sembra preoccuparsi di strappare questi fogli o anche soltanto di smentirli. <a id="p186"></a><!-- page: 186; scan: Page:Weil - La Condition ouvrière, 1951.djvu/198 -->
+
+Conclusione: è ormai certo che c’è una manovra. Ma di chi? Maurice Thorez ha tenuto un discorso che invitava chiaramente a porre fine allo sciopero.
+
+Arrivo a chiedermi se i quadri subalterni del partito comunista non siano sfuggiti alla direzione del partito per cadere nelle mani di non si sa chi. Perché è abbastanza chiaro che tutto si fa ancora in nome del partito comunista (*Internazionale*, striscioni, falci e martelli, ecc., in abbondanza), benché corra voce che Costes sia stato accolto male.
+
+Resto sempre della mia idea, forse utopistica, ma, mi sembra, l’unica via d’uscita diversa dallo Stato totalitario. Se la classe operaia impone così brutalmente la propria forza, bisogna che assuma responsabilità corrispondenti. È inammissibile e, in ultima analisi, impossibile che una categoria sociale irresponsabile imponga con la forza i propri desideri e che i dirigenti, soli responsabili, siano costretti a cedere. Occorre o una certa condivisione delle responsabilità, oppure un brutale ristabilimento della gerarchia, che, comunque avvenisse, difficilmente potrebbe compiersi senza spargimento di sangue.
+
+Immagino benissimo un capo d’impresa dire in sostanza ai propri operai, una volta ripreso il lavoro (se le cose si sistemano alla meglio, provvisoriamente): per opera vostra si entra in una nuova era. Avete voluto porre fine alle sofferenze che da anni vi imponevano le necessità della produzione industriale. Avete voluto manifestare la vostra forza. Benissimo. Ma ne risulta una situazione senza precedenti, che esige nuove forme di organizzazione. Poiché intendete far pesare sulle imprese industriali la forza delle vostre rivendicazioni, dovete essere in grado di far fronte alle responsabilità delle nuove condizioni che avete suscitato. Desideriamo facilitare l’adattamento dell’impresa a questo nuovo rapporto di forze. A tale scopo favoriremo l’organizzazione, nella fabbrica, di circoli di studio tecnici, economici e sociali. Metteremo a disposizione dei locali per questi circoli, li autorizzeremo a invitare, per delle conferenze, da un lato i tecnici della fabbrica, dall’altro tecnici ed economisti appartenenti alle organizzazioni sindacali; organizzeremo per loro visite alla fabbrica con spiegazioni tecniche, favoriremo la creazione di bollettini divulgativi; tutto ciò per permettere agli operai, e più particolarmente ai delegati operai, <a id="p187"></a><!-- page: 187; scan: Page:Weil - La Condition ouvrière, 1951.djvu/199 -->di comprendere che cosa siano l’organizzazione e la gestione di un’impresa industriale.
+
+È un’idea ardita, senza dubbio, e forse pericolosa. Ma che cosa non è pericoloso in questo momento? Lo slancio che anima gli operai la renderebbe forse praticabile. In ogni caso, le chiedo insistentemente di prenderla in considerazione.
+
+Concepisco così la questione dell’autorità, sul piano della pura teoria: da una parte i capi devono comandare, certo, e i subordinati obbedire; dall’altra i subordinati non devono sentirsi consegnati anima e corpo a una dominazione arbitraria e, a questo scopo, devono non certo collaborare all’elaborazione degli ordini, ma poter rendersi conto in quale misura gli ordini corrispondano a una necessità.
+
+Ma tutto questo riguarda il futuro. La situazione presente si riassume così:
+
+1<sup style="font-size:70%">o</sup> I padroni hanno accordato concessioni incontestabilmente soddisfacenti, tanto più che i suoi operai si sono accontentati di meno.
+
+2<sup style="font-size:70%">o</sup> Il partito comunista ha preso ufficialmente posizione (benché con delle perifrasi) per la ripresa del lavoro, e d’altra parte so da fonte sicura che in alcuni sindacati i militanti comunisti hanno effettivamente lavorato per impedire lo sciopero (servizi pubblici).
+
+3<sup style="font-size:70%">o</sup> Gli operai della Renault, e senza dubbio quelli delle altre fabbriche, ignorano tutto delle trattative in corso; non sono dunque loro ad agire per impedire l’accordo.
+
+Ho scritto a Roy (che oggi è assente da Parigi) per dargli queste informazioni, e le ho anche trasmesse a un militante responsabile dell’Unione dei sindacati della Senna, un compagno serio che ha accordato loro la dovuta attenzione.
+
+Tutto ciò che le dico riguarda la situazione presente; perché il rifiuto dell’accordo concluso tra i padroni e la C. G. T. (dal 15 al 7%) sembra invece essere stato del tutto spontaneo.
+
+Con viva simpatia
+
+S. Weil.
+
+Tornerò probabilmente a Parigi domani sera per 24 ore. È estremamente penoso e angosciante dover restare in provincia in una situazione simile. <a id="p188"></a><!-- page: 188; scan: Page:Weil - La Condition ouvrière, 1951.djvu/200 -->
+
+#### *a)* Lettera di Simone Weil[^2].
+
+Caro amico,
+
+In treno ho sentito conversare due padroni, padroni di media impresa a quanto pare (viaggiavano in seconda, nastrino rosso), l’uno, sembrava, di provincia, e l’altro che faceva la spola tra la provincia e la regione parigina, il primo nel tessile, il secondo nel tessile e nella metallurgia; capelli bianchi, un po’ corpulenti, aria molto rispettabile; il secondo con un certo ruolo nel sindacalismo padronale della metallurgia parigina. I loro discorsi mi sono sembrati così notevoli che li ho annotati appena arrivata a casa. Glieli trascrivo (mescolandovi qualche commento).
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+«Ecco che si torna a parlare del controllo delle assunzioni e dei licenziamenti. Nelle miniere mettono delle commissioni paritetiche, sì, con i rappresentanti operai accanto al padrone. Si rende conto? Non si potrà più assumere e licenziare chi si vuole? — Oh! È incontestabilmente una violazione della libertà. — È la fine di tutto! — Sì, ha ragione; come diceva poco fa, fanno talmente bene che siamo completamente disgustati, *così disgustati che non* *prendiamo più ordinazioni, anche se ne abbiamo.* — Esattamente. — Noi abbiamo votato quasi all’unanimità una risoluzione per dire che non vogliamo il controllo, che piuttosto chiuderemmo le fabbriche. Se facessero altrettanto dappertutto, dovrebbero cedere. — Oh! Se la legge passasse, non resterebbe che chiuderle tutte. — Sì, insomma, non abbiamo più nulla da perdere…»
+
+Parentesi: è strano che uomini ben nutriti, ben vestiti, ben riscaldati, che viaggiano comodamente in seconda, credano di non avere nulla da perdere. Se la loro tattica, che era quella dei padroni russi nel 1917, provocasse uno sconvolgimento sociale che li cacciasse, erranti, senza risorse, senza passaporto, senza tessera di lavoro, in un paese straniero, allora si accorgerebbero di avere molto da perdere. Già ora potrebbero informarsi presso quelli che, avendo occupato in Russia posizioni equivalenti alle loro, ancora oggi faticano miseramente come manovali alla Renault. <a id="p189"></a><!-- page: 189; scan: Page:Weil - La Condition ouvrière, 1951.djvu/201 -->
+
+«…Sì, insomma, non abbiamo più nulla da perdere! Nulla. E poi, in fin dei conti, saremmo come un capitano di nave che non ha più nulla da dire, che non può far altro che chiudersi nella propria cabina mentre l’equipaggio sta sul ponte di comando.»
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+«… Il padrone è l’essere più detestato. Detestato da tutti. Eppure è lui che fa vivere tutti. Com’è strana questa ingiustizia. Sì, detestato da tutti. — Una volta, almeno, c’erano dei riguardi. Ricordo, da giovane… — È finita, quella storia. — Sì, anche là dove la sorveglianza è buona… — Oh! Quei bastardi hanno fatto tutto quello che serviva per portarci a questo punto. *Ma la pagheranno.*»
+
+Quest’ultima frase pronunciata con un tono di odio concentrato. Senza voler essere allarmista, bisogna riconoscere che conversazioni simili possono aver luogo soltanto in un’atmosfera che non è quella della pace civile.
+
+«…Non ce ne si rende affatto conto, ma il fiume della vita sociale deriva dalla cassa dei padroni. Se chiudessero tutti nello stesso momento, chi potrebbe fare che cosa? Saremo costretti ad arrivare a questo, allora la gente capirà. I padroni hanno sbagliato ad avere paura. Dovevano soltanto dire: le leve di comando le abbiamo noi. E avrebbero imposto la loro volontà.»
+
+Li si sarebbe molto stupiti dicendo loro che il loro piano non è altro che l’equivalente padronale dello sciopero generale, nei confronti del quale, senza dubbio, non hanno parole sufficienti per esprimere la loro riprovazione. Se i padroni possono legittimamente fare un simile sciopero per avere il diritto di assumere o licenziare chi pare loro, perché gli operai non potrebbero fare lo sciopero generale per avere il diritto di non essere rifiutati o licenziati per capriccio? Loro, nei cupi anni 1934-35, non avevano davvero più molto da perdere.
+
+D’altra parte, questi due bravi signori non sembrano neppure immaginare che, se i padroni chiudessero tutti insieme, le fabbriche verrebbero riaperte senza chiedere loro la chiave e fatte funzionare senza di loro. L’esempio della Russia induce a pensare che gli anni successivi non sarebbero piacevoli per nessuno; ma soprattutto non lo sarebbero per loro.
+
+«… Sì, dopotutto, non abbiamo più nulla da perdere. — Oh! No, proprio nulla; tanto vale crepare. — Sì, se bisogna crepare, in ogni caso è meglio crepare in bellezza. — Ho proprio <a id="p190"></a><!-- page: 190; scan: Page:Weil - La Condition ouvrière, 1951.djvu/202 -->l’impressione che questa sarà ormai la battaglia della Marna dei padroni. Sono completamente alle strette, e adesso…»
+
+Qui la fermata del treno ha posto fine alla conversazione. Anche l’evocazione della battaglia della Marna fa pensare più alla guerra civile che a semplici conflitti sociali. Questi ricordi militari, queste espressioni «crepare» e «non abbiamo più nulla da perdere», ripetute a sazietà, suonavano in modo piuttosto comico in bocca a quei signori corretti, panciuti, ben nutriti, che avevano al massimo grado quell’aspetto confortevole, pacifico e rassicurante tipico del francese medio.
+
+Non è che una conversazione particolare. Ma penso che una conversazione, in un luogo quasi pubblico, tra due persone — ed era evidentemente questo il caso — la cui qualità principale non è l’originalità, non possa aver luogo se non quando un’atmosfera abbastanza generale la rende possibile; cosicché una sola conversazione è probante. Questa, credo, merita di essere aggiunta al dossier che si potrebbe costituire in seguito all’articolo di Detœuf: *Sabotaggio padronale e sabotaggio operaio*. Avevo dato ragione, in linea di massima, a Detœuf; credo ancora che avesse ragione, ma più per un periodo ormai trascorso che per il momento presente. O piuttosto, per non esagerare, penso che la situazione si sviluppi in modo da dargli ogni giorno un po’ meno ragione. In ogni caso, ciò che bisogna constatare è che circolano idee di sabotaggio; che in alcuni il disgusto ha provocato l’equivalente padronale di uno sciopero a rilento. Almeno, questo è ciò che ho sentito affermare in termini espliciti; le garantisco l’esattezza delle frasi che le riferisco.
+
+Può pubblicare questa lettera nei *Nouveaux Cahiers*. (È proprio per questo che gliela scrivo.)
+
+Molto cordialmente.
+
+S. Weil.
+
+*P.-S.* — Ecco l’aspetto più paradossale della situazione presente. I padroni, poiché *credono* di non avere più nulla da perdere, assumono il vocabolario e l’atteggiamento rivoluzionario. Gli operai, poiché *credono* di avere qualcosa di abbastanza importante da perdere, assumono il vocabolario e l’atteggiamento conservatore.
+
+---
+
+<a id="p191"></a><!-- page: 191; scan: Page:Weil - La Condition ouvrière, 1951.djvu/203 -->
+
+#### *b)* Risposta di A. Detœuf.
+
+Mia cara amica,
+
+La conversazione che riferisce è tra le più interessanti; senza generalizzare fino al punto in cui lo fa lei, credo che rifletta uno stato d’animo molto frequente. Ma non mi ispira le stesse riflessioni che ispira a lei. Lei ragiona con la sua anima, che per tenerezza e spirito di giustizia si identifica con l’anima operaia, mentre si tratta di comprendere dei padroni, che forse sono ex operai, ma che certamente da molto tempo sono padroni.
+
+Vuole che lasciamo da parte ciò che vi è di un po’ grottesco, e anche di un po’ odioso, nel fatto di essere panciuti, ben nutriti? È una disgrazia che i due industriali che lei ha incontrato e io stesso condividiamo con rappresentanti della classe operaia, e persino con operai, i quali non ritengono per questo che tutto vada per il meglio nel migliore dei mondi possibili. Se insisto su questo punto, certamente secondario nel suo pensiero, è perché, a dire il vero, nell’esposizione oggettiva della conversazione che ha ascoltato e nei commenti di una logica implacabile che l’accompagnano, questo solo tratto pittoresco, fisico, parla all’immaginazione e allontana così, mi sembra, dalla serenità necessaria.
+
+Dimentichiamo dunque, se vuole, l’aspetto fisico dei suoi due padroni. Che cosa risulta dalla loro conversazione? Incontestabilmente che sono esasperati, che credono di non avere più nulla da perdere, che sono disposti a chiudere le loro fabbriche per resistere a una legge sulle assunzioni che li priverebbe di certe prerogative che giudicano indispensabili alla loro gestione, e che uno sciopero generale dei padroni apparirebbe loro come un’insurrezione patriottica.
+
+Lei dice loro che hanno molto più da perdere di quanto credano, che pensano di usare un mezzo d’azione che condannano nei loro dipendenti, che le loro fabbriche funzioneranno benissimo senza di loro; e conclude che la tendenza al sabotaggio padronale si accresce.
+
+E, in tutto questo, c’è una parte di verità, ma, a mio avviso, quella parte di verità che nell’immediato non può condurre a nulla di pratico, a nulla di migliore.
+
+Si metta un poco nei panni dei suoi due padroni. Questi uomini hanno creduto di essere onnipotenti nella propria impresa; <a id="p192"></a><!-- page: 192; scan: Page:Weil - La Condition ouvrière, 1951.djvu/204 -->vi hanno rischiato il denaro che possedevano; probabilmente hanno faticato a lungo e duramente, con gravi preoccupazioni; per anni si sono dibattuti contro tutti: i concorrenti, i fornitori, i clienti, il personale. Sono stati formati a vedere il mondo come composto di nemici, a non poter contare su nessuno, salvo pochi dipendenti eccezionali, la cui dedizione, il più delle volte, sembrava loro naturale. Hanno l’impressione di non aver mai chiesto nulla a nessuno, di non aver mai desiderato altro che una cosa: che li si lasci in pace; che li si lasci arrangiare. Arrangiarsi, imbrogliando talvolta questo, schiacciando talvolta quello, è vero. Ma senza rimorsi, senza l’ombra di una preoccupazione, poiché applicano la regola comune; poiché stanno al gioco; poiché nessuno ha insegnato loro che esiste una solidarietà sociale; poiché nessuno intorno a loro la pratica. Sono certi di aver fatto il proprio dovere cercando di guadagnare denaro; e accolgono volentieri l’idea supplementare che, difendendo la propria pelle, che è la loro principale ragione d’agire, arricchiscano la collettività e rendano un servizio alla nazione. Ne sono tanto più convinti in quanto hanno visto, accanto a loro, persone guadagnare più denaro di loro limitandosi a fare i commissionari, gli intermediari, a speculare e talvolta a truffare i risparmiatori, senza essere punite.
+
+Aggiunga che gli ultimi anni di questo regime li hanno persuasi che soltanto la minaccia e la violenza hanno successo; che gridando abbastanza forte, mostrandosi abbastanza indisciplinati nei confronti dello Stato, affermando di volersi sottrarre alle leggi, si è certi (a condizione di essere abbastanza numerosi) non soltanto dell’impunità, ma anche del successo. E lei vorrebbe che proprio loro, soli, conservassero la preoccupazione di non creare difficoltà al Governo, a un Governo sostenuto da un partito che prospetta la loro totale espropriazione!
+
+Non le dico qui che le loro ragioni siano valide, che il loro sentimento sia giusto; le chiedo soltanto di constatare che, a meno di essere al di sopra dell’umanità, difficilmente potrebbero pensare altrimenti.
+
+Quando parlano di «crepare», quando dicono «che non hanno più nulla da perdere», in parte esagerano; cercano nello stesso tempo di trovare nel collega quell’appoggio che è sempre mancato loro e di convincerlo che hanno più energia e spirito collettivo di quanto ne abbiano realmente. <a id="p193"></a><!-- page: 193; scan: Page:Weil - La Condition ouvrière, 1951.djvu/205 -->Ma lo credono davvero. E qui bisogna che lei faccia uno sforzo d’immaginazione per rendersi conto che questi uomini non hanno tanta immaginazione quanta lei gliene attribuisce. Non avere più nulla da perdere, per loro, significa abbandonare la propria impresa, la propria ragione d’essere, il proprio ambiente sociale, tutto ciò che, per loro, costituisce l’esistenza. Non conoscono la fame, non possono immaginare la fame; non conoscono l’esilio, non possono immaginare l’esilio; ma conoscono l’esempio del fallimento, della rovina, del declassamento, dei figli che non si possono sistemare come da sempre era dato per scontato che li si sarebbe sistemati. E la distruzione delle condizioni abituali della loro esistenza è, per loro, la distruzione della loro esistenza. Supponga che le si dica: continuerà a mangiare bene, ad avere caldo; ci occuperemo di lei, ma sarà idiota e considerata da tutti come un relitto. Non direbbe: «Non avrò più nulla da perdere»? Ciò che per lei è l’attività del suo spirito — ciò che sono per lei le sue emozioni sociali, morali, estetiche — per loro tutto questo è legato alla loro fabbrica, a una fabbrica che ha sempre funzionato in un certo modo e che non immaginano possa funzionare diversamente. Lascio deliberatamente da parte tutto ciò che può esserci in loro di bello, di nobile, di disinteressato. Perché, dopotutto, c’è anche tutto questo; ma per scoprirlo bisognerebbe aver esercitato nei loro confronti la propria simpatia da molto tempo.
+
+Mi conceda dunque che i suoi due padroni difficilmente possono pensare altrimenti da come pensano, e passiamo a un secondo punto. Sono inutili e, come dice lei, si potrà fare a meno di loro? Non credo né l’una né l’altra cosa. Se è relativamente facile sostituire il dirigente di una grande impresa con un funzionario, il piccolo padrone può essere sostituito soltanto da un padrone. Affidata a funzionari, la sua impresa si fermerebbe molto presto. Tutta la sua attività, tutta la sua capacità di arrangiarsi, tutto il suo adattamento quotidiano a una situazione continuamente mutevole, tutta questa azione che esige decisioni, rischi, responsabilità ininterrotte è l’esatto contrario dell’azione del salariato, soprattutto del salariato di una collettività. Di tutte le difficoltà incontrate dall’economia comunista russa, quelle che derivano dalla soppressione del piccolo commercio, della piccola industria, dell’artigianato sono le più gravi, quelle che non ha superato e che non supererà. Qualunque sia la nuova Economia che si immagini, il padronato piccolo e <a id="p194"></a><!-- page: 194; scan: Page:Weil - La Condition ouvrière, 1951.djvu/206 -->medio resterà. Lei ritiene che comprenda male la situazione; non la comprenderà dall’oggi al domani; ma può imparare a comprenderla. Negli ultimi diciotto mesi ha già imparato molto più di quanto si creda.
+
+Non faccia dunque lo stesso errore che fa lui. Vuole fare cose che lei giudica assurde, e lei ha bisogno di lui. Se vuole che non le faccia, bisogna cercare di calmarlo. Sono necessarie certe precauzioni per le assunzioni e i licenziamenti: bisogna prenderle, ma riducendole allo *stretto minimo indispensabile;* in particolare, è davvero sui piccoli padroni che deve esercitarsi lo sforzo di regolamentazione per proteggere la massa operaia? Non lo credo. Se le assunzioni vengono fatte correttamente nella grande industria, non crede che il gioco naturale della domanda e dell’offerta condurrà ad assunzioni corrette nella piccola industria? Se vuole regolamentare un numero troppo grande di imprese, crea un apparato burocratico eccessivo, un controllo impraticabile, attriti continui. Non è con un’azione diretta, ma con un’azione indiretta che deve arrivare a educare il padronato piccolo e medio. Quest’ultimo è abituato ad adattarsi a ciò che costituisce la forza delle cose; se oggi protesta, è perché ha davanti a sé la forza degli uomini, di uomini che non ha scelto, di uomini che considera tirannici.
+
+Non cerchi di imporgli la sua volontà con regolamenti che non comprende, non ci riuscirebbe. Da una parte, non potrà sostituirlo, non soltanto perché lo Stato fallirà miseramente in questo tentativo, ma perché non oserà mai intraprenderlo. Le masse operaie sono concentrate, è vero, ma rappresentano soltanto un quarto di questo paese; non possono imporgli la propria volontà. Per avere, per inesperienza, mancato di misura nelle loro rivendicazioni salariali, ecco che una gran parte del paese le disapprova, se non a parole, almeno in fondo al cuore. Non è certo in Francia che si prenderà mai in considerazione una gestione statale delle piccole imprese. E, d’altra parte, se rinuncia alla gestione diretta, sia certa che i suoi regolamenti molteplici, diversi e necessariamente inumani saranno rapidamente aggirati, derisi e cadranno in disuso.
+
+I suoi padroni sono esasperati; non al punto, sia certa, da dimenticare il proprio interesse personale, che in larga parte coincide con l’interesse generale. Uno sciopero generale <a id="p195"></a><!-- page: 195; scan: Page:Weil - La Condition ouvrière, 1951.djvu/207 -->contro minacce di una legislazione restrittiva sulle assunzioni non lo considero escluso; perché si tratta di misure che colpiscono ciascuno direttamente in ciò che crede essere i propri interessi vitali. Ma sarebbe soltanto una manifestazione. Ciò che è temibile non è questo; è lo stato d’animo con cui verrà applicata una legislazione forse burocratica, forse cavillosa, forse antieconomica, forse persino antisociale; una legislazione che non sarà compresa da una parte di coloro ai quali si applicherà. Occorre una legislazione che sia compresa, e per questo che non trasformi da cima a fondo il regime attuale; che impedisca gli abusi senza pretendere di regolare l’esercizio corrente dell’autorità padronale. Ed è possibile. Ma bisogna volerlo e non lasciarsi trascinare a gettare il disordine con il pretesto di stabilire un po’ d’ordine; a esasperare una parte, e forse la più attiva, dell’Economia, con il pretesto di stabilire la pace sociale; a promulgare, con un governo debole come quello che abbiamo, leggi che questo governo sarà, fin dall’inizio, incapace di applicare.
+
+Bisogna accettare che esistano uomini panciuti e che non ragionano sempre in modo perfettamente giusto, perché, invece di qualche disoccupato più o meno assistito, non vi sia un intero popolo che crepa di fame ed è esposto a tutte le avventure.
+
+A. Detœuf.
+
+---
+
+[^1]: Film di Charlie Chaplin.
+
+[^2]: *Nouveaux Cahiers*, 15 dicembre 1937. — Corrispondenza tra S. Weil e A. Detœuf.

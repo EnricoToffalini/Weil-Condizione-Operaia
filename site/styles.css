@@ -1,0 +1,150 @@
+/* La condizione operaia — foglio di stile del sito italiano.
+   Poche regole, tutte al servizio della lettura continua di un libro.
+   Il carattere è quello predefinito del tema Quarto (cosmo), cioè la pila
+   sans-serif di sistema: non viene ridefinito qui. */
+
+:root {
+  --co-tenue: #6d6a66;
+  --co-filetto: #d8d4cd;
+  --co-fondo-tenue: #f5f3ef;
+  --co-fondo-menu: #efedea;
+}
+
+/* ---- corpo del testo ---------------------------------------------------- */
+
+#quarto-document-content p {
+  line-height: 1.7;
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Segnaposto invisibile della pagina stampata: serve solo come bersaglio dei
+   rimandi #pNN. */
+.ancora-pagina {
+  display: block;
+  height: 0;
+}
+
+/* ---- riferimento bibliografico e cappello ------------------------------- */
+
+.riferimento {
+  display: block;
+  margin: -0.75rem 0 0.5rem;
+  font-size: 0.85rem;
+  color: var(--co-tenue);
+}
+
+.cappello {
+  margin: 0 0 2.25rem;
+  padding: 0.85rem 1.1rem;
+  border-left: 3px solid var(--co-filetto);
+  background: var(--co-fondo-tenue);
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--co-tenue);
+}
+
+.cappello p:last-child {
+  margin-bottom: 0;
+}
+
+/* ---- titoli ------------------------------------------------------------- */
+
+h2, h3 {
+  margin-top: 2.75rem;
+  font-weight: 600;
+}
+
+/* Titoli di sezione aggiunti da questa edizione: non appartengono al testo di
+   Simone Weil, e si distinguono dai titoletti del volume. */
+h2.sez-ed {
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--co-tenue);
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--co-filetto);
+}
+
+/* ---- stacchi del volume ------------------------------------------------- */
+
+/* L'asterismo e i filetti che dividono lettere e frammenti. */
+#quarto-document-content hr {
+  width: 6rem;
+  margin: 2.5rem auto;
+  border-top: 1px solid var(--co-filetto);
+  opacity: 1;
+}
+
+/* ---- tabelle e formule della trascrizione ------------------------------- */
+
+/* Le tabelle del diario e dei frammenti sono larghe: scorrono da sole
+   invece di allargare la pagina. */
+#quarto-document-content table {
+  font-size: 0.85rem;
+}
+
+#quarto-document-content .table-responsive,
+#quarto-document-content > table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+/* ---- menù dei capitoli e indice della pagina ---------------------------- */
+
+/* I due menù si staccano dalla colonna di lettura, che resta bianca. */
+#quarto-sidebar,
+#quarto-margin-sidebar:has(#TOC) {
+  background-color: var(--co-fondo-menu);
+}
+
+/* L'indice della pagina è alto quanto le sue voci: come riquadro arrotondato
+   sembra deliberato, come fascia troncata a metà no. La condizione `:has`
+   evita il riquadro vuoto sulle pagine senza titoli interni, come la
+   prefazione. */
+#quarto-margin-sidebar:has(#TOC) {
+  margin-top: 0.5rem;
+  padding: 1rem 0.9rem 1.2rem;
+  border-radius: 6px;
+}
+
+#TOC, #quarto-sidebar {
+  font-size: 0.85rem;
+}
+
+/* I titoli dei capitoli e delle sezioni sono lunghi e vanno spesso a capo:
+   serve più aria tra una voce e l'altra che tra le righe di una stessa voce. */
+#quarto-sidebar .sidebar-item {
+  margin-bottom: 0.55rem;
+}
+
+#quarto-sidebar .sidebar-item-text {
+  line-height: 1.35;
+}
+
+#TOC li {
+  margin-bottom: 0.5rem;
+}
+
+#TOC .nav-link {
+  line-height: 1.35;
+}
+
+#toc-title {
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--co-tenue);
+}
+
+/* ---- note a piè di pagina ---------------------------------------------- */
+
+#footnotes, .footnotes {
+  font-size: 0.88rem;
+  color: var(--co-tenue);
+}

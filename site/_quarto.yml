@@ -1,0 +1,53 @@
+project:
+  type: book
+  # Il sito reso finisce in docs/, la cartella che GitHub Pages pubblica.
+  output-dir: ../docs
+  resources:
+    - .nojekyll
+
+lang: it
+
+book:
+  title: "La Condizione Operaia"
+  subtitle: "Traduzione italiana dell'edizione Gallimard 1951"
+  author: "Simone Weil"
+  search: true
+  sidebar:
+    title: "La Condizione Operaia - Simone Weil"
+    style: docked
+  page-footer:
+    left: "Simone Weil, *La Condition ouvrière*, Gallimard, Paris 1951."
+    right: "Traduzione italiana &middot; testo derivato da Wikisource, CC BY-SA 4.0."
+  chapters:
+    - index.qmd
+    - testi/02-tre-lettere-alla-signora-albertine-thevenon.qmd
+    - testi/03-lettera-a-un-allieva.qmd
+    - testi/04-lettera-a-boris-souvarine.qmd
+    - testi/05-frammento-di-lettera-a-x.qmd
+    - testi/06-diario-di-fabbrica.qmd
+    - testi/07-frammenti.qmd
+    - testi/08-lettere-a-un-ingegnere-direttore-di-fabbrica.qmd
+    - testi/09-la-vita-e-lo-sciopero-delle-operaie-metallurgiche.qmd
+    - testi/10-lettera-aperta-a-un-iscritto-al-sindacato.qmd
+    - testi/11-lettere-ad-auguste-detoeuf.qmd
+    - testi/12-osservazioni-sui-conflitti-del-nord.qmd
+    - testi/13-principi-di-un-nuovo-regime-interno.qmd
+    - testi/14-la-razionalizzazione.qmd
+    - testi/15-la-condizione-operaia.qmd
+    - testi/16-esperienza-della-vita-di-fabbrica.qmd
+    - testi/17-condizione-prima-di-un-lavoro-non-servile.qmd
+    - nota-al-testo.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-title: "Contenuti"
+    number-sections: false
+    grid:
+      body-width: 760px
+    anchor-sections: true
+    link-external-newwindow: true
+    fig-responsive: true

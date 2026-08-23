@@ -1,0 +1,100 @@
+---
+id: co-1951-02
+title_it: Tre lettere alla signora Albertine Thévenon (1934-1935)
+author: Simone Weil
+source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/02
+wikisource_page: La Condition ouvrière/02
+revision_id: 12780015
+revision_timestamp: '2022-10-24T19:54:27Z'
+---
+
+<a id="p15"></a><!-- page: 15; scan: Page:Weil - La Condition ouvrière, 1951.djvu/23 -->
+
+# TRE LETTERE ALLA <abbr class="abbr" title="Signora">SIG.<sup style="font-size:70%;">RA</sup></abbr> ALBERTINE THÉVENON (1934-1935)
+
+Cara Albertine,
+
+Approfitto del tempo libero forzato che mi impone una lieve malattia (l’inizio di un’otite, non è niente) per fare un po’ di conversazione con te. Altrimenti, durante le settimane di lavoro, ogni sforzo in più rispetto a quelli che mi sono imposti mi costa caro. Ma non è soltanto questo a trattenermi: è la moltitudine delle cose da dire e l’impossibilità di esprimere l’essenziale. Forse, più tardi, mi verranno le parole giuste: ora mi sembra che, per esprimere ciò che importa, mi occorrerebbe un altro linguaggio. Questa esperienza, che per molti aspetti corrisponde a ciò che mi aspettavo, ne differisce tuttavia per un abisso: è la realtà, non più l’immaginazione. Ha cambiato per me non questa o quella delle mie idee (molte, al contrario, sono state confermate), ma infinitamente di più, tutta la mia prospettiva sulle cose, persino il sentimento che ho della vita. Conoscerò ancora la gioia, ma c’è una certa leggerezza del cuore che, mi sembra, mi resterà sempre impossibile. Ma basta così: si degrada l’inesprimibile tentando di esprimerlo.
+
+Per quanto riguarda le cose esprimibili, ho imparato parecchio sull’organizzazione di un’impresa. È disumana: lavoro parcellizzato — a cottimo — organizzazione puramente burocratica dei rapporti tra i diversi elementi dell’impresa, tra le diverse operazioni del lavoro. L’attenzione, privata di oggetti degni di lei, è invece costretta a concentrarsi, secondo dopo secondo, su un problema meschino, sempre lo stesso, con delle varianti: fare 50 pezzi in 5 minuti invece che in 6, o qualcosa di questo genere. Grazie al cielo, ci sono delle astuzie pratiche da imparare, e questo dà di tanto in tanto un certo interesse alla ricerca della velocità. Ma ciò che mi chiedo, <a id="p16"></a><!-- page: 16; scan: Page:Weil - La Condition ouvrière, 1951.djvu/24 -->è come tutto questo possa diventare umano: perché, se il lavoro parcellizzato non fosse a cottimo, la noia che ne deriva annienterebbe l’attenzione, provocherebbe una notevole lentezza e una quantità di pezzi difettosi. E se il lavoro non fosse parcellizzato… Ma non ho il tempo di sviluppare tutto questo in una lettera. Soltanto, quando penso che i grandi capi bolscevichi pretendevano di creare una classe operaia *libera* e che nessuno di loro — Trotskij certamente no, Lenin credo neppure — aveva probabilmente messo piede in una fabbrica e di conseguenza aveva la più pallida idea delle condizioni reali che determinano la servitù o la libertà degli operai, la politica mi appare come una sinistra buffonata.
+
+Devo dire che tutto questo riguarda il lavoro non qualificato. Sul lavoro qualificato ho ancora quasi tutto da imparare. Verrà, spero.
+
+Per me, questa vita è piuttosto dura, a dire il vero. Tanto più che i mal di testa non hanno avuto la compiacenza di lasciarmi, per facilitare l’esperienza — e lavorare alle macchine con il mal di testa è penoso. È soltanto il sabato pomeriggio e la domenica che respiro, ritrovo me stessa, riconquisto la facoltà di far girare nella mente brandelli di idee. In generale, la tentazione più difficile da respingere, in una vita simile, è quella di rinunciare completamente a pensare: si sente così bene che è l’unico mezzo per non soffrire più! Anzitutto per non soffrire più moralmente. Perché la situazione stessa cancella automaticamente i sentimenti di rivolta: fare il proprio lavoro con irritazione significherebbe farlo male e condannarsi a morire di fame; e non si ha nessuno contro cui prendersela, al di fuori del lavoro stesso. Con i capi non ci si può permettere di essere insolenti, e del resto molto spesso non ne danno nemmeno motivo. Così non resta altro sentimento possibile nei confronti della propria sorte che la tristezza. Allora si è tentati di perdere semplicemente coscienza di tutto ciò che non è il volgare tran tran quotidiano della vita. Anche fisicamente, sprofondare, fuori dall’orario di lavoro, in una mezza sonnolenza è una grande tentazione. Nutro il massimo rispetto per gli operai che riescono a darsi una cultura. Di solito sono robusti, è vero. Ma devono pur avere qualcosa nella pancia. Perciò sono sempre più rari, con i progressi della razionalizzazione. Mi <a id="p17"></a><!-- page: 17; scan: Page:Weil - La Condition ouvrière, 1951.djvu/25 -->chiedo se questo si osservi tra i manovali specializzati.
+
+Tengo duro, comunque. E non rimpiango per un minuto di essermi lanciata in questa esperienza. Al contrario, me ne rallegro infinitamente ogni volta che ci penso. Ma, cosa strana, ci penso raramente. Ho una facoltà di adattamento quasi illimitata, che mi permette di dimenticare di essere una «professoressa abilitata» in giro per la classe operaia, di vivere la mia vita attuale come se vi fossi destinata da sempre (e, in un certo senso, è proprio vero) e come se dovesse durare per sempre, come se mi fosse stata imposta da una necessità ineluttabile e non dalla mia libera scelta.
+
+Eppure ti prometto che, quando non terrò più duro, andrò a riposarmi da qualche parte — forse da voi.
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+Mi accorgo di non aver detto nulla dei compagni di lavoro. Sarà per un’altra volta. Ma anche questo è difficile da esprimere… Si è gentili, molto gentili. Ma di vera fraternità ne ho sentita pochissima. Un’eccezione: il magazziniere del magazzino degli utensili, operaio qualificato, ottimo operaio, che chiamo in mio soccorso ogni volta che sono ridotta alla disperazione da un lavoro che non riesco a fare bene, perché è cento volte più gentile e più intelligente dei regolatori (i quali non sono che manovali specializzati). C’è parecchia gelosia tra le operaie, che di fatto si fanno concorrenza a causa dell’organizzazione della fabbrica. Ne conosco soltanto 3 o 4 pienamente simpatiche. Quanto agli operai, alcuni sembrano davvero in gamba. Ma nel reparto dove sono io ce ne sono pochi, oltre ai regolatori; e questi non sono veri compagni. Spero di cambiare reparto tra qualche tempo, per ampliare il mio campo di esperienza.
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+Su, arrivederci. Rispondimi presto.
+
+S. W.
+
+---
+
+Mia cara Albertine,
+
+Credo di sentire che hai interpretato male il mio silenzio. Sembra che tu creda che io sia imbarazzata a esprimermi <a id="p18"></a><!-- page: 18; scan: Page:Weil - La Condition ouvrière, 1951.djvu/26 -->francamente. No, per nulla; era semplicemente lo sforzo di scrivere a essere troppo pesante. Ciò che la tua lunga lettera ha smosso in me è il desiderio di dirti che sono profondamente con te, che è dalla tua parte che mi porta tutto il mio istinto di fedeltà all’amicizia.
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ma, con tutto questo, capisco cose che forse tu non capisci, perché sei troppo diversa. Vedi, tu vivi così tanto nell’istante — ed è per questo che ti amo — che forse non ti rappresenti che cosa significhi concepire tutta la propria vita davanti a sé e prendere la ferma e costante decisione di farne qualcosa, di orientarla da un capo all’altro, con la volontà e il lavoro, in una direzione determinata. Quando si è fatti così — io sono fatta così, quindi so che cosa significa — la cosa peggiore che un essere umano possa farci al mondo è infliggerci sofferenze che spezzano la vitalità e, di conseguenza, la capacità di lavorare.
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+So fin troppo bene (a causa dei miei mal di testa) che cosa significhi assaporare così la morte pur essendo vivi; vedere davanti a sé distendersi degli anni, avere mille modi per riempirli, e pensare che la debolezza fisica costringerà a lasciarli vuoti, che attraversarli semplicemente giorno dopo giorno sarà un compito schiacciante.
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+Avrei voluto parlarti un po’ di me, ma non ne ho più il tempo. Ho sofferto molto per questi mesi di schiavitù, ma non vorrei per nulla al mondo non averli attraversati. Mi hanno permesso di mettermi alla prova e di toccare con mano tutto ciò che prima avevo potuto soltanto immaginare. Ne sono uscita molto diversa da come ero quando vi sono entrata — fisicamente esausta, ma moralmente temprata (capirai in che senso lo dico).
+
+Scrivimi a Parigi. Sono stata nominata a Bourges. È lontano. Avremo poche possibilità di vederci.
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ti abbraccio.
+
+Simone
+
+.
+
+---
+
+<a id="p19"></a><!-- page: 19; scan: Page:Weil - La Condition ouvrière, 1951.djvu/27 -->
+
+Cara Albertine,
+
+Mi fa bene ricevere una tua parola. Ci sono cose, mi sembra, per le quali ci comprendiamo soltanto tu e io. Tu vivi ancora; non puoi sapere quanto ne sono felice. ..............
+ Ti meritavi proprio di liberarti. La vita vende cari i progressi che fa compiere. Quasi sempre al prezzo di dolori intollerabili.
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+Sai, mi viene in mente proprio ora un’idea. Ci vedo entrambe, durante le vacanze, con pochi soldi in tasca, a camminare lungo le strade, i sentieri e i campi, con lo zaino in spalla. A volte dormiremmo nei fienili. A volte daremmo una mano per la mietitura, in cambio del cibo. ......Che ne dici?
+
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ciò che scrivi della fabbrica mi è andato dritto al cuore. È questo che sentivo io, fin dall’infanzia. Per questo alla fine ho dovuto andarci, e prima mi dispiaceva che tu non capissi. Ma una volta dentro, com’è tutta un’altra cosa! Ora sento così la questione sociale: una fabbrica dovrebbe essere ciò che hai sentito quel giorno a Saint-Chamond, ciò che io ho sentito così spesso, un luogo in cui ci si scontra duramente, dolorosamente, ma comunque con gioia, con la vera vita. Non quel luogo cupo in cui non si fa altro che obbedire, spezzare sotto la costrizione tutto ciò che si ha di umano, curvarsi, lasciarsi abbassare al di sotto della macchina.
+
+Una volta ho sentito pienamente, in fabbrica, ciò che avevo intuito, come te, dall’esterno. Nella mia prima fabbrica. Immaginami davanti a un grande forno che sputa fuori fiamme e soffi infuocati, che ricevo in pieno viso. Il fuoco esce da cinque o sei fori che si trovano nella parte bassa del forno. Mi metto proprio davanti per infornare una trentina di grosse bobine di rame che un’operaia italiana, dal volto coraggioso e aperto, fabbrica accanto a me; queste bobine servono per i tram e le metropolitane. Devo fare molta attenzione che nessuna bobina cada in uno dei fori, perché vi si fonderebbe; e per questo devo mettermi esattamente di fronte al forno, <a id="p20"></a><!-- page: 20; scan: Page:Weil - La Condition ouvrière, 1951.djvu/28 -->e non permettere mai che il dolore dei soffi infuocati sul viso e del fuoco sulle braccia (ne porto ancora il segno) mi faccia compiere un gesto sbagliato. Abbasso lo sportello del forno; aspetto qualche minuto; rialzo lo sportello e con un gancio estraggo le bobine arroventate, attirandole rapidamente verso di me (altrimenti le ultime estratte comincerebbero a fondersi), e facendo ancora più attenzione che in nessun momento un gesto sbagliato ne mandi una dentro uno dei fori. E poi si ricomincia. Di fronte a me un saldatore, seduto, con gli occhiali blu e un volto serio, lavora minuziosamente; ogni volta che il dolore mi contrae il viso, mi manda un sorriso triste, pieno di fraterna simpatia, che mi fa un bene indicibile. Dall’altra parte, una squadra di calderai lavora intorno a grandi tavoli; lavoro compiuto in squadra, fraternamente, con cura e senza fretta; lavoro molto qualificato, in cui bisogna saper calcolare, leggere disegni molto complicati, applicare nozioni di geometria descrittiva. Più lontano, un tipo robusto colpisce con una mazza delle barre di ferro, producendo un rumore da spaccare il cranio. Tutto questo, in un angolo in fondo all’officina, dove ci si sente a casa propria, dove il caposquadra e il caporeparto praticamente non vengono mai. Vi ho passato 2 o 3 ore, per 4 volte (lì guadagnavo da 7 a 8 franchi l’ora — e questo conta, sai!). La prima volta, dopo un’ora e mezza, il calore, la fatica, il dolore mi fecero perdere il controllo dei movimenti; non riuscivo più ad abbassare lo sportello del forno. Vedendo questo, subito uno dei calderai (tutti tipi in gamba) si precipitò a farlo al posto mio. Ci tornerei subito, in quell’angolino dell’officina, se potessi (o almeno non appena avessi recuperato le forze). Quelle sere sentivo la gioia di mangiare un pane che ci si è guadagnati.
+
+Ma questo è stato un episodio unico nella mia esperienza della vita di fabbrica. Per me, personalmente, ecco che cosa ha significato lavorare in fabbrica. Ha significato che tutte le ragioni esterne (prima le avevo credute interiori) su cui si fondavano per me il sentimento della mia dignità, il rispetto di me stessa, sono state radicalmente spezzate in due o tre settimane sotto il colpo di una costrizione brutale e quotidiana. E non credere che ne siano scaturiti in me moti di rivolta. No, ma al contrario la cosa al mondo che meno mi aspettavo <a id="p21"></a><!-- page: 21; scan: Page:Weil - La Condition ouvrière, 1951.djvu/29 -->da me stessa: la docilità. Una docilità da bestia da soma rassegnata. Mi sembrava di essere nata per aspettare, per ricevere, per eseguire ordini — di non aver mai fatto altro — e di non dover fare mai altro. Non sono fiera di confessarlo. È il genere di sofferenza di cui nessun operaio parla: fa troppo male persino pensarci. Quando la malattia mi costrinse a fermarmi, presi pienamente coscienza dell’abiezione in cui stavo cadendo, e giurai a me stessa di sopportare quell’esistenza fino al giorno in cui sarei riuscita, nonostante essa, a riprendermi. Ho mantenuto la promessa. Lentamente, nella sofferenza, ho riconquistato attraverso la schiavitù il sentimento della mia dignità in quanto essere umano, un sentimento che questa volta non si fondava su nulla di esterno, e sempre accompagnato dalla consapevolezza che non avevo diritto a nulla, che ogni istante libero da sofferenze e umiliazioni doveva essere ricevuto come una grazia, come il semplice effetto di casi favorevoli.
+
+Ci sono due fattori, in questa schiavitù: la velocità e gli ordini. La velocità: per «farcela» bisogna ripetere movimento dopo movimento a una cadenza che, essendo più rapida del pensiero, impedisce di dare libero corso non solo alla riflessione, ma persino al fantasticare. Bisogna, mettendosi davanti alla propria macchina, uccidere la propria anima per 8 ore al giorno, il proprio pensiero, i propri sentimenti, tutto. Che si sia irritati, tristi o disgustati, bisogna inghiottire, ricacciare in fondo a se stessi irritazione, tristezza o disgusto: rallenterebbero la cadenza. E lo stesso vale per la gioia. Gli ordini: da quando si timbra entrando fino a quando si timbra uscendo, in ogni momento si può ricevere un ordine qualsiasi. E bisogna sempre tacere e obbedire. L’ordine può essere penoso o pericoloso da eseguire, o persino ineseguibile; oppure due capi possono dare ordini contraddittori; non importa: tacere e piegarsi. Rivolgere la parola a un capo — anche per una cosa indispensabile — significa sempre, anche se è una brava persona (anche le brave persone hanno momenti di cattivo umore), esporsi a essere trattati bruscamente; e quando succede, bisogna ancora tacere. Quanto ai propri scatti di nervosismo e di malumore, bisogna inghiottirli; non possono tradursi né in parole né in gesti, perché i gesti sono determinati in ogni momento dal lavoro. Questa situazione fa sì che il pensiero si rannicchi, si ritragga, come la carne si ritrae davanti a un bisturi. Non si *può* essere «coscienti». <a id="p22"></a><!-- page: 22; scan: Page:Weil - La Condition ouvrière, 1951.djvu/30 -->
+
+Tutto questo, naturalmente, riguarda il lavoro non qualificato. (Soprattutto quello delle donne.)
+
+E attraverso tutto questo un sorriso, una parola di bontà, un istante di contatto umano hanno più valore delle amicizie più devote tra i privilegiati, grandi o piccoli. Soltanto lì si sa che cosa sia la fraternità umana. Ma ce n’è poca, pochissima. Molto spesso, persino i rapporti tra compagni riflettono la durezza che domina tutto quanto là dentro.
+
+Su, ho chiacchierato abbastanza. Scriverei volumi su tutto questo.
+
+S. W.
+
+Volevo dirti anche questo: il passaggio da questa vita così dura alla mia vita attuale, sento che mi corrompe. Ora capisco che cosa sia un operaio che diventa «funzionario sindacale». Reagisco finché posso. Se mi lasciassi andare, dimenticherei tutto, mi sistemerei nei miei privilegi senza voler pensare che sono privilegi. Sta’ tranquilla, non mi lascio andare. A parte questo, in quell’esistenza ho lasciato la mia allegria; ne conservo nel cuore un’amarezza incancellabile. E tuttavia sono felice di aver vissuto tutto questo.
+
+Conserva questa lettera — forse un giorno te la chiederò, se vorrò riunire tutti i miei ricordi della vita da operaia. Non per pubblicare qualcosa al riguardo (almeno non credo), ma per difendermi dall’oblio. È difficile non dimenticare, quando si cambia così radicalmente modo di vivere.

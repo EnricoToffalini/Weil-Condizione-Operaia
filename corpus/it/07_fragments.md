@@ -1,0 +1,545 @@
+---
+id: co-1951-07
+title_it: Frammenti
+author: Simone Weil
+source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/07
+wikisource_page: La Condition ouvrière/07
+revision_id: 12780021
+revision_timestamp: '2022-10-24T19:55:06Z'
+---
+
+<a id="p109"></a><!-- page: 109; scan: Page:Weil - La Condition ouvrière, 1951.djvu/121 -->
+
+# FRAMMENTI[^1]
+
+Organizzazione burocratica della fabbrica: — gli uffici, organi di coordinamento, sono l’anima della fabbrica. Vi risiedono i procedimenti di fabbricazione (compresi i segreti). Per questo vi si riduce meno il personale che nei reparti, dove, salvo caporeparto, sorveglianti, magazzinieri, ecc., tutto è intercambiabile. I manovali soprattutto, naturalmente; ma anche gli operai qualificati. Un tornitore dell’Alsthom potrebbe essere sostituito da uno della Citroën senza che nessuno se ne accorgesse. (Se un operaio qualificato è legato all’impresa, lo è unicamente per l’intermediazione della macchina, soprattutto nel caso del fresatore.)
+
+Tra le operaie (manovali), nessun attaccamento all’impresa.
+
+Regolatori: sono compagni, con una sfumatura di fraternità protettiva. (Una vecchia operaia trova del tutto naturale che un regolatore di 25 anni debba guidarla… La partecipazione delle donne alla produzione industriale ha certamente facilitato la differenziazione delle categorie.) Ma il loro carattere cambia senza dubbio con quello della produzione. Qui ci sono continuamente macchine da montare (soprattutto in questo momento, periodo di ordinazioni piccolissime che l’impresa rifiuterebbe senza dubbio in un periodo più prospero). Là dove ci sono poche macchine da montare e molta sorveglianza, forse hanno più del capo.
+
+Concorrenza tra le operaie.
+
+Quando si ha occasione di scambiare uno sguardo con un operaio — lo si incontra passando, gli si chiede qualcosa, lo si guarda alla macchina — la sua prima reazione è sempre sorridere. Del tutto incantevole. È così soltanto in una fabbrica.
+
+Il direttore è come il re di Francia. Delega le <a id="p110"></a><!-- page: 110; scan: Page:Weil - La Condition ouvrière, 1951.djvu/122 -->parti poco amabili dell’autorità ai subordinati e ne conserva per sé il lato grazioso.
+
+Sentimento di essere consegnati a una grande macchina che non si conosce. Non si sa a che cosa corrisponda il lavoro che si fa. Non si sa che cosa si farà domani. Né se i salari saranno diminuiti. Né se ci saranno licenziamenti.
+
+Carattere *poco adattabile* di ogni grande fabbrica. Quantità formidabile di utensili; specializzazione delle macchine. Tutto accade come se ci fossero troppo poche macchine, mentre ce ne sono troppe.
+
+Il carattere della tecnica e dell’organizzazione delle grandi fabbriche moderne non è legato soltanto alla *produzione* *in serie*, ma anche alla *precisione delle forme*. Quale operaio farebbe pezzi così esatti come li fa un utensile? Ora, un utensile *specializzato* è molto costoso senza una produzione di massa.
+
+Componente artigianale nel lavoro dell’operaio. Da studiare.
+
+Esempio: un montatore di presse deve saper stringere la vite in modo che l’utensile produca esattamente la trasformazione desiderata, ma non di più (esempio dei miei 100 pezzi difettosi). Lo fa a occhio, provando. Ma bisogna, naturalmente, che senta la cosa sulla punta delle dita.
+
+Insomma, che cosa deve sapere un regolatore di presse?
+
+Gli si indica l’utensile sul foglio. [Tuttavia, in certi casi, bisogna verificare l’efficacia dell’utensile in funzione del disegno: angoli, ecc.] Il magazziniere glielo consegna o, all’occorrenza, un altro più adatto. Deve: 1<sup style="font-size:70%;">o</sup> Sapere a quali macchine l’utensile può adattarsi. Un utensile può andare bene per più macchine, ma non per tutte. Dipende 1] dalla struttura (ma credo che quanto alla struttura la maggior parte siano equivalenti), 2] dalla forza. La forza necessaria non è, credo, indicata sulla carta (da verificare). Poiché si fanno sempre più o meno le stesse operazioni, decide l’esperienza. *Questo punto è da studiare più* *da vicino.* 2<sup style="font-size:70%;">o</sup> Saper adattare l’utensile alla macchina mediante un montaggio appropriato (come? da studiare). 3<sup style="font-size:70%;">o</sup> Montare il supporto in modo che si trovi sotto l’utensile (ci vuole occhio) e, se necessario, in modo che permetta di assumere una posizione comoda durante il lavoro. 4<sup style="font-size:70%;">o</sup> Stringere la vite. Credo sia tutto…
+
+Notare che un regolatore di presse sarebbe perduto davanti a un tornio o a una fresatrice — e viceversa. Dal punto di vista della stabilità del posto nell’impresa, è, da un certo <a id="p111"></a><!-- page: 111; scan: Page:Weil - La Condition ouvrière, 1951.djvu/123 -->lato, un vantaggio: non li si sostituirà con gente venuta da fuori. Dall’altro lato, è uno svantaggio: se ce ne sono troppi alle presse, non se ne prenderà uno per sistemarlo altrove. Lo svantaggio prevale. Perché si possono sempre sostituire con manovali specializzati.
+
+Questioni da studiare: gli *utensili:* la loro forma e la loro efficacia.
+
+Studiare anzitutto la cosa sulle macchine alle quali lavoro.
+
+Da studiare i ruoli di:
+
+manovale alla macchina (io…)
+
+manovale specializzato
+
+operaio qualificato della fabbricazione (ce ne sono?)
+
+operaio qualificato dell’attrezzeria
+
+regolatore
+
+magazziniere
+
+caposquadra
+
+caporeparto
+
+disegnatore
+
+ingegnere
+
+vicedirettore
+
+direttore.
+
+Trasposizione e corrispondenza: la forma di un utensile e la sua azione.
+
+Si può *leggere* l’azione dell’utensile vedendolo?
+
+Esercitarmi.
+
+Interrogare il magazziniere.
+
+Del resto non ci sono soltanto le presse…
+
+Da notare: finora ho visto soltanto due tipi felici del proprio lavoro:
+
+l’operaio che sta al forno e canta tutto il tempo (informarmi un po’ su di lui).
+
+il magazziniere.
+
+Sapere da dove viene il caposquadra?
+
+Osservarlo più costantemente per sapere che cosa fa (pensarci per una giornata). Soprattutto scartoffie, mi sembra. Non sorveglia quasi per nulla il lavoro (osservazioni agli operai durante il lavoro, rarissime). È molto raro vederlo presso una macchina.
+
+Sapere da dove viene il caporeparto? Che cosa fa? <a id="p112"></a><!-- page: 112; scan: Page:Weil - La Condition ouvrière, 1951.djvu/124 -->
+
+Lavoro molto più concreto, mi sembra — osservare quanto tempo passa nel suo ufficio.
+
+Osservazioni sul genere di attenzione richiesto dal lavoro manuale (ma tenendo conto 1<sup style="font-size:70%;">o</sup> del carattere particolare del lavoro che faccio, 2<sup style="font-size:70%;">o</sup> del mio temperamento).
+
+< Quando sarai ferma, arrangiati per uscire ogni tanto… >
+
+< Ti occorre una disciplina dell’attenzione del tutto nuova per te: saper passare dall’attenzione vincolata all’attenzione libera della riflessione, e viceversa. Altrimenti o ti istupidirai, o rovinerai il lavoro — è una disciplina. >
+
+Manovali specializzati: tutti uomini (tuttavia il magazziniere mi ha detto che c’erano delle operaie specializzate al taglio — ma non ho mai visto una donna toccare una macchina se non per condurla). Montano da sé le proprie macchine (consigliati all’occorrenza dal regolatore). Devono saper leggere i disegni, ecc. Come hanno imparato a montare una macchina? *Da chiarire.*
+
+«Manovali alle macchine.» Donne. Il loro unico contatto con le macchine consiste, sembra, nel conoscere le insidie di ciascuna, cioè i rischi di pezzi difettosi che ciascuna comporta. Arrivano a percepire che qualcosa non va in questa o quella macchina che conoscono bene. Questo per quelle che hanno anni di fabbrica.
+
+Al caporeparto non piace che le operaie momentaneamente senza lavoro si riuniscano in molte a chiacchierare. Senza dubbio teme che si generi così un cattivo spirito… Le operaie non pensano di stupirsi di cose di questo genere e non si chiedono il perché. Il loro commento: «I capi sono fatti per comandare.»
+
+[^2] Dramma in fabbrica oggi (giovedì). Hanno licenziato un’operaia che aveva sbagliato 400 pezzi. Tubercolotica, con un marito disoccupato metà del tempo e dei bambini (avuti da un altro, credo), allevati dalla famiglia del padre. Sentimento delle altre operaie, miscuglio di pietà e del «ben le sta» delle bambine a scuola. Pare che fosse una cattiva compagna e una cattiva operaia. Commenti. Aveva addotto l’oscurità (dopo le 6 e ½ si spengono tutte le lampade). «E io ho ben <a id="p113"></a><!-- page: 113; scan: Page:Weil - La Condition ouvrière, 1951.djvu/125 -->fatto questa e quest’altra cosa senza luce.» «Non avrebbe dovuto rispondere al capo (aveva rifiutato di fare il lavoro), avrebbe dovuto andare a dire al vicedirettore: Ho avuto torto, ma, ecc.» «Quando bisogna guadagnarsi da vivere, bisogna fare quel che va fatto.» «Quando ci si deve guadagnare da vivere, bisogna essere più coscienziosi (!).»
+
+Alcune operaie:
+
+La vecchia che è andata in Russia nel 1905 — che non «si annoiava mai quando viveva sola, perché leggeva la sera — che ha una Schwarmerei per Tolstoj (Resurrezione: «sublime», «quell’uomo capiva l’amore»).
+
+Quella che ha un portamento da regina e il cui marito lavora alla Citroën.
+
+Quella di trentasei anni che vive con i genitori.
+
+L’alsaziana.
+
+Alcuni operai:
+
+Il magazziniere.
+
+L’ex aggiustatore e professore di violino.
+
+Il biondo dall’aria conquistatrice, manovale specializzato.
+
+Jacquot.
+
+Il capo dei regolatori.
+
+Il ragazzone del Nord, regolatore.
+
+Il tipo incantevole con gli occhiali (regolatore o caposquadra?).
+
+Quello al forno che canta tutto il tempo.
+
+⁂
+
+L’ignoranza totale di ciò a cui si lavora è estremamente demoralizzante. Non si ha il sentimento che un prodotto risulti dagli sforzi che si compiono. Non ci si sente affatto nel novero dei produttori. Non si ha neppure il sentimento del rapporto tra il lavoro e il salario. L’attività sembra imposta arbitrariamente e arbitrariamente retribuita. Si ha l’impressione di essere un po’ come bambini ai quali la madre, per farli stare tranquilli, dà perline da infilare promettendo loro delle caramelle.
+
+Sapere se un operaio qualificato?…
+
+*Domanda da porre al magazziniere:* Si inventano talvolta degli utensili?
+
+Domanda: Quali ripercussioni hanno avuto sul <a id="p114"></a><!-- page: 114; scan: Page:Weil - La Condition ouvrière, 1951.djvu/126 -->sviluppo dell’industria il *Trattato di meccanica* di d’Alembert e la *Meccanica analitica* di Lagrange?
+
+Principio delle macchine utensili. Gli utensili sono trasformazioni di movimenti. È dunque inutile che il movimento da trasformare sia impresso dalla mano.
+
+Domanda: Si possono creare *macchine automatiche flessibili?* Perché no?
+
+Ideale: 1<sup style="font-size:70%;">o</sup> che non vi sia *autorità* se non *dell’uomo sulla cosa* e non *dell’uomo sull’uomo*.
+
+2<sup style="font-size:70%;">o</sup> Che tutto ciò che, nel lavoro, non costituisce la traduzione di un pensiero in atto sia affidato alla cosa.
+
+(Che il *lavoro parcellizzato* sia opera della macchina…) con un’idea universale delle trasformazioni di movimenti…
+
+Che tutte le nozioni fisiche esprimano *direttamente* realtà tecniche (ma *sotto forma di rapporto*); esempio: potenza.
+
+⁂
+
+Potenza che può fornire una macchina mossa da una cinghia di trasmissione (calcolata in anticipo in base alla robustezza della macchina), dipende da:
+
+|  |  |  |
+| --- | --- | --- |
+| N. di giri al sec. dell’albero principale che le fornisce il movimento      (   n 60   )    {\displaystyle \left({\frac {n}{60}}\right)}  {\displaystyle \left({\frac {n}{60}}\right)}  Raggio della puleggia montata su quest’albero alla quale è collegata     d  /  2   {\displaystyle d/2}  {\displaystyle d/2}. | }    {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}}  {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}} | Velocità lineare della cinghia. |
+
+|  |  |  |
+| --- | --- | --- |
+| Coefficiente di attrito (      tg     ω   {\displaystyle {\textrm {tg}}\ \omega }  {\displaystyle {\textrm {tg}}\ \omega }) [che aumenta quando lo slittamento varia aumentando?]  Pressione (funzione della tensione del ramo condotto     t   {\displaystyle t}  {\displaystyle t}).  Arco avvolto sull’una e sull’altra puleggia (    α   {\displaystyle \alpha }  {\displaystyle \alpha }). | }    {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}}  {\displaystyle \left.{\begin{matrix}\\\\\\\\\\\end{matrix}}\right\}} | Sforzo tangenziale. |
+
+n 60   . π d . t (  e  f α   − 1 )   {\displaystyle {\frac {n}{60}}.\pi d.t(e^{f\alpha }-1)}  ![{\displaystyle {\frac {n}{60}}.\pi d.t(e^{f\alpha }-1)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/d0a0505dbaf016b951a971b373baad327bf95e04),     e   {\displaystyle e}  ![{\displaystyle e}](https://wikimedia.org/api/rest_v1/media/math/render/svg/cd253103f0876afc68ebead27a5aa9867d927467) essendo la base dei logaritmi neperiani<!-- Wikisource: coquille, lezione del facsimile "répériens" -->.
+
+Differenza tra filettatura, cilindratura, spogliatura. <a id="p115"></a><!-- page: 115; scan: Page:Weil - La Condition ouvrière, 1951.djvu/127 -->
+
+⁂
+
+Visita alle Arts et Métiers:
+
+Ingranaggi, trasformazioni di movimenti…
+
+Ricominciare. Lasciare Renault non troppo tardi…
+
+Fresatrice:
+
+Ritmo ininterrotto (aver sempre fatto 2.000 e qualche centinaio per le 7).
+
+Stringere la morsa.
+
+Mettere da parte gli scarti.
+
+Far cadere i pezzi nella cassa (colpo secco, ma non troppo forte):
+
+Raccogliere bene i pezzi caduti nella segatura.
+
+Togliere la segatura tutti i giorni.
+
+Contare.
+
+Fermarmi alle 6 e ½.
+
+Imparare a fare più in fretta il taglio delle bande metalliche (mov. più continuo).
+
+Fare più in fretta la spianatura (posizionare più in fretta…).
+
+Rendersi chiaramente conto prima di ogni lavoro (o, per i lavori del tutto nuovi, dopo un po’ di tempo) delle difficoltà possibili, in particolare di come la macchina può sregolarsi, dell’elenco completo degli errori da evitare. Di tanto in tanto ripeterselo mentalmente. Non lasciarsi rallentare dalla preoccupazione di difficoltà immaginarie.
+
+Prendere un ritmo definito soprattutto da un *movimento continuo* dal pezzo finito al pezzo nuovo, dal pezzo posizionato al colpo di pedale.
+
+Sforzarmi sistematicamente di prendere la mano per posizionare e ritirare il pezzo, in particolare *la mano* *per posizionarlo contro la battuta (molto importante).* [Sostenere con la mano e spingere con un dito s/ la battuta; non *afferrare mai* il pezzo con la mano.]
+
+Non dimenticare che il sonno è ciò che più di tutto è necessario al lavoro.
+
+Stupidaggini commesse da evitare d’ora in poi (rileggere questa lista 2 volte al giorno):
+
+1.
+
+Inzeppare la macchina [cartoni] *può causare incidenti gravi.*
+
+<a id="p116"></a><!-- page: 116; scan: Page:Weil - La Condition ouvrière, 1951.djvu/128 -->
+
+2.
+
+Non guardare da *MOLTO* vicino un pezzo ogni… (500 pezzi difettosi).
+
+3.
+
+Non conservare modelli.
+
+4.
+
+Mettere pezzi al contrario (rivettatura; fatto 2 volte; quasi fatto parecchie altre volte).
+
+5.
+
+*Azionare il pedale con tutto il corpo.*
+
+6.
+
+*Tenere il piede premuto sul pedale.*
+
+7.
+
+Lasciare un pezzo nell’utensile (si rischia di danneggiare l’utensile — fatto ancora alla spianatura).
+
+8.
+
+Posizionare male il pezzo (non contro la battuta).
+
+9.
+
+*Non mettere olio quando occorre.*
+
+10.
+
+Mettere due pezzi di seguito [cartoni] *può causare incidenti gravi.*
+
+11.
+
+*Non osservare la posizione delle mani del regolatore.*
+
+12.
+
+*Non accorgersi quando succede qualcosa alla macchina* (collari con Biol).
+
+13.
+
+Posizionare la banda metallica oltre la battuta (rotto utensile giovedì 6 marzo).
+
+14.
+
+*Azionare il pedale prima che il pezzo sia posizionato.*
+
+15.
+
+*Rivoltare una banda metallica già iniziata.*
+
+16.
+
+Lasciare pezzi non lavorati.
+
+#### Stabilimenti di R. (Signor B).
+
+1 volta su 2 un buon operaio diventa un cattivo caposquadra. [raccontargli la storia di Morillon].
+
+Talento dell’organizzazione: si chiede *da dove viene*… (qualcosa che non torna).
+
+Lui e l’ingegnere capo hanno praticamente lo stesso ambito.
+
+14-18, adattamento dell’attrezzatura alla produzione bellica. Metodo cartesiano (divisione delle difficoltà).
+
+Giornata occupata da dettagli *a proposito dei quali* si sollevano i problemi essenziali di organizzazione.
+
+Risolve i dettagli: 1<sup style="font-size:70%;">o</sup> o che sono fuori dall’ambito della *responsabilità* di chi si rivolge a lui, 2<sup style="font-size:70%;">o</sup> o che sono troppo difficili
+
+da chiarire.
+
+< Cf. Detœuf — un subordinato — viene a esporgli una difficoltà e ciò che fa — 9 volte su 10, approva. La 10<sup style="font-size:70%">a</sup>, fa un suggerimento brillante. L’altro è contento in ogni caso… Cf. Tolstoj. >
+
+I diagrammi, ecc. Un *capo* deve immaginare tutto questo senza alcuno sforzo; va da sé. Trova piuttosto le idee <a id="p117"></a><!-- page: 117; scan: Page:Weil - La Condition ouvrière, 1951.djvu/129 -->guardando le statistiche che guardando le cose [notevole…].
+
+< Fa anche lavoro da ingegnere; ricerca di nuovi modelli. >
+
+Formazione mentale: analisi chimiche.
+
+Lavoro principale: concordanza delle operazioni, ritmo…
+
+#### 9/10 di manovali.
+
+Fusione della ghisa in caldaie.
+
+Colata della ghisa in stampi di sabbia dura.
+
+Presse a mano — idrauliche per pressare la sabbia. 4 macchine (inventate nel 1927 da un ingegnere uscito dalle Arts et Métiers).
+
+La sabbia viene setacciata automaticamente, ecc. — poi passa sotto rulli — poi trasportatore sul quale si cola la ghisa. La 1<sup style="font-size:70%">a</sup> è costata 400.000 fr.
+
+Reparto di foratura, lucidatura, sbavatura alla mola, 1 donna a una pressa.
+
+Alcune donne in piedi, una delle quali a una macchina (?) dove bisogna sollevare pesi molto pesanti.
+
+Reparto di montaggio.
+
+Ogni operaio entra tra 2 scaffali dove sono tutti i pezzi *nell’ordine*. Uomini e donne, alcuni pezzi piuttosto pesanti…
+
+Reparto di smaltatura.
+
+Rep. di meccanica (alcuni tornitori, fresatori, aggiustatori) (doveva essercene un altro che non abbiamo visto?).
+
+*M. B.:* direttore tecnico, dapprima semplice chimico (senza diploma? è possibile? chiedere ancora dettagli).
+
+Incidenti: su 1 giornata di lav. della fabbrica, in media 1 h. perduta…
+
+Calo verticale, negli ultimi tempi.
+
+Fonditori — occhiali in vetro triplex. Spesso non li mettono. Perché? B. dice ch. non è a causa della cadenza, ma per la scomodità (?).
+
+Smaltatori — gabbie di vetro con aspirazione, per evitare intossicazione da piombo. Alcuni mettono la testa nella gabbia.
+
+Licenziamenti per infrazioni ai regolamenti di sicurezza.
+
+I polacchi hanno bisogno di *ricevere ordini*.
+
+Commissione di sicurezza con ingegneri, disegnatori, <a id="p118"></a><!-- page: 118; scan: Page:Weil - La Condition ouvrière, 1951.djvu/130 -->capi del personale, operai nominati da B. (i + intelligenti e le «teste calde» —).
+
+Deve risolvere tutti i problemi insolubili — soprattutto dettagli — molti imprevisti… Vengono a cercarlo… riunisce gli ingegneri una volta alla settimana.
+
+Media dei salari: uomini: una trentina di fr. (32…); donne: 20 fr. 21 fr…
+
+M. giovane, 27 anni — uscito dalla Centrale da 3 anni — è cresciuto nella fabbrica…, figlio maggiore.
+
+Math. sup.: ginnastica dello spirito — insostituibile a suo giudizio —
+
+Il suo atteggiamento con l’automobilista in panne — reazione di sua madre e dell’orribile borghese [«il suo motore non va a vino», «non parlate al conducente» (!!!)].
+
+<abbr class="abbr" title="Signora">SIG.<sup style="font-size:70%;">RA</sup></abbr> M.
+
+L’orribile borghese…
+
+Bisogna essere *duri* per conservare la chiarezza e la precisione di spirito, la decisione?
+
+Le matematiche superiori non sarebbero anch’esse (cf. Chartier) un mezzo per «formare l’attenzione uccidendo la riflessione»?
+
+Che ruolo, in questa gente, svolge la questione del denaro?
+
+⁂
+
+Chiedere a D.
+
+Chi determina l’attrezzatura? L’acquisto delle macchine (sempre D. in persona), ecc.? e secondo quali regole?
+
+Al tornitore.
+
+Ha calcoli da fare?
+
+Guihéneuf. «È l’esperienza…» Ma tuttavia D.?
+
+⁂
+
+Ritmo ininterrotto. Il lavoro a mano lo comporta mai? La macchina dispensa il pensiero dall’intervenire *sia pure minimamente*, anche mediante la semplice coscienza delle operazioni compiute; il ritmo glielo impedisce.
+
+(Guihéneuf e le sue leve…) <a id="p119"></a><!-- page: 119; scan: Page:Weil - La Condition ouvrière, 1951.djvu/131 -->
+
+⁂
+
+Visita a G.
+
+Biografia: falegname, 3 anni alla scuola professionale, dove ha subito l’influenza di un professore socialista. Ha subito l’influenza della tradizione del compagnonnage, attraverso vecchi operai. Ha fatto il suo «giro di Francia» recandosi in ogni città alla sede del suo sindacato (è stato subito sindacalista, non socialista), ha seguito corsi serali, si è istruito in tutto ciò che riguardava la lavorazione del legno. Mobilitato a metà del 17, è stato assegnato all’aviazione e mandato in una scuola. All’armistizio, ancora mobilitato, mandato a Parigi, in un ministero. Congedato nel 20, ha lavorato in fabbriche di aviazione (?). Parte per la Russia (23), vi ha lavorato come operaio in fabbriche di aeroplani. Mandato in Siberia come ispettore di una grande impresa del legno, passa poi direttore di una fabbrica; vi *raddoppia* la produzione, senza cambiare l’attrezzatura. Poi passa direttore del trust (sempre membro del Partito, nel quale era entrato in Francia nel 21, in seguito a Monatte). Disgustato dal regime, dopo riflessione, chiede di studiare. Riceve una borsa. Si ingoia in pochi mesi tutta la matematica di 2<sup style="font-size:70%">o</sup> grado, supera l’esame di ammissione. Studia 3 anni. Ingegnere per 6 mesi in una fabbrica di aeroplani (motori). Torna in Francia nel gennaio 34. Senza lavoro, cerca invano un posto da ingegnere, correttore, ecc. Finisce per entrare come tornitore (non avendo *mai* lavorato a un tornio) in una piccola ditta di cui conosce il sorvegliante (uomo vanitoso e brutale), lavora a cottimo. Tornio non automatico (dello stesso genere che all’attrezzeria). Dopo 2 giorni, raggiunge le norme. È lì da quasi un anno, non ha mai avuto grosse difficoltà. Ma stanco e istupidito.
+
+Informazioni:
+
+|  |  |  |
+| --- | --- | --- |
+| *Sulla Russia* | *Sul lavoro operaio* | *Sulla tecnica* |
+| — | — | — |
+| Gli specialisti del Gosplan acquisiscono destrezza, intuizione…, sarebbero difficilmente sostituibili — saranno insostituibili tra 10 anni. | Non si può pensare ad altro, non si pensa a *nulla*. | Ruolo della matematica.  Vantaggio di averla imparata.  Tecnici di altissimo livello che *leggono* la matematica come un linguaggio attraverso il quale scorgono direttamente le realtà.  Es.: comprendono meglio un’opera tecnica in una lingua straniera che ignorano che se conoscessero la lingua senza capire le formule (???). |
+
+<a id="p120"></a><!-- page: 120; scan: Page:Weil - La Condition ouvrière, 1951.djvu/132 -->
+
+⁂
+
+Il *Racine* di Tal. — Un’idea: la morte presente ovunque nelle sue tragedie, eroi che tutti, fin dall’inizio, corrono verso la morte. La morte è in loro (Ifigenia…). Al contrario in Omero, Sofocle: il dramma è che sono povera gente (δειλοῖσι βροτοῖσι) che vorrebbe vivere, e che sono loro a essere schiacciati da un destino esterno, che però li stritola fin nel profondo di se stessi (Aiace, Edipo, Elettra).
+
+Umanità comune: La tragedia di Racine è davvero una tragedia di corte. Soltanto il potere può creare un simile deserto nelle anime. Poeta *inumano*, perché se tale fosse la «condizione umana», come dice T., tutti sarebbero già morti…
+
+È sempre l’orgoglio a essere umiliato in Racine. (Con quale insolenza e quale crudeltà… Tu piangi, infelice… E d’un crudele rifiuto…) È la fierezza in Omero, Sofocle.
+
+Confrontare:
+
+*Andromaca, senza di voi,*
+
+*non avrebbe mai abbracciato le ginocchia d’un padrone.*
+
+(questa è la schiavitù del *cortigiano*, la servitù non fisica; è chiaro che l’Andromaca di Racine non porta acqua, non tesse la lana. È in modo ben diverso che si è umiliati da un sorvegliante…)
+
+e: …πρὸς ἄλλης ἱστὸν ὑφαίνοις,
+ καί κεν ὕδωρ φορέοις Μεσσηίδος ἢ Ὑπερείης,
+ πόλλ᾽ ἀεκαζομένη, κρατερὴ δ᾽ ἐπικείσετ᾽ ἀνάγκη[^3].
+
+Il potere. Le sue specie, i suoi gradi, la profonda trasformazione che opera nelle anime. Capitano e marinaio (Peisson). Caporeparto (Mouquet) e operaio…
+
+Altra cosa: in Omero, Achille sa correre, ecc. Ettore, domatore di cavalli. Ulisse. In Sofocle: Filottete, ecc. Agli eroi di Racine non resta che il potere *puro*, senza alcun saper fare. (Ippolito, personaggio sacrificato, perché proprio lui non corre verso la morte.) <a id="p121"></a><!-- page: 121; scan: Page:Weil - La Condition ouvrière, 1951.djvu/133 -->Non sorprende che Racine abbia avuto la vita privata più tranquilla. Le sue tragedie sono in fondo fredde, non hanno nulla di doloroso. Dolorosa è soltanto la sorte dell’uomo di cuore che vuole vivere e non riesce a farlo (Aiace).
+
+(I personaggi di Racine sono precisamente delle astrazioni nel senso che sono già morti.) [Chi diceva dunque: Quando Racine scrive la parola: morte, non pensa alla morte? Nulla di più vero. Cf. la sua estrema paura di morire. Mentre per i suoi eroi, come Tal. ha visto bene, la morte è una distensione. Bisogna avere soltanto 25 anni per credere che questo sia un poeta umano…]
+
+*Domande da pormi:*
+
+Parte dell’abilità manuale nel lavoro alla macchina. Carattere più o meno cosciente di questa abilità manuale. < Cf. magazziniere e, al contrario, regolatori, in particolare quel bruto ottuso di Léon. >
+
+⁂
+
+Idea universale del lavoro meccanico: combinazione di movimenti, es.: fresatura, far apparire la pura idea in questi esempi ben ordinati…
+
+< Chartier ha soltanto una visione superficiale e primaria del macchinismo. >
+
+Analogia tra lavoro e geometria…
+
+La fisica sarebbe da dividere in 2 parti: 1<sup style="font-size:70%;">o</sup> i fenomeni naturali che sono oggetti di contemplazione (astronomia);
+
+2<sup style="font-size:70%;">o</sup> i fenomeni naturali che sono materia e ostacolo del lavoro.
+
+Bisognerebbe non separare geometria, fisica e meccanica (pratica)…
+
+*Nuovo metodo di ragionare* che sia assolutamente *puro* — e insieme intuitivo e concreto.
+
+Cartesio è ancora troppo poco liberato dal *sillogismo*.
+
+Ri-meditare sulla «conoscenza del 3<sup style="font-size:70%">o</sup> genere» — da collegare al teorema «quanto più il corpo è atto… tanto più l’anima ama Dio».
+
+⁂
+
+Sapere se nell’impresa ci sono problemi — difficoltà — complicazioni o spese evitabili — di cui <a id="p122"></a><!-- page: 122; scan: Page:Weil - La Condition ouvrière, 1951.djvu/134 -->*nessuno* si occupa, perché nessuno ne ha la responsabilità. Ma come saperlo? Interrogare Det.? Difficile, poiché per definizione ignorerebbe queste cose.
+
+⁂
+
+Il lavoro può essere penoso (anche molto penoso) in due modi. La fatica può essere sentita come quella di una lotta vittoriosa contro la materia e contro se stessi (*forno*), oppure come quella di una servitù degradante (i 1.000 pezzi di rame allo 0,45% della 6<sup style="font-size:70%">a</sup> e 7<sup style="font-size:70%">a</sup> settimana, ecc.). [Ci sono degli intermedi, mi sembra). Da che cosa dipende la differenza? Il salario, credo, c’entra qualcosa. Ma il fattore essenziale è certamente *la natura della fatica*. Sarebbe da studiare da vicino per distinguere nettamente e, se possibile, classificare.
+
+⁂
+
+Una *critica* della matematica sarebbe relativamente facile. Bisognerebbe farla da un punto di vista del tutto materialista: gli *strumenti* (segni) hanno tradito i grandi spiriti che furono Cartesio, Lagrange, Gallois e tanti altri. Cartesio, nelle *Regulae*, ha intravisto che la questione dei segni era quella essenziale, e non soltanto la loro esattezza e precisione, ma qualità in apparenza secondarie come la maneggevolezza, la facilità, ecc., che sembrano comportare soltanto differenze di grado; ma in realtà è tutt’altra cosa, e lì più che altrove «la quantità si trasforma in qualità». Ma Cartesio si è fermato a metà strada, e la sua *Geometria* è quasi quella di un matematico volgare (benché di 1<sup style="font-size:70%">o</sup> ordine). Una critica minuziosa dei segni sarebbe facile e utile. Ma una visione positiva, lì sta la grande questione.
+
+< Segni e burocrazia. >
+
+Cercare le condizioni *materiali* del pensiero chiaro.
+
+Quanto sarebbe facile (e difficile!) trovare gioia in *tutti* i contatti con il mondo…
+
+⁂
+
+In che cosa consiste la difficoltà dell’esercizio dell’intelletto? Nel fatto che si può veramente riflettere soltanto sul particolare, mentre l’oggetto della riflessione è per essenza l’universale. Non si sa come i Greci abbiano risolto <a id="p123"></a><!-- page: 123; scan: Page:Weil - La Condition ouvrière, 1951.djvu/135 -->questa difficoltà. I moderni l’hanno risolta mediante segni *che rappresentano ciò che è comune a più cose;* ora, questa soluzione non è buona. La mia è…
+
+[Cartesio avrebbe visto lo scarto formidabile tra le *Regulae* e la *Geometria* senza l’errore imperdonabile di aver redatto quest’ultima da matematico volgare.]
+
+Dei 2 modi di comprendere una dimostrazione…
+
+⁂
+
+In ogni operazione matematica, ci sono due cose da distinguere:
+
+1<sup style="font-size:70%;">o</sup> Dati dei *segni*, con leggi convenzionali, che cosa si può sapere dei loro rapporti reciproci? Bisognerebbe arrivare a una concezione abbastanza chiara delle combinazioni di segni per formare una teoria universale di *tutte* le combinazioni di segni prese *come tali* (teoria dei gruppi?).
+
+2<sup style="font-size:70%;">o</sup> Rapporto tra le combinazioni di segni e i problemi reali posti dalla natura (rapporto che consiste *sempre* in un’*analogia*).
+
+Per quanto riguarda le combinazioni di segni prese come tali, ci vorrebbe un catalogo completo delle difficoltà — tenendo conto di quelle che riguardano il tempo e lo spazio.
+
+Quanto all’applicazione, uno studio perspicace lascerebbe senza dubbio intravedere che essa non poggia sulla proprietà di rappresentare le cose che sarebbe contenuta nei segni (qualità occulta), ma su un’*analogia delle operazioni*.
+
+*Ci vorrebbe un elenco delle applicazioni della matematica.*
+
+Non esiste una concezione generale della scienza…
+
+Movimento ascendente e discendente perpetuo dalle cose ai simboli [ai simboli sempre più astratti] e dai simboli alle cose. Es.: geometria e teoria dei gruppi (invarianti….) [continuo — discontinuo….].
+
+Fare un elenco delle difficoltà che comportano i lavori? — difficile.
+
+E una serie dei lavori? La meccanica avendo *il maggior numero* *di rapporti* con la matematica.
+
+Anche *serie dei segni* nello sforzo perpetuo di coloro che li creano per rendere le loro combinazioni sempre più analoghe alle condizioni *reali* del lavoro umano. <a id="p124"></a><!-- page: 124; scan: Page:Weil - La Condition ouvrière, 1951.djvu/136 -->
+
+⁂
+
+Padrone e servitore. Oggi, servitori *assolutamente* servitori, senza il rovesciamento hegeliano.
+
+È a causa del dominio delle forze della natura…
+
+⁂
+
+In tutte le altre forme di schiavitù, la schiavitù è nelle circostanze. Soltanto qui è trasferita nel lavoro stesso.
+
+Effetti della schiavitù sull’anima.
+
+⁂
+
+Ciò che conta in una vita umana non sono gli avvenimenti che ne dominano il corso degli anni — o persino dei mesi — o persino dei giorni. È il modo in cui un minuto si concatena al successivo, e ciò che costa a ciascuno nel corpo, nel cuore, nell’anima — e soprattutto nell’esercizio della propria facoltà di attenzione — effettuare minuto per minuto questo concatenamento.
+
+Se scrivessi un romanzo, farei qualcosa di interamente nuovo.
+
+Conrad: unione tra il vero marinaio (capo, evidentemente…) e la sua nave, tale che ogni ordine deve venire per ispirazione, senza esitazione né incertezza. Ciò presuppone *un* *regime dell’attenzione* molto diverso sia dalla riflessione sia dal lavoro asservito.
+
+Domande:
+
+1<sup style="font-size:70%;">o</sup> C’è talvolta una simile unione tra un operaio e la sua macchina? (Difficile saperlo.)
+
+2<sup style="font-size:70%;">o</sup> Quali sono le condizioni di una simile unione:
+
+1] Nella struttura della macchina.
+
+2] Nella cultura tecnica dell’operaio.
+
+3] Nella natura dei lavori.
+
+Questa unione è evidentemente la condizione di una felicità piena. Essa sola fa del lavoro un equivalente dell’arte.
+
+---
+
+[^1]: Pagine scritte durante il soggiorno in fabbrica (1934-1935) e nell’anno seguente.
+
+[^2]: Vedi [pagina 38](https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/06#p38 "La Condition ouvrière/06").
+
+[^3]: *Iliade*, VI, 456-458.
+
+… tesserai la tela per un’altra   
+ E porterai l’acqua dalla Messeide o dall’Iperea,  
+ Tuo malgrado, sotto il peso di una dura necessità.

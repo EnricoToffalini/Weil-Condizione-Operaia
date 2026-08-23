@@ -1,0 +1,192 @@
+# Struttura interna dei capitoli del sito italiano.
+#
+# Questo file NON modifica il corpus: descrive soltanto come `scripts/build_site.py`
+# deve suddividere i testi lunghi quando genera `site/testi/*.qmd`.
+#
+# Chiavi ammesse per ciascun testo (tutte facoltative):
+#
+#   sigla: parte-di-url
+#       Sostituisce la parte di URL ricavata automaticamente dal titolo,
+#       utile per i titoli molto lunghi.
+#
+#   livello_titoli_originali: 2 | 3
+#       Livello a cui portare i titoletti `####` già presenti nel corpus.
+#       Valore predefinito: 2.
+#
+#   promuovi: [prefisso, ...]
+#       Titoletti originali da forzare al livello 2 (prevale su quanto sopra).
+#
+#   subordina: [prefisso, ...]
+#       Titoletti originali da forzare al livello 3 (prevale su quanto sopra).
+#
+#   blocchi: [titolo | ~, ...]
+#       Titolo editoriale per ciascun blocco separato da una riga `---`
+#       (le lettere raccolte in un unico testo). `~` lascia il blocco
+#       così com’è, perché ha già un titolo suo.
+#
+#   sezioni: [{prima_di: prefisso, titolo: ..., occorrenza: n}, ...]
+#       Titolo editoriale inserito prima del paragrafo che comincia con
+#       `prima_di`. `occorrenza` serve solo se il prefisso non è unico.
+#
+# I titoli editoriali sono resi con la classe CSS `.sez-ed` e sono
+# dichiarati come tali nella pagina "Nota al testo".
+
+02_trois_lettres_a_albertine_thevenon:
+  blocchi:
+    - Prima lettera
+    - Seconda lettera
+    - Terza lettera
+
+06_journal_d_usine:
+  livello_titoli_originali: 3
+  promuovi:
+    - "Alla ricerca di un"
+    - "Seconda ditta"
+    - "Per la 2"
+    - "Renault."
+  sezioni:
+    - prima_di: "#### Prima settimana."
+      titolo: "Prima ditta: Alsthom (dicembre 1934 – aprile 1935)"
+    - prima_di: "Che cosa ho guadagnato da questa esperienza?"
+      titolo: "Bilancio dell’esperienza"
+
+07_fragments:
+  livello_titoli_originali: 2
+  subordina:
+    - "9/10 di manovali"
+  sezioni:
+    - prima_di: "Organizzazione burocratica della fabbrica"
+      titolo: "La fabbrica: uffici, gerarchia, concorrenza"
+    - prima_di: "Componente artigianale nel lavoro"
+      titolo: "Il mestiere: utensili, ruoli, competenze"
+    - prima_di: "Osservazioni sul genere di attenzione"
+      titolo: "L’attenzione, le operaie, gli operai"
+    - prima_di: "L’ignoranza totale di ciò a cui si lavora"
+      titolo: "L’ignoranza dell’insieme e un ideale del lavoro"
+    - prima_di: "Potenza che può fornire una macchina"
+      titolo: "Nota tecnica: la potenza trasmessa da una cinghia"
+    - prima_di: "Visita alle Arts et Métiers:"
+      titolo: "Arts et Métiers; propositi e sciocchezze da evitare"
+    - prima_di: "Chiedere a D."
+      titolo: "Domande a D. e al tornitore"
+    - prima_di: "Ritmo ininterrotto. Il lavoro a mano"
+      titolo: "Ritmo del lavoro e pensiero"
+    - prima_di: "Visita a G."
+      titolo: "Visita a G."
+    - prima_di: "Il *Racine* di Tal."
+      titolo: "Racine, Omero, il potere"
+    - prima_di: "Idea universale del lavoro meccanico"
+      titolo: "Lavoro, geometria, fisica: verso un nuovo metodo"
+    - prima_di: "Sapere se nell’impresa ci sono problemi"
+      titolo: "Note sull’impresa, la fatica, la matematica"
+    - prima_di: "Padrone e servitore."
+      titolo: "Padrone e servitore: la schiavitù nel lavoro"
+    - prima_di: "Ciò che conta in una vita umana"
+      titolo: "L’operaio e la sua macchina"
+
+08_lettres_a_un_ingenieur_directeur_d_usine:
+  livello_titoli_originali: 3
+  promuovi:
+    - "Risposta di M. B."
+  blocchi:
+    - Prima lettera
+    - Seconda lettera
+    - Terza lettera
+    - Quarta lettera
+    - Quinta lettera
+    - Sesta lettera
+    - Settima lettera
+    - Ottava lettera
+    - Nona lettera
+    - Decima lettera
+    - Undicesima lettera
+    - ~
+    - Dodicesima lettera
+
+09_la_vie_et_la_greve_des_ouvrieres_metallos:
+  sezioni:
+    - prima_di: "Finalmente si respira!"
+      titolo: "Che cos’è questo sciopero"
+    - prima_di: "Un reparto, da qualche parte in periferia"
+      titolo: "Immagini della fabbrica"
+    - prima_di: "La fame."
+      titolo: "Fame, fatica, paura, costrizione"
+    - prima_di: "Non appena si è sentita allentarsi la pressione"
+      titolo: "La gioia dello sciopero"
+    - prima_di: "E le rivendicazioni, che cosa bisogna pensarne?"
+      titolo: "Le rivendicazioni e i problemi che restano"
+
+12_remarques_sur_les_conflits_du_nord:
+  sigla: osservazioni-sui-conflitti-del-nord
+
+13_principes_d_un_projet_de_regime_interieur:
+  sigla: principi-di-un-nuovo-regime-interno
+
+11_lettres_a_auguste_detoeuf:
+  sezioni:
+    - prima_di: "Caro Signore,"
+      occorrenza: 1
+      titolo: "Prima lettera"
+    - prima_di: "*Venerdì.*"
+      titolo: "Seconda lettera"
+
+14_la_rationalisation:
+  sezioni:
+    - prima_di: "La parola «razionalizzazione» è piuttosto vaga"
+      titolo: "Che cos’è la razionalizzazione"
+    - prima_di: "Il problema del regime più desiderabile"
+      titolo: "Il regime interno delle imprese: una lacuna del movimento operaio"
+    - prima_di: "Per caratterizzare il regime attuale"
+      titolo: "Taylor: dall’officina al sistema"
+    - prima_di: "Il metodo di Taylor consiste essenzialmente"
+      titolo: "Il metodo di Taylor"
+    - prima_di: "Vi è stato anzitutto il lavoro alla catena"
+      titolo: "Ford e il lavoro alla catena"
+    - prima_di: "Lo spirito di un simile sistema"
+      titolo: "Non lavorare meglio, ma far lavorare di più"
+    - prima_di: "Quando Taylor instaurò il suo sistema"
+      titolo: "Gli effetti del sistema sugli operai"
+    - prima_di: "Taylor ha sempre sostenuto"
+      titolo: "La psicotecnica e l’autorità della scienza"
+
+16_experience_de_la_vie_d_usine:
+  sezioni:
+    - prima_di: "Le righe che seguono si riferiscono"
+      titolo: "Perché queste pagine"
+    - prima_di: "La fabbrica potrebbe colmare l’anima"
+      titolo: "Ciò che la fabbrica potrebbe essere"
+    - prima_di: "Il primo dettaglio che, nella giornata"
+      titolo: "La servitù nella giornata di lavoro"
+    - prima_di: "Ciò che soprattutto li costringe a questo"
+      titolo: "Gli ordini e la monotonia"
+    - prima_di: "Certi incidenti, nel corso del lavoro"
+      titolo: "Le gioie del lavoro e i loro limiti"
+    - prima_di: "Oggigiorno, non è soltanto nei negozi"
+      titolo: "Il lavoratore trattato come una merce"
+    - prima_di: "È difficile essere creduti"
+      titolo: "Descrivere la sventura"
+    - prima_di: "La fabbrica dovrebbe essere un luogo di gioia"
+      titolo: "Che cosa dovrebbe essere cambiato"
+    - prima_di: "Il tempo e il ritmo sono il fattore"
+      titolo: "Il tempo e il ritmo"
+    - prima_di: "Il male che si tratta di guarire"
+      titolo: "Un male che riguarda tutta la società"
+
+17_condition_premiere_d_un_travail_non_servile:
+  sezioni:
+    - prima_di: "Nel lavoro delle mani"
+      titolo: "L’elemento di servitù nel lavoro"
+    - prima_di: "La nausea, la stanchezza, il disgusto"
+      titolo: "La monotonia, il vuoto, l’orrore del tempo"
+    - prima_di: "Il sentimento rivoluzionario"
+      titolo: "Il sentimento rivoluzionario"
+    - prima_di: "Questo vuoto opprimente fa soffrire molto"
+      titolo: "Il solo rimedio: la bellezza del mondo"
+    - prima_di: "Una simile poesia non può avere che una sorgente"
+      titolo: "Una poesia che non può essere che religione"
+    - prima_di: "Essa è possibile soltanto se nella materia"
+      titolo: "I simboli inscritti nella materia"
+    - prima_di: "A partire da qui si potrebbe fare molto"
+      titolo: "Un’educazione fondata sui simboli"
+    - prima_di: "Una certa subordinazione e una certa uniformità"
+      titolo: "Escludere l’arbitrio dal lavoro"

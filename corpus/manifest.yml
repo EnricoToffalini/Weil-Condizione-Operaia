@@ -1,0 +1,282 @@
+schema_version: 1
+edition:
+  title: La Condition ouvrière
+  author: Simone Weil
+  editor: Albert Camus
+  publisher: Gallimard
+  publication_place: Paris
+  publication_year: 1951
+canonical_source:
+  name: Wikisource francese
+  index_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re
+  wikisource_page: La Condition ouvrière
+  revision_id: 14795924
+  revision_timestamp: '2024-12-25T16:18:16Z'
+  snapshot_sha256: 61113d862baa985e87bceb0723e905577b174570a8de052e6cf8362f867c96ce
+acquired_at: '2026-08-23T14:07:06Z'
+acquisition:
+  method: MediaWiki Action API (action=parse), contenuto ProofreadPage espanso
+  api_endpoint: https://fr.wikisource.org/w/api.php
+  snapshot_directory: source/snapshots
+  converter: condition_ouvriere.wikisource.render_markdown
+expected_unit_count: 16
+weil_unit_count: 16
+editorial_unit_count: 0
+units:
+- id: co-1951-02
+  order: 2
+  title_fr: Trois lettres à Mme Albertine Thévenon (1934-1935)
+  author: Simone Weil
+  date: 1934-1935
+  page_start: 15
+  page_end: 22
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/02
+  wikisource_page: La Condition ouvrière/02
+  revision_id: 12780015
+  revision_timestamp: '2022-10-24T19:54:27Z'
+  local_file: corpus/fr/02_trois_lettres_a_albertine_thevenon.md
+  content_type: correspondence
+  is_simone_weil: true
+  sha256: 56a205334053ab24a377cb5c4b703884aa72921bffbb73d79c0b210e1d41ee25
+  snapshot_sha256: 2789a553254a6b8d8fa024cbbc15256222aef55ad0da733a2e311a4f2155a622
+- id: co-1951-03
+  order: 3
+  title_fr: Lettre à une élève (1934)
+  author: Simone Weil
+  date: '1934'
+  page_start: 23
+  page_end: 28
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/03
+  wikisource_page: La Condition ouvrière/03
+  revision_id: 12780016
+  revision_timestamp: '2022-10-24T19:54:34Z'
+  local_file: corpus/fr/03_lettre_a_une_eleve.md
+  content_type: correspondence
+  is_simone_weil: true
+  sha256: a82c9ec39bdce3749ade2ced6c76912b01c63b97779e754fcfd7f8e13a98eac0
+  snapshot_sha256: 25a341cb77ded44cd2746affa5fdfe5a61434c4fcab341ed16e442f1df2dcc7f
+- id: co-1951-04
+  order: 4
+  title_fr: Lettre à Boris Souvarine (1935)
+  author: Simone Weil
+  date: '1935'
+  page_start: 29
+  page_end: 31
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/04
+  wikisource_page: La Condition ouvrière/04
+  revision_id: 12780017
+  revision_timestamp: '2022-10-24T19:54:41Z'
+  local_file: corpus/fr/04_lettre_a_boris_souvarine.md
+  content_type: correspondence
+  is_simone_weil: true
+  sha256: 23bc319c685809e03880c94d125380be27dbfface5ff6f0a56fad01685619842
+  snapshot_sha256: 82617c26a8abcb8c50ead6718a24a8a7fc69946240dd3998019fbea308c1e744
+  editorial_notes: L’header Wikisource rende l’intervallo come « p. 29-- »; page_end=31 è ricavato dai marcatori di pagina stampata 29-31 presenti nel contenuto.
+- id: co-1951-05
+  order: 5
+  title_fr: Fragment de lettre à X. (1933-1934 ?)
+  author: Simone Weil
+  date: 1933-1934 ?
+  page_start: 33
+  page_end: 34
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/05
+  wikisource_page: La Condition ouvrière/05
+  revision_id: 12780018
+  revision_timestamp: '2022-10-24T19:54:49Z'
+  local_file: corpus/fr/05_fragment_de_lettre_a_x.md
+  content_type: correspondence-fragment
+  is_simone_weil: true
+  sha256: 1aa7b824341e7695b2e17903e57dda008a197b9e0edba1771323a27c5829db74
+  snapshot_sha256: a7db2cebb8f98d7171902b626ab29d22da702af19a81471ece3ff48672934b91
+- id: co-1951-06
+  order: 6
+  title_fr: Journal d’Usine (1934-1935)
+  author: Simone Weil
+  date: 1934-1935
+  page_start: 35
+  page_end: 107
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/06
+  wikisource_page: La Condition ouvrière/06
+  revision_id: 12780020
+  revision_timestamp: '2022-10-24T19:54:57Z'
+  local_file: corpus/fr/06_journal_d_usine.md
+  content_type: journal
+  is_simone_weil: true
+  sha256: a249ef49980a0876f3a7b05b5ae6e3e742fcf45fb5e2fce4a5cb7f107f2f1d10
+  snapshot_sha256: 01e7b0b99655af04c9386ea8af9d51239a26d5306cb1d1a8a2a0b71fbf8634e5
+- id: co-1951-07
+  order: 7
+  title_fr: Fragments
+  author: Simone Weil
+  date: null
+  page_start: 109
+  page_end: 124
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/07
+  wikisource_page: La Condition ouvrière/07
+  revision_id: 12780021
+  revision_timestamp: '2022-10-24T19:55:06Z'
+  local_file: corpus/fr/07_fragments.md
+  content_type: fragments
+  is_simone_weil: true
+  sha256: 03fbd401c9d17f40d0bf7d3c896c72715303cf1d3858bbdb1c34b74ac23d471b
+  snapshot_sha256: 35db5162b2cf4e524a13486da8e4eb9c2ab4b0a4171fea07cfdd59ab7b7d68c5
+- id: co-1951-08
+  order: 8
+  title_fr: Lettres à un ingénieur directeur d’usine (Bourges, janvier-juin 1936)
+  author: Simone Weil
+  date: janvier-juin 1936
+  page_start: 125
+  page_end: 159
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/08
+  wikisource_page: La Condition ouvrière/08
+  revision_id: 12780022
+  revision_timestamp: '2022-10-24T19:55:14Z'
+  local_file: corpus/fr/08_lettres_a_un_ingenieur_directeur_d_usine.md
+  content_type: correspondence
+  is_simone_weil: true
+  sha256: 3e349277ea5ddd509b01fd6564a2f2f7334f551eef3ff312956d7e45e875ef01
+  snapshot_sha256: a28e7a451a2e2706e6e591bfef9ba8b4c68aa0c864e03b2bb079c53de4873623
+- id: co-1951-09
+  order: 9
+  title_fr: La vie et la grève des ouvrières métallos (Sur le tas) (10 juin 1936)
+  author: Simone Weil
+  date: 10 juin 1936
+  page_start: 161
+  page_end: 174
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/09
+  wikisource_page: La Condition ouvrière/09
+  revision_id: 12780023
+  revision_timestamp: '2022-10-24T19:55:23Z'
+  local_file: corpus/fr/09_la_vie_et_la_greve_des_ouvrieres_metallos.md
+  content_type: article
+  is_simone_weil: true
+  sha256: 2189ee2e38bc7ee2301b99c3c27d8c0fee3fc7631a33580f15951d8a5f9eb303
+  snapshot_sha256: 4d0aec9b6bd2e5815332440b6d4d5600fc35223e322047b9002fb18ecc7a2ef6
+- id: co-1951-10
+  order: 10
+  title_fr: Lettre ouverte à un Syndiqué (après juin 1936)
+  author: Simone Weil
+  date: après juin 1936
+  page_start: 175
+  page_end: 179
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/10
+  wikisource_page: La Condition ouvrière/10
+  revision_id: 12780024
+  revision_timestamp: '2022-10-24T19:55:35Z'
+  local_file: corpus/fr/10_lettre_ouverte_a_un_syndique.md
+  content_type: open-letter
+  is_simone_weil: true
+  sha256: 8a8168cfe618427fb8086965f4e87ca830d57bfc68e19e72f524d57c960c1d56
+  snapshot_sha256: c7a96dadcdb165577668ca645d52b9e7d5fb9d907ba1116aa25d4b00b75f6dc0
+- id: co-1951-11
+  order: 11
+  title_fr: Lettres à Auguste Detœuf (1936-1937)
+  author: Simone Weil
+  date: 1936-1937
+  page_start: 181
+  page_end: 195
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/11
+  wikisource_page: La Condition ouvrière/11
+  revision_id: 12780025
+  revision_timestamp: '2022-10-24T19:55:44Z'
+  local_file: corpus/fr/11_lettres_a_auguste_detoeuf.md
+  content_type: correspondence
+  is_simone_weil: true
+  sha256: 30e17c10bc383062e14de69b0465cd553ab9d3d3b991679be2d7256151a8b541
+  snapshot_sha256: f75534c6b06cfb5de94eb55ec7e4184fe19afd8e6f412a20d256c7a1cbf6b231
+- id: co-1951-12
+  order: 12
+  title_fr: Remarques sur les enseignements à tirer des conflits du Nord (1936-1937 ?)
+  author: Simone Weil
+  date: 1936-1937 ?
+  page_start: 197
+  page_end: 205
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/12
+  wikisource_page: La Condition ouvrière/12
+  revision_id: 12780026
+  revision_timestamp: '2022-10-24T19:55:55Z'
+  local_file: corpus/fr/12_remarques_sur_les_conflits_du_nord.md
+  content_type: article
+  is_simone_weil: true
+  sha256: a01020c651441e0029374441ebee89ba941ee86328f849d1bdcd56e86445a9d8
+  snapshot_sha256: 019e04e8f2ecfbedb8030ad7fb5609a630e8ec5e97c81b785b4335f0046f3f63
+- id: co-1951-13
+  order: 13
+  title_fr: Principes d’un projet pour un régime intérieur nouveau dans les entreprises industrielles (1936-1937 ?)
+  author: Simone Weil
+  date: 1936-1937 ?
+  page_start: 207
+  page_end: 213
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/13
+  wikisource_page: La Condition ouvrière/13
+  revision_id: 12780027
+  revision_timestamp: '2022-10-24T19:56:04Z'
+  local_file: corpus/fr/13_principes_d_un_projet_de_regime_interieur.md
+  content_type: proposal
+  is_simone_weil: true
+  sha256: c152c4ad400b68e0b52be4ba028cb26f0478274df0aabf81bd45832507895fa4
+  snapshot_sha256: e3ede806a0f41a9192687aa519fb9a3ea1b589ae570a2049c904f853e86f70b0
+- id: co-1951-14
+  order: 14
+  title_fr: La rationalisation (23 février 1937)
+  author: Simone Weil
+  date: 23 février 1937
+  page_start: 215
+  page_end: 232
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/14
+  wikisource_page: La Condition ouvrière/14
+  revision_id: 15710881
+  revision_timestamp: '2026-03-29T19:32:18Z'
+  local_file: corpus/fr/14_la_rationalisation.md
+  content_type: lecture
+  is_simone_weil: true
+  sha256: f59db096a22b86bfb60abf27a167f7598f312df29aac980f7bd07832500b7c9d
+  snapshot_sha256: 9e28990e828c880a288ab8c7e4eb6de00d02d2cf5fa616e96c22ba0fb1543fdc
+- id: co-1951-15
+  order: 15
+  title_fr: La condition ouvrière (30 septembre 1937)
+  author: Simone Weil
+  date: 30 septembre 1937
+  page_start: 233
+  page_end: 239
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/15
+  wikisource_page: La Condition ouvrière/15
+  revision_id: 15712306
+  revision_timestamp: '2026-03-30T15:51:17Z'
+  local_file: corpus/fr/15_la_condition_ouvriere.md
+  content_type: article
+  is_simone_weil: true
+  sha256: ee9c59ef5d603e3d37629d92d2f658afc97c7e63cc5a1cadbabe9dfb5a191a74
+  snapshot_sha256: c7709cc632e45d4cc6a1b3a87e3d36306b2875d384a92cf21f539974c8026c63
+- id: co-1951-16
+  order: 16
+  title_fr: Expérience de la vie d’usine (Marseille, 1941-1942)
+  author: Simone Weil
+  date: 1941-1942
+  page_start: 241
+  page_end: 259
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/16
+  wikisource_page: La Condition ouvrière/16
+  revision_id: 15712316
+  revision_timestamp: '2026-03-30T15:52:57Z'
+  local_file: corpus/fr/16_experience_de_la_vie_d_usine.md
+  content_type: essay
+  is_simone_weil: true
+  sha256: 7164e29290a1509087046be3e37d29efc7ec9f684397d2bfb7ad628ebc1f2afd
+  snapshot_sha256: 7fbe57beaa96d17b762dffbe461708929d5fe03e043af6dbf50659380bf2c59a
+- id: co-1951-17
+  order: 17
+  title_fr: Condition première d’un travail non servile (Marseille, 1941-1942)
+  author: Simone Weil
+  date: 1941-1942
+  page_start: 261
+  page_end: 273
+  source_url: https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re/17
+  wikisource_page: La Condition ouvrière/17
+  revision_id: 15712326
+  revision_timestamp: '2026-03-30T15:54:47Z'
+  local_file: corpus/fr/17_condition_premiere_d_un_travail_non_servile.md
+  content_type: essay
+  is_simone_weil: true
+  sha256: 108b0da8a62cb87e67e60c863faf45d2bafcedaf6af1a0b1b0791d58700e7019
+  snapshot_sha256: eb4d56b687278ecba4cbbcadc2e1b57578e6c756bce2ee6618d2cda778d69794

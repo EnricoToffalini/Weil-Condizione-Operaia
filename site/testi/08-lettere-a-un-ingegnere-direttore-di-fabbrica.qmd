@@ -1,0 +1,471 @@
+---
+title: "Lettere a un ingegnere direttore di fabbrica (Bourges, gennaio-giugno 1936)"
+---
+
+<!-- Generato da scripts/build_site.py a partire da corpus/it/08_lettres_a_un_ingenieur_directeur_d_usine.md. Non modificare a mano. -->
+
+[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 125-159.]{.riferimento}
+
+::: {.cappello}
+Questo ingegnere aveva fondato una piccola rivista operaia, *Entre Nous*.
+:::
+
+## Prima lettera {.sez-ed}
+
+<div id="p125" class="ancora-pagina"></div><!-- page: 125; scan: Page:Weil - La Condition ouvrière, 1951.djvu/137 -->
+
+*Bourges, 13 gennaio 1936.*
+
+Signore,
+
+Non posso dire che la sua risposta mi abbia stupita. Ne speravo un’altra, ma senza contarci troppo.
+
+Non cercherò di difendere il testo[^2] che lei ha rifiutato. Se fosse cattolico, non resisterei alla tentazione di mostrarle che lo spirito che ispirava il mio articolo, e che l’ha urtata, non è altro che lo spirito cristiano puro e semplice; credo che non mi sarebbe difficile. Ma non ho motivo di usare con lei argomenti del genere. Del resto non voglio discutere. Lei è il capo e non deve rendere conto delle sue decisioni.
+
+Voglio soltanto dirle che la «tendenza» che le è sembrata inammissibile era stata sviluppata da me di proposito e deliberatamente. Lei mi ha detto — ripeto i suoi stessi termini — che è molto difficile elevare gli operai. Il primo dei principi pedagogici è che, per elevare qualcuno, bambino o adulto, bisogna anzitutto elevarlo ai propri occhi. Questo è cento volte più vero quando il principale ostacolo allo sviluppo risiede in condizioni di vita umilianti.
+
+Questo fatto costituisce per me il punto di partenza di ogni tentativo efficace di azione presso le masse popolari, e soprattutto presso gli operai di fabbrica. E capisco bene che è precisamente questo punto di partenza che lei non ammette. Nella speranza di farglielo ammettere, e poiché la sorte di ottocento operai è nelle sue mani, mi ero fatta violenza per dirle senza riserve ciò che la mia esperienza mi aveva lasciato sul cuore. Ho dovuto compiere un penoso sforzo su me stessa per dirle cose che è appena sopportabile confidare ai propri pari, delle quali è <a id="p126"></a><!-- page: 126; scan: Page:Weil - La Condition ouvrière, 1951.djvu/138 -->intollerabile parlare davanti a un capo. Mi era sembrato di averla toccata. Ma senza dubbio avevo torto a sperare che un’ora di conversazione potesse prevalere sulla pressione delle occupazioni quotidiane. Comandare non rende facile mettersi al posto di chi obbedisce.
+
+Ai miei occhi, la ragione d’essere essenziale della mia collaborazione al suo giornale risiedeva nel fatto che la mia esperienza dell’anno scorso forse mi permette di scrivere in modo da alleggerire un poco il peso delle umiliazioni che la vita impone giorno dopo giorno agli operai di R., come a tutti gli operai delle fabbriche moderne. Non è questo l’unico scopo, ma è, ne sono convinta, la condizione essenziale per allargare il loro orizzonte. Nulla paralizza il pensiero più del sentimento di inferiorità necessariamente imposto dalle offese quotidiane della povertà, della subordinazione, della dipendenza. La prima cosa da fare per loro è aiutarli a ritrovare o a conservare, secondo i casi, il sentimento della propria dignità. So fin troppo bene quanto sia difficile, in una situazione simile, conservare questo sentimento, e quanto possa essere prezioso allora ogni sostegno morale. Speravo con tutto il cuore di poter, mediante la mia collaborazione al suo giornale, offrire un poco di questo sostegno agli operai di R.
+
+Non credo che lei si faccia un’idea esatta di che cosa sia propriamente lo spirito di classe. A mio avviso, difficilmente può essere eccitato da semplici parole pronunciate o scritte. È determinato dalle condizioni effettive di vita. Le umiliazioni, le sofferenze imposte, la subordinazione lo suscitano; la pressione inesorabile e quotidiana della necessità non cessa di reprimerlo, e spesso fino al punto di trasformarlo in servilismo nei caratteri più deboli. Al di fuori di momenti eccezionali che, credo, non si possono né provocare né evitare, e neppure prevedere, la pressione della necessità è sempre più che sufficiente a mantenere l’ordine; perché il rapporto delle forze è fin troppo chiaro. Ma, se si pensa alla salute morale degli operai, la repressione perpetua di uno spirito di classe che cova sempre sordamente in qualche misura va quasi dappertutto molto più lontano di quanto sarebbe desiderabile. Dare talvolta espressione a questo spirito — senza demagogia, beninteso — non significherebbe eccitarlo, ma al contrario addolcirne l’amarezza. Per gli sventurati, la loro inferiorità sociale è infinitamente più pesante da sopportare per il fatto che la trovano presentata ovunque come qualcosa che va da sé. <a id="p127"></a><!-- page: 127; scan: Page:Weil - La Condition ouvrière, 1951.djvu/139 -->
+
+Soprattutto non vedo come articoli come il mio potrebbero produrre un cattivo effetto se pubblicati nel suo giornale. In qualunque altro giornale potrebbero, al limite, sembrare tendere a sollevare i poveri contro i ricchi, i subordinati contro i capi; ma, comparendo in un giornale controllato da lei, un articolo simile può soltanto dare agli operai il sentimento che si faccia un passo verso di loro, che si faccia uno sforzo per comprenderli. Penso che gliene sarebbero grati. Sono convinta che, se gli operai di R. potessero trovare nel suo giornale articoli davvero fatti per loro, nei quali fossero accuratamente rispettate tutte le loro suscettibilità — perché la suscettibilità degli sventurati è viva, benché muta —, nei quali fosse sviluppato tutto ciò che può elevarli ai propri occhi, non ne deriverebbe che del bene sotto ogni aspetto.
+
+Ciò che invece può ravvivare lo spirito di classe sono le frasi infelici che, per effetto di una crudeltà inconsapevole, mettono indirettamente l’accento sull’inferiorità sociale dei lettori. Frasi infelici di questo genere sono numerose nella raccolta del suo giornale. Gliele segnalerò alla prossima occasione, se lo desidera. Forse è impossibile avere tatto verso quella gente quando ci si trova da troppo tempo in una situazione troppo diversa dalla loro.
+
+D’altra parte, può darsi che le ragioni che lei mi dà per respingere i miei due suggerimenti siano del tutto giuste. La questione è, del resto, relativamente secondaria.
+
+La ringrazio di avermi inviato gli ultimi numeri del giornale.
+
+Mi asterrò dal venire a trovarla a R., per la ragione che le ho dato, se resta disposto a prendermi lì come operaia. Ma ho motivo di credere che le sue disposizioni nei miei confronti siano cambiate. Un progetto simile, per riuscire, esige un grado molto elevato di fiducia e di comprensione reciproca.
+
+Se non è più disposto ad assumermi, o se il sig. M\*\*\*[^3] si oppone, verrò certamente a R., come lei ha la bontà di permettermi, non appena ne troverò il tempo. La avvertirò in anticipo.
+
+Voglia ricevere, Signore, l’assicurazione dei miei distinti sentimenti.
+
+S. Weil.
+
+<div id="p128" class="ancora-pagina"></div><!-- page: 128; scan: Page:Weil - La Condition ouvrière, 1951.djvu/140 -->
+
+### Un appello agli operai di R.[^4].
+
+Cari amici sconosciuti che faticate nelle officine di R., vengo a fare appello a voi. Vengo a chiedervi la vostra collaborazione a *Entre Nous*.
+
+Non abbiamo bisogno di altro lavoro, penserete. Ne abbiamo già abbastanza così.
+
+Avete perfettamente ragione. Eppure vengo a chiedervi di voler prendere carta e penna e parlare un poco del vostro lavoro.
+
+Non protestate. Lo so bene: quando si sono fatte le proprie otto ore, se ne ha abbastanza, se ne ha fin qui, per usare espressioni che hanno il merito di dire bene ciò che vogliono dire. Si chiede una cosa sola: non pensare più alla fabbrica fino al mattino dopo. È uno stato d’animo del tutto naturale, al quale è bene abbandonarsi. Quando ci si trova in questo stato d’animo, non c’è nulla di meglio da fare che rilassarsi: chiacchierare con i compagni, leggere cose divertenti, prendere l’aperitivo, fare una partita a carte, giocare con i propri bambini.
+
+Ma non ci sono anche certi giorni in cui vi pesa non poter mai esprimervi, dover sempre tenere per voi ciò che avete sul cuore? È a quelli che conoscono questa sofferenza che mi rivolgo. Forse alcuni di voi non l’hanno mai provata. Ma quando la si prova, è una vera sofferenza.
+
+In fabbrica siete lì soltanto per eseguire le consegne, consegnare pezzi conformi agli ordini ricevuti e ricevere, nei giorni di paga, la quantità di denaro determinata dal numero dei pezzi e dalle tariffe. A parte questo, siete uomini — faticate, soffrite, avete anche momenti di gioia, forse ore piacevoli; a volte potete lasciarvi un po’ andare, a volte siete costretti a terribili sforzi su voi stessi; certe cose vi interessano, altre vi annoiano. Ma di tutto questo nessuno intorno a voi può occuparsi. Voi stessi siete costretti a non occuparvene. Vi si chiedono soltanto pezzi, vi si danno soltanto soldi.
+
+Questa situazione pesa talvolta sul cuore, non è vero? Dà talvolta il sentimento di essere una semplice macchina per produrre. <a id="p129"></a><!-- page: 129; scan: Page:Weil - La Condition ouvrière, 1951.djvu/141 -->
+
+Queste sono le condizioni del lavoro industriale. Non è colpa di nessuno. Può darsi che alcuni di voi vi si adattino senza difficoltà. È una questione di temperamento. Ma ci sono caratteri sensibili a queste cose. Per uomini di questo carattere, una situazione simile è comunque troppo dura.
+
+Vorrei servirmi di *Entre Nous* per porvi un poco rimedio, se vorrete aiutarmi.
+
+Ecco che cosa vi chiedo. Se una sera, o una domenica, vi fa improvvisamente male dover sempre rinchiudere dentro di voi ciò che avete sul cuore, prendete carta e penna. Non cercate frasi ben tornite. Usate le prime parole che vi verranno in mente. E dite che cos’è per voi il vostro lavoro.
+
+Dite se il lavoro vi fa soffrire. Raccontate queste sofferenze, tanto quelle morali quanto quelle fisiche. Dite se ci sono momenti in cui non ne potete più; se talvolta la monotonia del lavoro vi disgusta; se soffrite per essere sempre preoccupati dalla necessità di andare in fretta; se soffrite per essere sempre agli ordini dei capi.
+
+Dite anche se provate talvolta la gioia del lavoro, la fierezza dello sforzo compiuto. Se vi capita di interessarvi al vostro compito. Se certi giorni provate piacere nel sentire che si va in fretta e che, di conseguenza, guadagnate bene. Se qualche volta potete passare ore a lavorare macchinalmente, quasi senza accorgervene, pensando ad altro, perdendovi in piacevoli fantasticherie. Se a volte siete contenti di dover soltanto eseguire i compiti che vi vengono dati senza bisogno di rompervi la testa.
+
+Dite, in generale, se in fabbrica il tempo vi sembra lungo o se vi sembra breve. Può darsi che dipenda dai giorni. Cercate allora di rendervi conto da che cosa dipende precisamente.
+
+Dite se siete pieni di slancio quando andate al lavoro, o se ogni mattina pensate: «Non vedo l’ora di uscire!» Dite se la sera uscite allegri, oppure esausti, svuotati, storditi dalla giornata di lavoro.
+
+Dite infine se, in fabbrica, vi sentite sostenuti dal sentimento confortante di trovarvi in mezzo ai compagni, o se al contrario vi sentite soli.
+
+Soprattutto dite tutto ciò che vi verrà in mente, tutto ciò che vi pesa sul cuore. <a id="p130"></a><!-- page: 130; scan: Page:Weil - La Condition ouvrière, 1951.djvu/142 -->
+
+E quando avrete finito di scrivere, sarà del tutto inutile firmare. Cercherete anzi di fare in modo che non si possa indovinare chi siete.
+
+Anzi, poiché questa precauzione rischia di non bastare, ne prenderete un’altra, se volete. Invece di mandare ciò che avrete scritto a *Entre Nous*, lo manderete a me. Ricopierò i vostri articoli per *Entre Nous*, ma disponendoli in modo che nessuno possa riconoscervisi. Dividerò uno stesso articolo in più pezzi, a volte metterò insieme pezzi di articoli diversi. Quanto alle frasi imprudenti, farò in modo che non si possa neppure sapere da quale reparto provengono. Se ci saranno frasi che mi sembrerà pericoloso per voi pubblicare anche con queste precauzioni, le sopprimerò. Siate certi che farò molta attenzione. So che cos’è la situazione di un operaio in una fabbrica. Non vorrei per nulla al mondo che, per colpa mia, capitasse un guaio serio a uno di voi.
+
+In questo modo potrete esprimervi liberamente, senza alcuna preoccupazione di prudenza. Non mi conoscete. Ma sentite bene, non è vero, che desidero soltanto esservi utile, che per nulla al mondo vorrei nuocervi? Non ho alcuna responsabilità nella fabbricazione delle cucine. Ciò che mi interessa è soltanto il benessere fisico e morale di coloro che le fabbricano.
+
+Esprimetevi con piena sincerità. Non attenuate nulla, non esagerate nulla, né nel bene né nel male. Penso che vi darà un po’ di sollievo dire la verità senza riserve.
+
+I vostri compagni vi leggeranno. Se sentono come voi, saranno ben contenti di vedere stampate cose che forse si agitavano in fondo al loro cuore senza riuscire a tradursi in parole; o forse cose che avrebbero saputo esprimere, ma che erano costretti a tacere. Se sentono diversamente, prenderanno a loro volta la penna per spiegarsi. In ogni caso vi comprenderete meglio gli uni con gli altri. Il cameratismo non potrà che guadagnarci, e sarà già un gran bene.
+
+Anche i vostri capi vi leggeranno. Ciò che leggeranno forse non farà loro sempre piacere. Non ha importanza. Non farà loro male sentire verità spiacevoli.
+
+Vi comprenderanno molto meglio dopo avervi letto. Molto spesso capi che in fondo sono uomini buoni <a id="p131"></a><!-- page: 131; scan: Page:Weil - La Condition ouvrière, 1951.djvu/143 -->si mostrano duri semplicemente perché non comprendono. La natura umana è fatta così. Gli uomini non sanno mai mettersi al posto gli uni degli altri.
+
+Forse troveranno il modo di porre rimedio almeno in parte ad alcune delle sofferenze che avrete segnalato. I vostri capi mostrano molta ingegnosità nella fabbricazione delle cucine. Chissà se non potrebbero mostrare ingegnosità anche nell’organizzare condizioni di lavoro più umane? La buona volontà non manca loro certamente. La prova migliore è che queste righe compaiono su *Entre Nous*.
+
+Purtroppo la loro buona volontà non basta. Le difficoltà sono immense. Anzitutto l’impietosa legge del rendimento pesa sui vostri capi come su di voi; pesa con un peso disumano su tutta la vita industriale. Non ci si può sottrarre. Bisogna piegarvisi, finché esiste. Tutto ciò che si può fare provvisoriamente è cercare di aggirare gli ostacoli a forza d’ingegnosità; cercare l’organizzazione più umana compatibile con un dato rendimento.
+
+Ma ecco che cosa complica tutto. Siete voi a sopportare il peso del regime industriale; e non siete voi a poter risolvere o anche solo porre i problemi di organizzazione. Sono i vostri capi ad avere la responsabilità dell’organizzazione. Ora, i vostri capi, come tutti gli uomini, giudicano le cose dal proprio punto di vista e non dal vostro. Non si rendono bene conto del modo in cui vivete. Ignorano ciò che pensate. Anche quelli che sono stati operai hanno dimenticato molte cose.
+
+Ciò che vi propongo permetterebbe forse di far loro comprendere ciò che non comprendono, e questo senza pericolo e senza umiliazione per voi. Da parte loro, forse in risposta si serviranno a loro volta di *Entre Nous*. Forse vi faranno conoscere gli ostacoli che le necessità dell’organizzazione industriale impongono loro.
+
+La grande industria è quella che è. Il meno che se ne possa dire è che impone dure condizioni di esistenza. Ma non dipende né da voi né dai padroni trasformarla in un prossimo avvenire.
+
+In una situazione simile, ecco, mi sembra, quale sarebbe l’ideale. Bisognerebbe che i capi comprendessero quale sia precisamente la sorte degli uomini che utilizzano come manodopera. E bisognerebbe che la loro preoccupazione <a id="p132"></a><!-- page: 132; scan: Page:Weil - La Condition ouvrière, 1951.djvu/144 -->dominante fosse non quella di aumentare sempre il rendimento al massimo, ma di organizzare le condizioni di lavoro più umane compatibili con il rendimento indispensabile all’esistenza della fabbrica.
+
+Bisognerebbe, d’altra parte, che gli operai conoscessero e comprendessero le necessità alle quali è sottoposta la vita della fabbrica. Potrebbero così controllare e valutare la buona volontà dei capi. Perderebbero il sentimento di essere sottoposti a ordini arbitrari, e le sofferenze inevitabili diventerebbero forse meno amare da sopportare.
+
+Naturalmente, questo ideale non è realizzabile. Le preoccupazioni quotidiane pesano troppo, tanto sugli uni quanto sugli altri. Del resto, il rapporto tra capo e subordinato non è di quelli che facilitano la comprensione reciproca. Non si comprendono mai del tutto coloro ai quali si danno ordini. E non si comprendono mai del tutto neppure coloro dai quali si ricevono ordini.
+
+Ma a questo ideale ci si può forse avvicinare un poco. Dipende ora da voi tentare. Anche se i vostri piccoli articoli non avranno come risultato seri miglioramenti pratici, avrete sempre la soddisfazione di aver espresso una volta il vostro punto di vista.
+
+Dunque siamo d’accordo, non è vero? Conto proprio di ricevere presto molti articoli.
+
+Non voglio finire senza ringraziare di tutto cuore il sig. B. per aver voluto pubblicare questo appello.
+
+## Seconda lettera {.sez-ed}
+
+*Bourges, 31 gennaio 1936.*
+
+Signore,
+
+La sua lettera elimina tutte le ragioni che mi distoglievano dall’andare a R. Verrò dunque a trovarla, salvo suo avviso contrario, venerdì 14 febbraio dopo pranzo.
+
+Lei giudica troppo fosco il modo in cui mi rappresento le condizioni morali di vita degli operai. Che cosa risponderle, se non ripeterle — per quanto penosa sia una confessione simile — che io ho avuto tutta la difficoltà del mondo a conservare il sentimento della mia dignità? Per parlare <a id="p133"></a><!-- page: 133; scan: Page:Weil - La Condition ouvrière, 1951.djvu/145 -->più francamente, l’ho quasi perduto sotto il primo urto di un cambiamento di vita tanto brutale, e ho dovuto faticosamente ritrovarlo. Un giorno mi sono resa conto che poche settimane di questa esistenza erano quasi bastate a trasformarmi in una bestia da soma docile, e che soltanto la domenica riprendevo un poco coscienza di me stessa. Mi sono allora domandata con terrore che cosa sarei diventata se mai le circostanze della vita mi avessero messa nella condizione di lavorare in questo modo senza riposo settimanale. Mi sono giurata di non uscire da questa condizione di operaia prima di aver imparato a sopportarla in modo da conservarvi intatto il sentimento della mia dignità di essere umano. Ho mantenuto la parola data. Ma fino all’ultimo giorno ho provato che questo sentimento era sempre da riconquistare, perché le condizioni dell’esistenza lo cancellavano continuamente e tendevano a ricacciarmi al livello della bestia da soma.
+
+Mi sarebbe facile e piacevole mentire un poco a me stessa, dimenticare tutto questo. Mi sarebbe stato facile non provarlo, se soltanto avessi fatto questa esperienza come una sorta di gioco, alla maniera di un esploratore che va a vivere in mezzo a popolazioni lontane, senza però dimenticare mai di essere loro estraneo. Al contrario, allontanavo sistematicamente tutto ciò che poteva ricordarmi che questa esperienza era una semplice esperienza.
+
+Lei può mettere in dubbio la legittimità di una generalizzazione. L’ho fatto io stessa. Mi sono detta che forse non erano le condizioni di vita a essere troppo dure, ma era la forza di carattere che mi mancava. Eppure non mi mancava del tutto, poiché ho saputo resistere fino alla data che mi ero fissata in anticipo.
+
+È vero che ero molto inferiore, per resistenza fisica, alla maggior parte dei miei compagni — fortunatamente per loro. E la vita di fabbrica è opprimente in tutt’altro modo quando pesa sul corpo ventiquattr’ore su ventiquattro, come accadeva abbastanza spesso a me, che quando pesa soltanto per otto ore, come accade ai più robusti. Ma altre circostanze compensavano in larga misura questa disuguaglianza.
+
+Del resto più di una confidenza o mezza confidenza di operai è venuta a confermare le mie impressioni.
+
+Resta la questione della differenza tra R. e le fabbriche che ho conosciuto. In che cosa può consistere questa differenza? Metto da parte la vicinanza della campagna. Nelle <a id="p134"></a><!-- page: 134; scan: Page:Weil - La Condition ouvrière, 1951.djvu/146 -->dimensioni? Ma la mia prima fabbrica era una fabbrica di 300 operai, e il direttore aveva l’impressione di conoscere bene il proprio personale. Nelle opere sociali? Qualunque possa esserne l’utilità materiale, dal punto di vista morale temo non facciano che accrescere la dipendenza. Nei frequenti contatti tra superiori e inferiori? Fatico a immaginare che possano costituire un conforto morale per gli inferiori. C’è ancora qualcos’altro? Chiedo soltanto di rendermene conto.
+
+Ciò che mi ha raccontato del silenzio osservato da tutti coloro che assistevano all’ultima assemblea generale della cooperativa non fa che confermare fin troppo, mi sembra, le mie supposizioni. Lei non vi è andato, per timore di togliere loro il coraggio di parlare — e tuttavia nessuno ha osato dire nulla. Anche i risultati costanti delle elezioni municipali mi sembrano significativi. E infine non posso dimenticare gli sguardi dei formatori, quando passavo in mezzo a loro accanto al figlio del padrone.
+
+Il suo argomento più forte, per me, benché non abbia assolutamente alcun rapporto con la questione, è l’impossibilità in cui si troverebbe di credermi senza perdere nello stesso tempo quasi ogni stimolo al lavoro. In effetti, mi vedrei difficilmente, io, alla testa di una fabbrica, anche supponendo di possedere le capacità necessarie. Questa considerazione non cambia nulla nel mio modo di vedere, ma mi toglie in larga misura il desiderio di farglielo condividere. Non è certo a cuor leggero, mi creda, che mi decido a dire cose demoralizzanti. Ma dovrei, su una questione simile, nasconderle ciò che penso sia la verità?
+
+Deve perdonarmi se pronuncio la parola capo con un po’ troppa amarezza. È ben difficile che sia altrimenti quando si è subita una subordinazione totale e non si dimentica. È del tutto esatto che lei aveva avuto cura di darmi tutte le sue ragioni riguardo al mio articolo, e che io non avevo il diritto di esprimermi come ho fatto a questo proposito.
+
+Lei esagera un poco supponendo che io metta a suo carico un passivo schiacciante e un attivo nullo. Ciò che metto al passivo, lo metto al passivo della funzione più che dell’uomo. E all’attivo so almeno che bisogna mettere le intenzioni. Ammetto volentieri che vi siano anche delle realizzazioni; sono soltanto convinta che siano molto meno numerose e di portata molto minore di quanto <a id="p135"></a><!-- page: 135; scan: Page:Weil - La Condition ouvrière, 1951.djvu/147 -->si è portati a credere quando si vedono le cose dall’alto. In alto si è in una posizione pessima per rendersi conto, e in basso per agire. Penso che questa sia, in generale, una delle cause essenziali delle sventure umane. È per questo che ho voluto scendere io stessa fino in basso, e forse vi tornerò. È anche per questo che vorrei tanto poter, in qualche impresa, collaborare dal basso con chi la dirige. Ma è senza dubbio una chimera.
+
+Penso che non conserverò dei nostri rapporti alcuna amarezza personale, al contrario. Per me, che ho scelto deliberatamente e quasi senza speranza di pormi dal punto di vista di quelli che stanno in basso, è confortante poter parlare a cuore aperto con un uomo come lei. Questo aiuta a non disperare degli uomini, se non delle istituzioni. L’amarezza che provo riguarda soltanto i miei compagni sconosciuti delle officine di R., per i quali devo rinunciare a tentare qualsiasi cosa. Ma posso prendermela soltanto con me stessa per essermi lasciata andare a speranze irragionevoli.
+
+Quanto a lei, non posso che ringraziarla di volersi prestare a conversazioni dalle quali non so se possa trarre qualche profitto, ma che sono preziose per me.
+
+Voglia gradire l’assicurazione dei miei distinti sentimenti.
+
+S. Weil.
+
+## Terza lettera {.sez-ed}
+
+*Bourges, 3 marzo 1936.*
+
+Signore,
+
+Credo che tra noi sia utile alternare gli scambi di vedute scritti e orali; tanto più che ho l’impressione di non essere riuscita a farmi capire bene durante il nostro ultimo colloquio.
+
+Non ho potuto citarle alcun caso concreto in cui un capo abbia accolto male una legittima lamentela di un operaio. Come avrei potuto rischiare di farne l’esperienza? Se avessi incontrato un’accoglienza simile, subirla in silenzio — come probabilmente avrei fatto — sarebbe stata <a id="p136"></a><!-- page: 136; scan: Page:Weil - La Condition ouvrière, 1951.djvu/148 -->un’umiliazione ben più dolorosa della cosa stessa di cui avrei potuto avere motivo di lamentarmi. Replicare sotto l’impulso della collera avrebbe probabilmente significato dover subito cercare un altro posto. Naturalmente, non si sa in anticipo che si sarà accolti male, ma si sa che è possibile, e questa possibilità basta. È possibile perché un capo, come ogni uomo, ha i suoi momenti di cattivo umore. E poi si ha il sentimento che non sia normale, in una fabbrica, pretendere una qualsiasi considerazione. Le ho raccontato come un capo, costringendomi per due ore a rischiare di farmi colpire da un bilanciere, mi abbia fatto sentire per la prima volta quanto precisamente contavo: cioè zero. In seguito, ogni sorta di piccole cose mi ha rinfrescato la memoria al riguardo. Esempio: in un’altra fabbrica si poteva entrare soltanto al segnale di una campanella, dieci minuti prima dell’ora; ma prima della campanella una porticina ricavata nel grande cancello era aperta. I capi arrivati in anticipo passavano di lì; le operaie — più di una volta io stessa fra loro — aspettavano pazientemente fuori, davanti a quella porta aperta, anche sotto una pioggia battente. *Etcetera*…
+
+Senza dubbio si può decidere di difendersi con fermezza, a rischio di cambiare posto; ma chi prende questa decisione ha molte probabilità di non riuscire a mantenerla a lungo, e allora tanto vale non prenderla fin dall’inizio. Attualmente, nell’industria, per chi non possiede certificati che lo qualificano come capo o come buon operaio specializzato, cercare un posto — andare da una ditta all’altra facendo calcoli prima di osare comprare un biglietto della metropolitana, stazionare interminabilmente davanti agli uffici di assunzione, essere respinti e tornare giorno dopo giorno — è un’esperienza in cui si lascia una buona parte del proprio orgoglio. Almeno, l’ho osservato intorno a me e anzitutto su me stessa. Riconosco che se ne può concludere, puramente e semplicemente, che non ho nulla nella pancia; me lo sono detto io stessa più di una volta.
+
+In ogni caso, questi ricordi mi fanno trovare del tutto normale la risposta del suo operaio comunista. Devo confessarle che ciò che mi ha detto al riguardo mi è rimasto sul cuore. Il fatto che lei, un tempo, abbia dato prova di maggior coraggio di fronte ai capi non le dà il diritto di giudicarlo. Non soltanto le difficoltà economiche non erano paragonabili, ma anche <a id="p137"></a><!-- page: 137; scan: Page:Weil - La Condition ouvrière, 1951.djvu/149 -->la sua situazione morale era tutt’altra, se almeno, come mi è sembrato di capire, occupava allora incarichi di maggiore o minore responsabilità. Quanto a me, a rischi uguali o anche maggiori, credo che, se si presentasse il caso, resisterei ai miei superiori nell’Università (se dovesse sopraggiungere un governo autoritario) con ben altra fermezza di quanto farei in una fabbrica davanti al caporeparto o al direttore. Perché? Senza dubbio per una ragione analoga a quella che durante la guerra rendeva il coraggio più facile a un graduato che a un soldato — fatto ben noto agli ex combattenti e che ho sentito segnalare più di una volta. Nell’Università ho dei diritti, una dignità e una responsabilità da difendere. Che cosa ho da difendere come operaia di fabbrica, quando ogni giorno devo rinunciare a ogni specie di diritto nel momento stesso in cui timbro il cartellino? Non ho da difendere che la mia vita. Se bisognasse insieme subire la subordinazione dello schiavo e correre i rischi dell’uomo libero, sarebbe troppo. Costringere un uomo che si trova in una situazione simile a scegliere tra mettersi in pericolo e tirarsi indietro, come dice lei, significa infliggergli un’umiliazione che sarebbe più umano risparmiargli.
+
+Ciò che mi ha raccontato a proposito della riunione della cooperativa, quando mi diceva — con una sfumatura di disprezzo, mi sembrava — che nessuno aveva osato parlare, mi aveva ispirato riflessioni analoghe. Non vi è forse qui una situazione pietosa? Ci si trova, senza alcun ricorso, sotto il peso di una forza del tutto sproporzionata rispetto a quella che si possiede, una forza contro la quale non si può nulla e dalla quale si rischia continuamente di essere schiacciati — e quando, con l’amarezza nel cuore, ci si rassegna a sottomettersi e a piegarsi, si viene disprezzati per mancanza di coraggio proprio da coloro che maneggiano questa forza.
+
+Non posso parlare di queste cose senza amarezza, ma mi creda, non è diretta contro di lei; vi è qui una situazione di fatto nella quale, tutto sommato, non sarebbe senza dubbio giusto attribuirle una parte di responsabilità maggiore della mia o di quella di chiunque altro.
+
+Per tornare alla questione dei rapporti con i capi, avevo per me una regola di condotta ben ferma. Non concepisco i rapporti umani se non sul piano dell’uguaglianza; dal momento in cui qualcuno comincia a trattarmi da inferiore, ai miei occhi non sono più possibili rapporti umani <a id="p138"></a><!-- page: 138; scan: Page:Weil - La Condition ouvrière, 1951.djvu/150 -->tra lui e me, e a mia volta lo tratto da superiore, vale a dire subisco il suo potere come subirei il freddo o la pioggia. Un carattere così poco accomodante è forse eccezionale; tuttavia, sia per orgoglio, sia per timidezza, sia per un misto dei due, ho sempre visto che il silenzio è in fabbrica un fenomeno generale. Ne conosco esempi assai impressionanti.
+
+Se le ho proposto di istituire una cassetta dei suggerimenti riguardante non più la produzione, ma il benessere degli operai, è perché questa idea mi era venuta in fabbrica. Un procedimento simile eviterebbe ogni rischio di umiliazione — lei mi dirà che accoglie sempre bene gli operai, ma sa lei stesso se non ha anche lei momenti di cattivo umore o ironie fuori luogo? — costituirebbe un invito esplicito da parte della direzione e poi, anche solo vedendo la cassetta nell’officina, si avrebbe un po’ meno l’impressione di non contare nulla.
+
+Ho tratto, in sostanza, due lezioni dalla mia esperienza. La prima, la più amara e la più inattesa, è che l’oppressione, a partire da un certo grado d’intensità, genera non una tendenza alla rivolta, ma una tendenza quasi irresistibile alla più completa sottomissione. L’ho constatato su me stessa, io che pure, come ha indovinato, non ho un carattere docile; la cosa è perciò tanto più conclusiva. La seconda è che l’umanità si divide in due categorie, le persone che contano qualcosa e quelle che non contano nulla. Quando si appartiene alla seconda, si finisce per trovare naturale non contare nulla — il che non significa certo che non si soffra. Io lo trovavo naturale. Proprio come, mio malgrado, arrivo oggi a trovare quasi naturale contare qualcosa. (Dico mio malgrado, perché mi sforzo di reagire; tanto mi vergogno di contare qualcosa in un’organizzazione sociale che calpesta l’umanità.) La questione, per il momento, è sapere se, nelle condizioni attuali, si possa arrivare, nell’ambito di una fabbrica, a fare in modo che gli operai contino qualcosa e abbiano coscienza di contare qualcosa. A questo scopo non basta che un capo si sforzi di essere buono con loro; occorre ben altro.
+
+A mio avviso, anzitutto bisognerebbe che fosse ben chiaro tra il capo e gli operai che questo stato di cose, nel quale essi e tanti altri non contano nulla, non può essere considerato normale; che le cose <a id="p139"></a><!-- page: 139; scan: Page:Weil - La Condition ouvrière, 1951.djvu/151 -->non sono accettabili così come sono. Certo, in fondo, tutti lo sanno bene; ma da entrambe le parti nessuno osa farvi il minimo accenno — e, detto del tutto per inciso, quando un articolo vi accenna, non viene pubblicato sul giornale… Bisognerebbe anche che fosse ben chiaro che questo stato di cose è dovuto a necessità oggettive, e cercare di chiarirle un poco. L’indagine che immaginavo doveva avere come complemento, nella mia mente (non so se l’ho indicato nel foglio che lei ha tra le mani), delle sue esposizioni sugli ostacoli ai miglioramenti richiesti (organizzazione, rendimento, ecc.). In certi casi, bisognerebbe aggiungervi esposizioni di ordine più generale. La regola di questi scambi di vedute dovrebbe essere un’uguaglianza totale tra gli interlocutori, una franchezza e una chiarezza complete da entrambe le parti. Se si riuscisse ad arrivare a questo, sarebbe già, ai miei occhi, un risultato. Mi sembra che qualsiasi sofferenza sia meno schiacciante, rischi meno di degradare, quando si comprende il meccanismo delle necessità che la causano; e che sia una consolazione sentirla compresa e, in una certa misura, condivisa da coloro che non la subiscono. Inoltre, forse si possono ottenere dei miglioramenti.
+
+Sono convinta anche che soltanto da questo lato si possa trovare uno stimolo intellettuale per gli operai. Per interessare bisogna toccare. A quale sentimento fare appello per toccare uomini la cui sensibilità è quotidianamente urtata e compressa dall’asservimento sociale? Bisogna, credo, passare attraverso il sentimento stesso che essi hanno di questo asservimento. Posso sbagliarmi, a dire il vero. Ma ciò che mi conferma in questa opinione è che, in generale, si trovano soltanto due specie di operai che si istruiscono da soli: o uomini desiderosi di salire di grado, o ribelli. Spero che questa osservazione non le faccia paura.
+
+Se, per esempio, nel corso di questi scambi di vedute, si arrivasse a riconoscere di comune accordo che l’ignoranza degli operai costituisce uno degli ostacoli a un’organizzazione più umana, non sarebbe questa la sola introduzione possibile a una serie di articoli di vera divulgazione? La ricerca di un vero metodo di divulgazione — cosa completamente sconosciuta fino ai nostri giorni — è una delle mie preoccupazioni dominanti, e sotto questo aspetto il tentativo che le propongo mi sarebbe forse infinitamente prezioso. <a id="p140"></a><!-- page: 140; scan: Page:Weil - La Condition ouvrière, 1951.djvu/152 -->
+
+Naturalmente, tutto questo comporta un rischio. Retz diceva che il Parlamento di Parigi aveva provocato la Fronda sollevando il velo che deve ricoprire i rapporti tra i diritti dei re e quelli dei popoli, «diritti che non si accordano mai così bene come nel silenzio». Questa formula può estendersi a ogni specie di dominio. Se in un tentativo simile lei riuscisse soltanto a metà, ne risulterebbe che gli operai continuerebbero a non contare nulla, ma cesserebbero di trovarlo naturale; il che sarebbe un male per tutti. Correre questo rischio significherebbe senza dubbio, per lei, assumersi una grave responsabilità. Ma rifiutarsi di correrlo significherebbe anch’esso assumersi una grave responsabilità. Questo è l’inconveniente del potere.
+
+A mio avviso, del resto, lei sopravvaluta questo rischio. Sembra temere di modificare il rapporto di forze che sottomette gli operai al suo dominio. Ma questo mi sembra impossibile. Soltanto due cose possono modificarlo: o il ritorno di una prosperità economica abbastanza grande da far mancare la manodopera, o un movimento rivoluzionario. Entrambe sono del tutto improbabili in un prossimo futuro. E, se si producesse un movimento rivoluzionario, sarebbe un soffio sorto improvvisamente dai grandi centri e capace di spazzare via tutto; ciò che lei può fare o non fare a R. non ha alcuna presa su fenomeni di questa portata. Ma, nella misura in cui si può prevedere in questa materia, non accadrà nulla di simile, salvo forse in seguito a una guerra perduta. Quanto a me, conosco un poco dall’interno, da una parte, il movimento operaio francese, dall’altra, le masse operaie della regione parigina; e ho acquisito la convinzione, per me assai triste, che non soltanto la capacità rivoluzionaria, ma più in generale la capacità d’azione della classe operaia francese sia pressoché nulla. Credo che soltanto i borghesi possano illudersi al riguardo. Ne riparleremo, se vuole.
+
+Il tentativo che le propongo procederebbe per tappe; lei resterebbe padrone, in qualsiasi momento, di ritirare tutto e stringere la vite. Agli operai non resterebbe che sottomettersi, con soltanto più amarezza nel cuore. Che altro vuole che facciano? Ma riconosco che questo rischio è ancora abbastanza serio.
+
+Sta a lei sapere se vale la pena correrlo. A me stessa sembrerebbe ridicolo lanciarsi alla cieca. Bisognerebbe prima saggiare il terreno con una serie di <a id="p141"></a><!-- page: 141; scan: Page:Weil - La Condition ouvrière, 1951.djvu/153 -->sondaggi. Nella mia mente, l’articolo che lei ha rifiutato doveva costituire uno di questi sondaggi. Sarebbe troppo lungo spiegarle per iscritto in che modo.
+
+A proposito del giornale, ho il sentimento di averle spiegato molto male che cosa vi sia di cattivo nei passaggi che le ho rimproverato (racconti di buoni pranzi, ecc.).
+
+Mi servirò di un paragone. Guardare le pareti di una stanza, anche povera e spoglia, non ha nulla di penoso; ma se la stanza è una cella di prigione, ogni sguardo alla parete è una sofferenza. È esattamente lo stesso per la povertà, quando è legata a una subordinazione e a una dipendenza complete. Poiché schiavitù e libertà sono semplici idee, e sono le cose a far soffrire, ogni particolare della vita quotidiana nel quale si riflette la povertà alla quale si è condannati fa male; non a causa della povertà, ma a causa della schiavitù. Pressappoco, immagino, come il rumore delle catene per i forzati di un tempo. Allo stesso modo fanno male tutte le immagini del benessere di cui si è privati, quando si presentano in modo da ricordare che se ne è privati; perché quel benessere implica anche la libertà. L’idea di un buon pasto in un ambiente piacevole era per me, l’anno scorso, qualcosa di straziante come l’idea dei mari e delle pianure per un prigioniero, e per le stesse ragioni. Avevo aspirazioni al lusso che non ho provato né prima né dopo. Lei può supporre che sia perché ora le soddisfo in una certa misura. Ma no; sia detto tra noi, non ho cambiato molto il mio modo di vivere rispetto all’anno scorso. Mi è sembrato del tutto inutile perdere abitudini che quasi sicuramente, un giorno o l’altro, mi troverò nella necessità di riprendere, volontariamente o per costrizione, e che posso conservare senza grande sforzo. L’anno scorso, la privazione più insignificante di per sé mi ricordava sempre un poco che non contavo nulla, che non avevo diritto di cittadinanza da nessuna parte, che ero al mondo per sottomettermi e obbedire. Ecco perché non è vero che il rapporto tra il suo tenore di vita e quello degli operai sia analogo al rapporto tra il suo e quello di un milionario; in un caso vi è una differenza di grado, nell’altro di natura. Ed ecco perché, quando le capita di fare una «bella mangiata», deve godersela e tacere.
+
+È vero che, quando si è poveri e dipendenti, si ha <a id="p142"></a><!-- page: 142; scan: Page:Weil - La Condition ouvrière, 1951.djvu/154 -->sempre come risorsa, se si ha un animo forte, il coraggio e l’indifferenza alle sofferenze e alle privazioni. Era la risorsa degli schiavi stoici. Ma questa risorsa è preclusa agli schiavi dell’industria moderna. Perché essi vivono di un lavoro per il quale, data la successione meccanica dei movimenti e la rapidità della cadenza, non può esservi altro stimolo che la paura e l’attrattiva dei soldi. Sopprimere in sé questi due sentimenti a forza di stoicismo significa mettersi nell’impossibilità di lavorare alla cadenza richiesta. La cosa più semplice, allora, per soffrire il meno possibile, è abbassare tutta la propria anima al livello di questi due sentimenti; ma questo significa degradarsi. Se si vuole conservare la propria dignità ai propri occhi, ci si deve condannare a lotte quotidiane con se stessi, a una lacerazione perpetua, a un perpetuo sentimento di umiliazione, a sofferenze morali estenuanti; perché continuamente bisogna abbassarsi per soddisfare le esigenze della produzione industriale, rialzarsi per non perdere la stima di sé, e così via. Ecco ciò che vi è di orribile nella forma moderna dell’oppressione sociale; e la bontà o la brutalità di un capo non possono cambiare granché. Lei vede chiaramente, credo, che ciò che ho appena detto è applicabile a *ogni* essere umano, chiunque sia, posto in questa situazione.
+
+Che fare, dirà ancora? Ancora una volta, credo che far sentire a questi uomini di essere compresi sarebbe già, per i migliori tra loro, un conforto. La questione è sapere se, di fatto, tra gli operai che lavorano attualmente a R., ve ne siano alcuni con sufficiente elevatezza di cuore e di spirito da poter essere toccati nel modo che immagino. Nei suoi rapporti con loro, rapporti da capo a subordinati, lei non ha alcun mezzo per rendersene conto. Credo che io potrei farlo, mediante i sondaggi di cui le parlavo. Ma, a questo scopo, bisognerebbe che il giornale non mi fosse chiuso…
+
+Credo di averle detto tutto ciò che avevo da dirle. Sta a lei riflettere. Il potere e la decisione sono interamente nelle sue mani. Io posso soltanto mettermi a sua disposizione, all’occorrenza; e noti che mi metto a sua disposizione tutta intera, poiché sono pronta a sottomettermi di nuovo anima e corpo, per un periodo indeterminato, al mostruoso ingranaggio della produzione industriale. Metterei insomma in gioco, in questa faccenda, tanto quanto lei; questo deve costituire per lei una garanzia di serietà. <a id="p143"></a><!-- page: 143; scan: Page:Weil - La Condition ouvrière, 1951.djvu/155 -->
+
+Ho soltanto una cosa da aggiungere. Mi creda, se lei rifiuta categoricamente di imboccare la via che le suggerisco, lo comprenderò benissimo e resterò nondimeno del tutto convinta della sua buona volontà. E le sarò sempre infinitamente grata di aver voluto parlare con me a cuore aperto come ha fatto.
+
+Non oso parlarle di un nuovo colloquio, perché temo di abusare; tuttavia avrei ancora, per mia istruzione, delle domande da farle (in particolare sui suoi primi studi di chimica e sul suo lavoro di adattamento dell’attrezzatura industriale durante la guerra). Del resto esito di nuovo, per le stesse ragioni di prima, a incontrarla in fabbrica. Lascio a lei decidere la questione.
+
+Creda ai miei migliori sentimenti.
+
+S. Weil.
+
+*P.-S.* — Non ho più alcun diritto di chiederle di farmi avere *Entre Nous*, ma mi farebbe comunque molto piacere.
+
+## Quarta lettera {.sez-ed}
+
+*Bourges, 16 marzo 1936.*
+
+Signore,
+
+Devo scusarmi di assillarla così con le mie lettere: temo che debba trovarmi sempre più insopportabile… Ma la sua fabbrica mi ossessiona, e vorrei porre fine a questa preoccupazione.
+
+Mi dico che forse la mia posizione, tra lei e le organizzazioni operaie, non le sembra chiara; che se, nel corso dei nostri colloqui, lei ha fiducia in me (lo sento bene), forse a posteriori mi sospetta più o meno di ogni sorta di secondi fini. Se fosse così, sbaglierebbe a non dirmelo brutalmente e a non interrogarmi. Non sono possibili una vera fiducia, una vera cordialità senza una franchezza un po’ brutale. In ogni caso, le devo conto della mia posizione in materia sociale e politica.
+
+Desidero con tutto il cuore una trasformazione quanto più radicale possibile del regime attuale nel senso di una <a id="p144"></a><!-- page: 144; scan: Page:Weil - La Condition ouvrière, 1951.djvu/156 -->maggiore uguaglianza nel rapporto delle forze. Non credo affatto che ciò che oggi si chiama rivoluzione possa condurvi. Dopo, come prima di una rivoluzione cosiddetta operaia, gli operai di R. continueranno a obbedire passivamente, finché la produzione sarà fondata sull’obbedienza passiva. Che il direttore di R. sia agli ordini di un amministratore delegato che rappresenta alcuni capitalisti, oppure agli ordini di un «trust di Stato» cosiddetto socialista, la sola differenza sarà che nel primo caso la fabbrica, da una parte, e la polizia, l’esercito, le prigioni ecc., dall’altra, sono in mani diverse, mentre nel secondo sono nelle stesse mani. La disuguaglianza nel rapporto delle forze non è dunque diminuita, ma accentuata.
+
+Questa considerazione tuttavia non mi induce a essere *contro* i partiti cosiddetti rivoluzionari. Perché oggi tutti i raggruppamenti politici che contano tendono ugualmente sia all’accentuazione dell’oppressione sia al controllo dello Stato su tutti gli strumenti di potere; gli uni chiamano questo rivoluzione operaia, altri fascismo, altri organizzazione della difesa nazionale. Qualunque sia l’etichetta, due fattori prevalgono su tutto: da una parte la subordinazione e la dipendenza implicate dalle forme moderne della tecnica e dell’organizzazione economica, dall’altra la guerra. Tutti coloro che vogliono, da una parte, una «razionalizzazione» crescente e, dall’altra, la preparazione alla guerra, ai miei occhi si equivalgono, e questo vale per tutti.
+
+Per quanto riguarda le fabbriche, la questione che mi pongo, del tutto indipendente dal regime politico, è quella di un passaggio progressivo dalla subordinazione totale a una certa mescolanza di subordinazione e collaborazione, essendo l’ideale la cooperazione pura.
+
+Nel restituirmi il mio articolo, lei mi rimproverava di eccitare un certo spirito di classe, in opposizione allo spirito di collaborazione che vuole vedere regnare nella comunità di R. Per spirito di classe lei intende, suppongo, spirito di rivolta. Ora, io non desidero suscitare nulla di simile. Intendiamoci bene: quando le vittime dell’oppressione sociale si ribellano di fatto, tutte le mie simpatie vanno a loro, benché non accompagnate da speranza; quando un movimento di rivolta ottiene un successo parziale, me ne rallegro. Ma non desidero affatto suscitare lo spirito di rivolta, e questo meno nell’interesse dell’ordine che nell’interesse morale degli oppressi. So fin troppo bene che, quando si è sotto le catene di una necessità troppo dura, se ci si ribella <a id="p145"></a><!-- page: 145; scan: Page:Weil - La Condition ouvrière, 1951.djvu/157 -->per un momento, il momento dopo si cade in ginocchio. L’accettazione delle sofferenze fisiche e morali inevitabili, nella misura precisa in cui sono inevitabili, è l’unico mezzo per conservare la propria dignità. Ma accettazione e sottomissione sono due cose ben diverse.
+
+Lo spirito che desidero suscitare è precisamente quello spirito di collaborazione che lei mi opponeva. Ma uno spirito di collaborazione presuppone una collaborazione effettiva. Al momento non vedo nulla di simile a R., ma al contrario una subordinazione totale. È per questo che avevo redatto quell’articolo — che, nelle mie intenzioni, doveva essere l’inizio di una serie — in un modo che poteva darle l’impressione di un incoraggiamento mascherato alla rivolta; perché, per far passare degli uomini da una subordinazione totale a un qualsiasi grado di collaborazione, bisogna pure, mi sembra, cominciare col far loro rialzare la testa.
+
+Mi domando se lei si renda conto del potere che esercita. È un potere da dio più che da uomo. Ha mai pensato a che cosa significhi, per uno dei suoi operai, essere licenziato da lei? Il più delle volte, suppongo, deve lasciare il comune per cercare lavoro. Passa dunque in comuni nei quali non ha diritto ad alcuna assistenza. Se una sfortuna — fin troppo probabile nelle circostanze attuali — prolunga invano il suo vagare da un ufficio di collocamento all’altro, scende, gradino dopo gradino, abbandonato da Dio e dagli uomini, del tutto privo di qualsiasi risorsa, lungo una china che, se qualche impresa non gli fa infine l’elemosina di un posto, lo condurrà alla fine non soltanto a una morte lenta, ma prima ancora a una degradazione senza fondo; e questo senza che alcun orgoglio, alcun coraggio, alcuna intelligenza possano difenderlo. Lei sa bene, vero, che non esagero? Questo è il prezzo con cui si rischia di essere costretti a pagare, se la sfortuna ci si mette, la disgrazia di essere stati giudicati da lei, per una ragione o per l’altra, indesiderabili a R.
+
+Quanto a quelli che restano a R., sono quasi tutti manovali; in fabbrica, dunque, non devono collaborare, ma soltanto obbedire, obbedire ancora e sempre, dal momento in cui timbrano entrando fino al momento in cui timbrano uscendo. Fuori dalla fabbrica, si trovano in mezzo a cose che sono tutte fatte per loro, ma che sono tutte fatte da lei. Persino la loro cooperativa, di fatto, non la controllano. <a id="p146"></a><!-- page: 146; scan: Page:Weil - La Condition ouvrière, 1951.djvu/158 -->
+
+Lungi da me l’idea di rimproverarle questo potere. Questo potere è stato messo nelle sue mani. Lei lo esercita, ne sono persuasa, con la massima generosità possibile — almeno, tenuto conto da una parte dell’ossessione del rendimento, dall’altra del grado inevitabile d’incomprensione. Resta nondimeno vero che vi è, sempre e dappertutto, soltanto subordinazione.
+
+Tutto ciò che fa per gli operai, lo fa gratuitamente, generosamente, ed essi sono perpetuamente in debito con lei. Da parte loro, non fanno nulla che non sia fatto o per costrizione o per l’attrattiva del guadagno. Tutti i loro gesti sono dettati; l’unico campo in cui possano mettere qualcosa di proprio è la quantità, e ai loro sforzi in questo campo corrisponde soltanto una quantità maggiore di soldi. Non hanno mai diritto a una ricompensa morale, dagli altri o da se stessi: un ringraziamento, un elogio o semplicemente la soddisfazione di sé. È questo uno dei peggiori fattori di depressione morale nell’industria moderna; lo provavo ogni giorno, e molti, ne sono certa, sono come me. (Aggiungerò del resto questo punto al mio piccolo questionario, se lo usa.)
+
+Può domandarsi quali forme concrete di collaborazione io immagini. Ho ancora soltanto qualche abbozzo d’idea al riguardo; ma nutro una certa fiducia che, studiando concretamente la questione, si possa concepire qualcosa di più completo.
+
+Non mi resta che lasciarla alle sue riflessioni. Ha un tempo, per così dire, illimitato per decidere — sempre che una guerra o una dittatura «totalitaria» non venga uno di questi giorni a togliere a tutti quasi ogni potere di decisione in ogni campo…
+
+Provo qualche rimorso nei suoi confronti. Nel caso, dopotutto probabile, in cui i nostri scambi di vedute restassero senza effetto, non avrei fatto altro che comunicarle preoccupazioni dolorose. Questo pensiero mi addolora. Lei è relativamente felice, e la felicità è per me qualcosa di prezioso e degno di rispetto. Non desidero diffondere inutilmente intorno a me l’amarezza incancellabile che la mia esperienza mi ha lasciato.
+
+Creda ai miei migliori sentimenti.
+
+S. Weil.
+
+*P.-S.* — C’è un punto che mi rimprovero di aver dimenticato nel nostro ultimo colloquio; lo annoto soltanto per <a id="p147"></a><!-- page: 147; scan: Page:Weil - La Condition ouvrière, 1951.djvu/159 -->cautelarmi, all’occorrenza, da una nuova dimenticanza. Ho creduto di capire, da una storia da lei raccontata, che in fabbrica è vietato parlare sotto pena di multa. È davvero così? Se è così, avrei molte cose da dirle sulla dura costrizione che un regolamento simile costituisce per un operaio e, più in generale, sul principio secondo cui, durante una giornata di lavoro, non si deve sprecare un minuto.
+
+## Quinta lettera {.sez-ed}
+
+*Martedì 30 marzo.*
+
+Signore,
+
+Grazie del suo invito. Purtroppo bisogna rimandare il colloquio di tre settimane. Questa settimana mi è impossibile venire a trovarla; fisicamente sono completamente a terra e ho appena la forza di fare lezione. Poi ci sono quindici giorni di vacanza, che non trascorrerò a Bourges. Alla ripresa, spero di essere relativamente in forma. Vuole che conveniamo, per avere un punto fermo e salvo avviso contrario da una parte o dall’altra, che verrò a trovarla lunedì 20 aprile?
+
+In sostanza, mi sembra che il solo ostacolo serio al fatto che lei mi prenda come operaia sia una certa mancanza di fiducia. Gli ostacoli materiali di cui mi ha parlato sono difficoltà superabili. Ecco che cosa voglio dire — Lei può ben immaginare che non considero gli operai di R. come un campo di sperimentazione; sarei infelice quanto lei se un tentativo volto ad alleviare la loro sorte finisse per aggravarla. Se dunque, lavorando a R., vi avvertissi, per usare i suoi termini, una certa serenità che l’esecuzione dei miei progetti rischiasse di turbare, sarei la prima a rinunciarvi. Su questo siamo d’accordo. Il punto delicato è la valutazione della situazione morale degli operai.
+
+Su questo punto, lei non si fiderebbe di me. È del tutto legittimo e lo capisco. Mi rendo conto, del resto, di essere io stessa in certa misura causa di questa mancanza di fiducia, per il fatto di averle scritto con estrema goffaggine, esprimendo tutte le idee nella loro forma più brutale. Ma l’ho fatto consapevolmente. Sono incapace di usare accortezza, per qualsiasi interesse, con le persone alle quali tengo.
+
+Se passa per Parigi, non manchi di vedere il <a id="p148"></a><!-- page: 148; scan: Page:Weil - La Condition ouvrière, 1951.djvu/160 -->nuovo film di Charlot. Ecco finalmente qualcuno che ha espresso una parte di ciò che ho provato.
+
+Non creda che le preoccupazioni sociali mi facciano perdere ogni gioia di vivere. Soprattutto in questo periodo dell’anno, non dimentico mai che «Cristo è risorto». (Parlo per metafora, beninteso.) Spero che sarà così per tutti gli abitanti di R.
+
+Molto cordialmente.
+
+S. Weil.
+
+Poiché non dobbiamo vederci per qualche tempo, voglio dirle in due parole che gli aneddoti e le riflessioni sulla vita di fabbrica contenuti nelle mie lettere le hanno dato di me, a giudicare dalla risposta, un’opinione peggiore di quanto meriti. A quanto pare mi è impossibile farmi capire. Forse il film di Charlot vi riuscirebbe meglio di quanto possa fare io con ciò che le dico.
+
+Se io, che in qualche modo dovrei aver imparato a esprimermi, non riesco a farmi capire da lei, malgrado la sua buona volontà, ci si domanda quali procedimenti potrebbero portare a una comprensione tra l’operaio medio e il padrone medio.
+
+Ancora una parola, riguardo alla sua approvazione della divisione del lavoro che assegna all’uno il compito di spingere la pialla, all’altro quello di pensare all’assemblaggio. È questa, credo, la questione fondamentale e il *solo* punto che ci separa essenzialmente. Ho osservato, tra le persone rozze in mezzo alle quali ho vissuto, che sempre (credo di non aver trovato alcuna eccezione) l’elevatezza del pensiero (la facoltà di comprendere e formare idee generali) andava di pari passo con la generosità del cuore. In altre parole, ciò che abbassa l’intelligenza degrada l’uomo intero.
+
+Un’altra osservazione, che metto per iscritto perché lei possa meditarla. Come operaia, mi trovavo in una situazione doppiamente inferiore, esposta a sentire la mia dignità ferita non soltanto dai capi, ma anche dagli operai, per il fatto di essere una donna. (Noti bene che non avevo alcuna sciocca suscettibilità nei confronti del genere di scherzi tradizionale in fabbrica.) Ho constatato, non tanto in fabbrica quanto nel corso delle mie peregrinazioni erranti da disoccupata, durante le quali mi imponevo come regola di non lasciar mai sfuggire un’occasione di entrare in conversazione, che quasi costantemente gli operai capaci <a id="p149"></a><!-- page: 149; scan: Page:Weil - La Condition ouvrière, 1951.djvu/161 -->di parlare a una donna senza ferirla sono operai qualificati, mentre quelli che tendono a trattarla come un giocattolo sono manovali specializzati. Sta a lei trarne le conclusioni.
+
+A mio avviso il lavoro deve tendere, *in tutta la misura* *delle possibilità materiali*, a costituire un’educazione. E che cosa si penserebbe di una classe nella quale si stabilissero esercizi di natura radicalmente diversa per gli alunni scarsi e per quelli bravi?
+
+Esistono disuguaglianze naturali. A mio avviso, l’organizzazione sociale — ponendosi dal punto di vista morale — è buona nella misura in cui tende ad attenuarle (elevando, non abbassando, beninteso), cattiva nella misura in cui tende ad aggravarle, odiosa quando crea compartimenti stagni.
+
+## Sesta lettera {.sez-ed}
+
+Signore[^5],
+
+Ho riflettuto ancora su ciò che mi ha detto. Ecco le mie conclusioni. Crederà che io abbia un carattere molto irresoluto, ma ho semplicemente una mente lenta. Mi scuso di non essere giunta subito a una decisione definitiva, come avrei dovuto.
+
+Ecco. Date le possibilità immediate e molto ampie di conoscere la sua fabbrica che lei è tanto gentile da accordarmi, non sarebbe ragionevole da parte mia sacrificarle a un progetto forse irrealizzabile. Perché potrei lavorare da lei in condizioni accettabili soltanto se ci fosse un posto libero e nessuna domanda di assunzione a R., cosa poco verosimile in un prossimo futuro. Altrimenti, anche se lei mi iscrivesse in una lista e mi assumesse quando venisse il mio turno, gli operai troverebbero anormale che io venissi assunta mentre vi fossero donne di R. che chiedono di esserlo; indovinerebbero che lei mi conosce; io non potrei fornire alcuna spiegazione chiara; e diventerebbe estremamente difficile stabilire rapporti di cameratismo fiducioso. Così, senza escludere completamente il mio progetto originario, che tuttavia si trova rinviato a un futuro indeterminato, accetto la sua proposta di dedicare una giornata alla fabbrica. Le proporrò una data più avanti. <a id="p150"></a><!-- page: 150; scan: Page:Weil - La Condition ouvrière, 1951.djvu/162 -->Quanto al signor M.[^6], lascio a lei decidere se sia meglio chiedergli subito di accordare o rifiutare un’autorizzazione di principio, facendogli nello stesso tempo osservare che il mio progetto è sottoposto a condizioni che ne rendono poco probabile l’esecuzione, in ogni caso a breve termine; oppure se sia meglio non dire nulla fino al giorno in cui si presentasse per me una possibilità concreta di lavorare da lei. Il vantaggio che avrei nel sapere subito come stanno le cose sarebbe che, se dice di no, nelle mie indagini a R. non sarei trattenuta da alcun secondo fine; nel caso contrario, cercherei per ogni evenienza di non farmi notare troppo durante le mie visite alla fabbrica. D’altra parte, forse non vale la pena di parlare di un progetto così vago. Faccia come preferisce. Ancora una volta, mi scuso di aver cambiato posizione come ho fatto.
+
+Mi permetta di ricordarle che le chiedo in ogni caso di non parlare al signor M. della mia esperienza nelle fabbriche parigine, né del resto a nessun altro.
+
+Ho pensato a ciò che mi ha detto sul modo in cui si scelgono gli operai da licenziare, in caso di riduzione del personale. So bene che il suo metodo è l’unico difendibile dal punto di vista dell’impresa. Ma si metta per un momento dall’altro punto di vista — quello di chi sta in basso. Quale potere conferisce ai suoi capi di servizio questa responsabilità di designare, tra gli operai polacchi, quelli da licenziare perché meno utili! Non li conosco, ignoro come usino un simile potere. Ma posso rappresentarmi la situazione di quegli operai polacchi, i quali, credo, sospettano che un giorno o l’altro lei possa essere nuovamente costretto a licenziarne alcuni, di fronte al capo di servizio che quel giorno avrebbe l’incarico di indicarle questo o quello come meno utile dei suoi compagni. Quanto devono tremare davanti a lui e temere di dispiacergli! Mi giudicherà ancora ipersensibile se le dico che riesco molto bene a immaginarmelo e che mi fa male? Supponga di trovarsi in una situazione simile, con moglie e figli a carico, e si domandi in quale misura le sarebbe possibile conservare la propria dignità.
+
+Non ci sarebbe modo di stabilire — facendolo sapere, beninteso — un qualsiasi altro criterio non <a id="p151"></a><!-- page: 151; scan: Page:Weil - La Condition ouvrière, 1951.djvu/163 -->soggetto all’arbitrio: carichi familiari, anzianità, sorteggio, oppure una combinazione dei tre? Questo comporterebbe forse gravi inconvenienti, non ne so nulla; ma la supplico di considerare quali vantaggi morali ne deriverebbero per questi sventurati, posti in una così dolorosa insicurezza per colpa del governo francese.
+
+Vede, non è la subordinazione in se stessa a urtarmi, ma certe forme di subordinazione che comportano conseguenze moralmente intollerabili. Per esempio, quando le circostanze sono tali che la subordinazione implica non soltanto la necessità di obbedire, ma anche la preoccupazione costante di non dispiacere, questo mi sembra duro da sopportare. — D’altra parte, non posso accettare le forme di subordinazione nelle quali l’intelligenza, l’ingegnosità, la volontà, la coscienza professionale intervengono soltanto nell’elaborazione degli ordini da parte del capo, e nelle quali l’esecuzione esige soltanto una sottomissione passiva alla quale non partecipano né lo spirito né il cuore; sicché il subordinato svolge quasi il ruolo di una cosa maneggiata dall’intelligenza altrui. Tale era la mia situazione come operaia.
+
+Al contrario, quando gli ordini conferiscono una responsabilità a chi li esegue, esigono da parte sua le virtù di coraggio, volontà, coscienza e intelligenza che definiscono il valore umano, implicano una certa fiducia reciproca tra il capo e il subordinato e comportano soltanto in debole misura un potere arbitrario nelle mani del capo, la subordinazione è una cosa bella e onorevole.
+
+Sia detto per inciso, sarei stata riconoscente a un capo che avesse voluto assegnarmi un giorno un compito qualsiasi, anche penoso, sporco, pericoloso e mal retribuito, ma che avesse implicato da parte sua una certa fiducia in me; e quel giorno avrei obbedito con tutto il cuore. E sono certa che molti operai sono come me. Vi è qui una risorsa morale che non viene utilizzata.
+
+Ma basta su questo. Le scriverò appena possibile quale giorno conto di trascorrere a R. Mi è impossibile dirle quanto le sia grata delle possibilità che mi offre di capire che cosa sia una fabbrica.
+
+Molto cordialmente.
+
+S. Weil.
+
+<div id="p152" class="ancora-pagina"></div><!-- page: 152; scan: Page:Weil - La Condition ouvrière, 1951.djvu/164 -->
+
+*P.-S.* — Potrebbe farmi mandare i numeri del suo giornale usciti dopo il n<sup style="font-size:70%;">o</sup> 30? La mia collezione si ferma lì. Ma mi dispiacerebbe se qualcuno si prendesse una lavata di capo per colpa mia…
+
+## Settima lettera {.sez-ed}
+
+Signore[^7],
+
+Avrei voluto risponderle prima. Finora non ho avuto la possibilità di fissare una data. Le va bene che venga a trovarla giovedì 30 aprile, all’ora solita? Se sì, non occorre rispondere. La proposta che mi fa, di trascorrere un’intera giornata a R. per vedere tutto più da vicino, non poteva farmi più piacere; soltanto, penso che sia necessario un colloquio preliminare per fissare il programma. La ringrazio infinitamente di offrirmi così il modo di rendermi meglio conto delle cose. Non chiedo certo altro che mettere, in ogni campo, le mie idee alla prova del contatto con i fatti; e creda che la probità intellettuale è sempre ai miei occhi il primo dei doveri.
+
+Vorrei, per abbreviare le spiegazioni a voce, essere certa che lei sia persuaso di aver interpretato male alcune delle mie reazioni. L’ostilità sistematica verso i superiori, l’invidia nei confronti dei più favoriti, l’odio per la disciplina, il malcontento perpetuo, tutti questi sentimenti meschini sono assolutamente estranei al mio carattere. Ho al massimo grado il rispetto della disciplina nel lavoro, e disprezzo chiunque non sappia obbedire. So benissimo anche che ogni organizzazione implica ordini dati e ricevuti. Ma ci sono ordini e ordini. Io, come operaia, ho subito una subordinazione che mi è stata intollerabile, benché abbia sempre (o quasi) obbedito rigorosamente e sia giunta faticosamente a una specie di rassegnazione. Non devo giustificarmi (per usare la sua espressione) per aver provato in quella situazione una sofferenza intollerabile, devo soltanto cercare di determinarne esattamente le cause; al riguardo si potrebbe soltanto rimproverarmi di sbagliarmi nel determinarle, il che forse accade. D’altra parte, mai, in nessun caso, acconsentirò a giudicare accettabile per uno <a id="p153"></a><!-- page: 153; scan: Page:Weil - La Condition ouvrière, 1951.djvu/165 -->dei miei simili, chiunque egli sia, ciò che giudico moralmente intollerabile per me stessa; per quanto diversi siano gli uomini, il mio sentimento della dignità umana resta identicamente lo stesso, che si tratti di me o di qualunque altro uomo, anche se tra lui e me si possono stabilire, sotto altri aspetti, rapporti di superiorità o d’inferiorità. Su questo punto, nulla al mondo mi farà mai cambiare, almeno lo spero. Per tutto il resto, non chiedo altro che liberarmi di tutte le idee preconcette suscettibili di falsare il mio giudizio.
+
+Una sua frase mi ha fatto riflettere a lungo; quella in cui parla di contatti più stretti tra la fabbrica e me che forse un giorno potrebbero essere organizzati. Ha qualcosa di concreto in mente, esprimendosi così? Se sì, spero che me ne parlerà. Mi domando se desideri soltanto, per pura generosità nei miei confronti, darmi i mezzi per istruirmi, per completare, precisare e rettificare le mie vedute troppo sommarie e senza dubbio in parte false sull’organizzazione industriale; oppure se pensa che potrei eventualmente essere capace di rendermi utile, in un modo diverso da quello che le avevo suggerito. Quanto a me, fino a oggi non ho alcuna ragione di avere fiducia nelle mie capacità; ma se lei avesse in mente un modo qualsiasi di metterle alla prova, nell’interesse della popolazione operaia, sulla base di alcune idee sulle quali, nonostante le divergenze, fossimo riusciti preliminarmente a metterci d’accordo, varrebbe la pena che ci riflettessi.
+
+Parleremo di tutto questo e di molte altre cose giovedì, se vuole. Se venerdì le va meglio, non ha che da avvertirmi e mi adeguerò.
+
+Molto cordialmente.
+
+S. Weil.
+
+## Ottava lettera {.sez-ed}
+
+Signore[^8],
+
+Non mi è ancora possibile fissarle una data. Ma, nel frattempo, sono stata così toccata dalla generosità che dimostra nei miei confronti — ricevendomi, rispondendo alle mie domande, aprendomi le porte della sua fabbrica — che ho deciso di scriverle del materiale da pubblicare, <a id="p154"></a><!-- page: 154; scan: Page:Weil - La Condition ouvrière, 1951.djvu/166 -->in modo da farle recuperare almeno una parte del tempo che le costo.
+
+Tuttavia mi domandavo con inquietudine come sarei riuscita a impormi di scrivere sottomettendomi a limiti imposti, poiché si tratta evidentemente di prepararle una prosa ben educata, per quanto ne sono capace… Per fortuna mi è tornato alla memoria un vecchio progetto che mi sta molto a cuore: rendere i capolavori della poesia greca (che amo appassionatamente) accessibili alle masse popolari. L’anno scorso ho sentito che la grande poesia greca sarebbe cento volte più vicina al popolo, se potesse conoscerla, della letteratura francese classica e moderna.
+
+Ho cominciato da [*Antigone*.](https://fr.wikisource.org/wiki/La_Source_grecque/01/Antigone "La Source grecque/01/Antigone") Se sono riuscita nel mio intento, dovrebbe poter interessare e toccare tutti — dal direttore fino all’ultimo manovale; e quest’ultimo dovrebbe potervi entrare quasi senza difficoltà, senza tuttavia avere mai l’impressione di alcuna condiscendenza, di alcuno sforzo compiuto per mettersi alla sua portata. È così che intendo la divulgazione. Ma non so se ci sono riuscita.
+
+*Antigone* non ha nulla di una storiella morale per bambini beneducati; spero tuttavia che non arriverà a trovare sovversivo Sofocle…
+
+Se questo articolo piace — e se non piace, significa che non so scrivere — potrò farne ancora tutta una serie, a partire da altre tragedie di Sofocle e dall’*Iliade*. Omero e Sofocle pullulano di cose struggenti, profondamente umane, che si tratta soltanto di esprimere e presentare in modo da renderle accessibili a tutti.
+
+Penso con una certa soddisfazione che, se farò questi articoli e se verranno letti, i manovali più illetterati di R. ne sapranno sulla letteratura greca più del 99% dei diplomati — e forse anche di più!…
+
+Del resto, sarà soltanto con l’avvicinarsi dell’estate che avrò abbastanza tempo libero per questo lavoro.
+
+A presto, spero, e molto cordialmente.
+
+S. Weil.
+
+Spero che riuscirà a fare in modo di pubblicare questo scritto tutto in una volta.
+
+## Nona lettera {.sez-ed}
+
+<div id="p155" class="ancora-pagina"></div><!-- page: 155; scan: Page:Weil - La Condition ouvrière, 1951.djvu/167 -->
+
+### Frammento di lettera[^9].
+
+Signore,
+
+In linea di massima, penso di venire tra 15 giorni. Scriverò per confermare.
+
+Può mettere, come pseudonimo per lo scritto su *Antigone*, «Cleante» (è il nome di un greco che conciliava lo studio della filosofia stoica con il mestiere di portatore d’acqua). Firmerei, se non ci fosse la questione di un’eventuale assunzione.
+
+Se pensa che mi sia costato presentare *Antigone* come ho fatto, sbaglia a ringraziarmi: non si ringraziano le persone per le costrizioni che si impongono loro. Ma in realtà non è così, o quasi per nulla. Trovo più bello esporre il dramma nella sua nudità. Può darsi che per altri testi mi capiti di accennare in poche parole ad alcune possibili applicazioni alla vita contemporanea; spero tuttavia che non le sembreranno inaccettabili.
+
+Ciò che invece mi è stato penoso è il fatto stesso di scrivere tenendo presente la domanda: questo può passare? Non mi era mai accaduto, e ben poche considerazioni sono capaci di indurmi a risolvermi a farlo. La penna si rifiuta a questo genere di costrizione, quando si è imparato a maneggiarla come si deve. Ma continuerò nondimeno, beninteso.
+
+Ho una grande ambizione, alla quale oso appena pensare, tanto è difficile da realizzare: dopo questa serie di scritti, farne un’altra — ma comprensibile e interessante per qualsiasi manovale — sulla creazione della scienza moderna da parte dei Greci; storia meravigliosa, e generalmente ignorata persino dalle persone colte.
+
+Lei non mi ha capita per quanto riguarda i licenziamenti. Non è l’arbitrio in sé che vorrei vedere limitato. Quando si tratta di una misura così crudele (questo rimprovero non è rivolto a lei), la scelta in sé mi sembra in una certa misura indifferente. Ciò che trovo incompatibile con la dignità umana è il timore di dispiacere generato nei subordinati dalla <a id="p156"></a><!-- page: 156; scan: Page:Weil - La Condition ouvrière, 1951.djvu/168 -->convinzione che la scelta possa essere arbitraria. La regola più assurda in sé, purché fissa, sarebbe un progresso sotto questo aspetto; oppure l’organizzazione di una qualunque procedura di controllo che permetta agli operai di rendersi conto che la scelta non è arbitraria. Naturalmente, lei solo può giudicare che cosa sia possibile. In ogni caso, come potrei non considerare oppressi gli uomini posti in una simile situazione morale? Il che non implica necessariamente che lei sia un oppressore.
+
+## Decima lettera {.sez-ed}
+
+Signore[^10],
+
+Ho aspettato di giorno in giorno, prima di scriverle, di poterle fissare una data. Finora non mi è stato possibile farlo, perché in tutto questo periodo non sono stata affatto bene. Ora, trascorrere un’intera giornata a visitare una fabbrica è faticoso; e può essere proficuo soltanto se si è capaci di conservare fino a sera lucidità e presenza di spirito.
+
+Verrò, salvo avviso contrario, venerdì 12 giugno, alle 7.40, come convenuto.
+
+Le porterò un nuovo scritto su un’altra tragedia di Sofocle. Ma glielo lascerò soltanto se potrà trovare una sistemazione tipografica soddisfacente. Perché, quanto ad *Antigone*, ho alcuni rimproveri piuttosto seri da farle riguardo all’impaginazione tipografica.
+
+A pensarci bene, non visiterò un’abitazione operaia. Non posso credere che una visita del genere non rischi di ferire; e occorrerebbero considerazioni davvero molto forti per indurmi a rischiare di ferire persone che, quando vengono ferite, devono tacere e persino sorridere.
+
+Del resto, quando dico che c’è il rischio di ferire, in fondo sono convinta che gli operai siano effettivamente feriti da cose di questo genere, purché abbiano potuto conservare un po’ di fierezza. Supponga che un visitatore particolarmente curioso desideri conoscere le condizioni di vita non soltanto degli operai, ma anche del direttore, e che M. M., a questo scopo, gli faccia visitare casa sua. Fatico <a id="p157"></a><!-- page: 157; scan: Page:Weil - La Condition ouvrière, 1951.djvu/169 -->a credere che lei troverebbe tutto ciò del tutto naturale. Non vedo alcuna differenza tra i due casi.
+
+Ho visto con piacere che nel suo giornale sembra esserci stata una collaborazione operaia, a proposito della questione dei croissant. L’articolo dell’operaia che ne chiede la soppressione mi ha colpita particolarmente. Spero che mi darà qualche informazione su di lei.
+
+Molto cordialmente.
+
+S. Weil.
+
+*P.-S.* — Mi ha molto interessata anche la risposta di quella che chiede articoli sull’organizzazione della fabbrica.
+
+## Undicesima lettera {.sez-ed}
+
+*Mercoledì* (10 giugno 1936).
+
+Signore,
+
+Mi trovo nella necessità di andare a Parigi domani e dopodomani, per vedervi alcuni amici di passaggio. Bisogna dunque rimandare ancora questa visita.
+
+Del resto, è meglio così: in questo momento sarei incapace di trovarmi tra i suoi operai senza andare da loro a congratularmi calorosamente.
+
+Non dubita, penso, dei sentimenti di gioia e di indicibile liberazione che mi ha procurato questo bel movimento di sciopero. Le conseguenze saranno quel che saranno. Ma non possono cancellare il valore di queste belle giornate gioiose e fraterne, né il sollievo provato dagli operai nel vedere coloro che li dominano piegarsi una volta davanti a loro.
+
+Le scrivo così per non lasciare equivoci tra noi. Se portassi ai suoi operai le mie congratulazioni per la loro vittoria, lei troverebbe senza dubbio che abuso della sua ospitalità. È meglio aspettare che le cose si assestino. Se tuttavia, dopo queste poche righe, acconsente ancora a ricevermi…
+
+Molto cordialmente
+
+S. Weil.
+
+---
+
+<div id="p158" class="ancora-pagina"></div><!-- page: 158; scan: Page:Weil - La Condition ouvrière, 1951.djvu/170 -->
+
+## Risposta di M. B.
+
+13. 6. 36.
+
+Signorina,
+
+*Se, per ipotesi, gli avvenimenti che la rallegrano si fossero sviluppati in senso contrario, non credo, non essendo le mie reazioni a senso unico, che avrei provato «sentimenti di gioia e di indicibile liberazione» nel vedere gli operai piegarsi davanti ai padroni.*
+
+*Quanto meno, sono del tutto certo che mi sarebbe stato impossibile manifestarglieli.*
+
+*La prego, Signorina, di accogliere il mio rammarico di non poterle esprimere, senza mentire, altro che sentimenti di cortesia.*
+
+## Dodicesima lettera {.sez-ed}
+
+Signore[^11],
+
+Lei mi scrive esattamente come se fossi mancata di eleganza morale al punto da trionfare su vinti e oppressi. Naturalmente, se lei fosse in prigione, o sul lastrico, o in esilio, o in una situazione simile, mi asterrei dall’esprimere gioia al riguardo o persino dal provarne. Ma, fino a nuovo avviso, lei è direttore a R., non è vero? Gli operai continuano a lavorare ai suoi ordini? Anche con i nuovi salari, continua a guadagnare un po’ più di un formatore, immagino? In ultima analisi, nulla di essenziale è cambiato. Quanto all’avvenire, nessuno sa che cosa porterà, né se l’attuale vittoria operaia avrà costituito, in fin dei conti, una tappa verso un regime totalitario comunista, oppure verso un regime totalitario fascista, oppure ancora (ciò che spero, ahimè, senza crederci) verso un regime non totalitario.
+
+Mi creda — e soprattutto non immagini che io parli ironicamente — se questo movimento di sciopero ha suscitato in me una gioia pura (gioia del resto abbastanza presto sostituita dall’angoscia che non mi abbandona da quando, ormai molto tempo fa, ho compreso verso quali catastrofi stiamo andando), è non soltanto nell’interesse degli operai, ma anche nell’interesse dei padroni. Non penso in questo momento all’interesse materiale — forse le conseguenze di questo sciopero saranno alla fine nocive all’interesse materiale degli uni e degli altri, non si sa — ma all’interesse morale, alla salvezza dell’anima. Penso <a id="p159"></a><!-- page: 159; scan: Page:Weil - La Condition ouvrière, 1951.djvu/171 -->che sia bene per gli oppressi aver potuto per alcuni giorni affermare la propria esistenza, rialzare la testa, imporre la propria volontà, ottenere vantaggi dovuti a qualcosa di diverso da una generosità condiscendente. E penso che sia altrettanto bene per i capi — per la salvezza della loro anima — aver dovuto a loro volta, una volta nella vita, piegarsi davanti alla forza e subire un’umiliazione. Ne sono felice per loro.
+
+Che cosa avrei dovuto fare? Non provare questa gioia? Ma la giudico legittima. Non mi sono fatta in nessun momento illusioni sulle possibili conseguenze del movimento, non ho fatto nulla per suscitarlo né per prolungarlo; almeno potevo condividere la gioia pura e profonda che animava i miei compagni di schiavitù. Non esprimerle questa gioia? Ma comprenda dunque la nostra rispettiva situazione. Dei rapporti cordiali tra lei e me implicherebbero da parte mia la peggiore ipocrisia se le lasciassi credere anche per un istante che comportano la minima sfumatura di benevolenza nei confronti della forza oppressiva che lei rappresenta e maneggia nella sua sfera, come subordinato immediato del padrone. Sarebbe facile e vantaggioso per me lasciarla nell’errore su questo punto. Esprimendomi con una franchezza brutale che, praticamente, può avere soltanto cattive conseguenze, le do una testimonianza di stima.
+
+In breve, dipende da lei riallacciare o no i rapporti che esistevano tra noi prima degli avvenimenti attuali. Nell’uno e nell’altro caso, non dimenticherò che le devo, sul piano intellettuale, una visione un po’ più chiara di alcuni dei problemi che mi preoccupano.
+
+S. Weil.
+
+*P.-S.* — Ho ancora un favore da chiederle, che spero vorrà rendermi in ogni caso. Probabilmente finirò per decidermi a scrivere qualcosa sul lavoro industriale. Vorrebbe avere la gentilezza di rimandarmi tutte le lettere nelle quali le ho parlato della condizione operaia? Vi ho annotato fatti, impressioni e idee, alcuni dei quali forse non mi tornerebbero alla mente. Grazie in anticipo.
+
+Spero, d’altra parte, che nessun cambiamento nei suoi sentimenti nei miei confronti le farà dimenticare che mi ha promesso il segreto assoluto riguardo alla mia esperienza nelle fabbriche.
+
+---
+
+[^2]: Si veda il testo che segue la lettera.
+
+[^3]: Il proprietario della fabbrica.
+
+[^4]: Si veda la lettera precedente.
+
+[^5]: Non datata (aprile 1936?).
+
+[^6]: Proprietario della fabbrica.
+
+[^7]: Non datata (aprile 1936?).
+
+[^8]: Non datata (aprile-maggio 1936?).
+
+[^9]: Non datato (aprile-maggio 1936?).
+
+[^10]: Non datata (aprile-maggio 1936). Vedi note pp. 152, 153, 155.
+
+[^11]: Non datata, giugno 1936.
