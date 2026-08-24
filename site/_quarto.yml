@@ -130,6 +130,15 @@ format:
               \includegraphics[width=\paperwidth,height=\paperheight]{%
                 \detokenize{_immagini/cover.jpg}}}}}
         \AddToHook{cmd/maketitle/after}{\ClearShipoutPictureBG}
+        % Titolo di copertina piu' grande. In scrbook la dimensione e' fissata
+        % da un `\huge` che `\maketitle` applica dopo il font di `title`: un
+        % `\setkomafont{title}` verrebbe quindi annullato. Nella titlepage
+        % `\huge` compare soltanto davanti al titolo, percio' lo ridefiniamo
+        % per la sola durata di `\maketitle`.
+        \AddToHook{cmd/maketitle/before}{%
+          \let\hugeoriginale\huge
+          \renewcommand{\huge}{\fontsize{28pt}{32pt}\selectfont}}
+        \AddToHook{cmd/maketitle/after}{\let\huge\hugeoriginale}
         % Le tabelle del diario e dei frammenti hanno molte colonne strette:
         % in A5 stanno nella giustezza solo in corpo minore.
         \usepackage{etoolbox}
