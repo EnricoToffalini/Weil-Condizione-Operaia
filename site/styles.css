@@ -3,11 +3,35 @@
    Il carattere è quello predefinito del tema Quarto (cosmo), cioè la pila
    sans-serif di sistema: non viene ridefinito qui. */
 
+/* ---- palette ------------------------------------------------------------ */
+
+/* Un solo colore attraversa il sito: il blu della tela da lavoro francese,
+   il «bleu de travail» dei camici di fabbrica. Sui menù resta una velatura
+   quasi bianca; il blu pieno compare soltanto dove serve un tratto netto. */
+
 :root {
-  --co-tenue: #6d6a66;
-  --co-filetto: #e8e4dd;
-  --co-fondo-tenue: #f5f3ef;
-  --co-fondo-menu: #efefff;
+  --co-blu: #3a5c78;
+  --co-blu-scuro: #2c4759;
+  --co-tenue: #64717c;
+  --co-filetto: #dfe6ec;
+  --co-fondo-tenue: #f4f7f9;
+  --co-fondo-menu: #f1f5f8;
+  --co-evidenza: #dce7f0;
+}
+
+/* Il tema cosmo porta un azzurro elettrico su collegamenti, evidenziazioni e
+   voci correnti: qui rientra tutto nella stessa tinta. */
+:root {
+  --bs-link-color: var(--co-blu);
+  --bs-link-color-rgb: 58, 92, 120;
+  --bs-link-hover-color: var(--co-blu-scuro);
+  --bs-link-hover-color-rgb: 44, 71, 89;
+  --bs-highlight-bg: var(--co-evidenza);
+  --bs-focus-ring-color: rgb(58 92 120 / 25%);
+}
+
+::selection {
+  background: var(--co-evidenza);
 }
 
 /* ---- corpo del testo ---------------------------------------------------- */
@@ -119,6 +143,36 @@ h2.sez-ed {
   background-color: var(--co-fondo-menu);
 }
 
+/* Le voci dei due menù seguono la stessa tinta: grigio-azzurro da spente,
+   blu pieno quella della pagina che si sta leggendo. */
+#quarto-sidebar .sidebar-title > a {
+  color: var(--co-blu-scuro);
+}
+
+div.sidebar-item-container {
+  color: var(--co-tenue);
+}
+
+div.sidebar-item-container:hover,
+div.sidebar-item-container:focus {
+  color: var(--co-blu-scuro);
+}
+
+div.sidebar-item-container .active,
+div.sidebar-item-container .show > .nav-link {
+  color: var(--co-blu);
+}
+
+.sidebar nav[role="doc-toc"] > ul a {
+  border-left-color: var(--co-filetto);
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
+  border-left-color: var(--co-blu);
+  color: var(--co-blu) !important;
+}
+
 /* L'indice della pagina è alto quanto le sue voci: come riquadro arrotondato
    sembra deliberato, come fascia troncata a metà no. La condizione `:has`
    evita il riquadro vuoto sulle pagine senza titoli interni, come la
@@ -228,11 +282,67 @@ h2.sez-ed {
   text-decoration: underline;
 }
 
+/* ---- ricerca ------------------------------------------------------------ */
+
+/* Il risultato selezionato e le parole trovate: stessa tinta del resto. */
+.aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item,
+#quarto-search-results li.aa-Item[aria-selected="true"] .search-item {
+  background-color: var(--co-blu);
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item mark.search-match,
+#quarto-search-results li.aa-Item[aria-selected="true"] .search-item mark.search-match {
+  color: #fff;
+  background-color: rgb(255 255 255 / 25%);
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="false"] .search-item mark.search-match,
+#quarto-search-results li.aa-Item[aria-selected="false"] .search-item mark.search-match {
+  background-color: var(--co-evidenza);
+}
+
 /* ---- schermi piccoli ---------------------------------------------------- */
 
 @media (max-width: 991.98px) {
   html {
     scroll-padding-top: 7rem;
+  }
+
+  /* L'unico tratto marcato del sito: la barra fissa che sul telefono prende
+     il posto del menù laterale. Sul blu pieno scritte e icone vanno in
+     bianco, comprese quelle che il tema lascerebbe grigie. */
+  nav.quarto-secondary-nav {
+    background-color: var(--co-blu-scuro);
+    border-bottom-color: var(--co-blu-scuro);
+  }
+
+  .quarto-secondary-nav,
+  .quarto-secondary-nav a,
+  .quarto-secondary-nav .btn,
+  .quarto-secondary-nav .quarto-btn-toggle,
+  .quarto-secondary-nav .quarto-search-button,
+  .quarto-secondary-nav .chapter-title,
+  .quarto-secondary-nav nav.quarto-page-breadcrumbs,
+  .quarto-secondary-nav nav.quarto-page-breadcrumbs a,
+  .quarto-secondary-nav nav.quarto-page-breadcrumbs .breadcrumb-item::before {
+    color: #fff;
+  }
+
+  .quarto-secondary-nav .btn:hover,
+  .quarto-secondary-nav .btn:focus,
+  .quarto-secondary-nav nav.quarto-page-breadcrumbs a:hover {
+    color: #fff;
+    opacity: 0.75;
+  }
+
+  .quarto-secondary-nav .btn:focus-visible {
+    box-shadow: 0 0 0 0.2rem rgb(255 255 255 / 30%);
+  }
+
+  /* Il menù dei capitoli si apre sotto la barra: resta chiaro come a schermo
+     largo, con un filetto della stessa famiglia. */
+  #quarto-sidebar.sidebar-navigation {
+    border-bottom-color: var(--co-filetto);
   }
 
   /* Nella barra mobile il nome di un capitolo lungo deve lasciare spazio ai
@@ -301,7 +411,7 @@ h2.sez-ed {
     width: auto;
     max-width: 760px;
     margin-inline: auto;
-    border: 1px solid #d8d7ee;
+    border: 1px solid var(--co-filetto);
     border-radius: 6px;
     background: var(--co-fondo-menu);
     box-shadow: 0 1px 4px rgb(0 0 0 / 8%);
@@ -321,7 +431,7 @@ h2.sez-ed {
     padding: 0.7rem 0.9rem;
     border: 0;
     background: transparent;
-    color: inherit;
+    color: var(--co-blu-scuro);
     font-size: 0.9rem;
     font-weight: 600;
     text-align: left;
