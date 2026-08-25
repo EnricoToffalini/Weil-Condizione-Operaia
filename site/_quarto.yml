@@ -51,6 +51,9 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header:
+      text: |
+        <script data-goatcounter="https://weil.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     include-after-body: _includes/mobile-html.html
     toc: true
     toc-depth: 3
