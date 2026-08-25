@@ -4,7 +4,7 @@ title: "La razionalizzazione (23 febbraio 1937)"
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/14_la_rationalisation.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 215-232.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 215-232.]{.riferimento}
 
 ::: {.cappello}
 Il 23 febbraio 1937 Simone Weil tenne, davanti a un uditorio operaio, una conferenza di cui non possediamo il manoscritto originale, ma soltanto questo testo parziale raccolto da un ascoltatore.

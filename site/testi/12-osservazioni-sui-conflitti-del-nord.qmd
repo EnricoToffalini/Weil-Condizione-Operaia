@@ -4,7 +4,7 @@ title: "Osservazioni sugli insegnamenti da trarre dai conflitti del Nord (1936-1
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/12_remarques_sur_les_conflits_du_nord.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 197-205.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 197-205.]{.riferimento}
 
 ::: {.cappello}
 Rapporto alla C. G. T. al ritorno da una missione (1936-1937 ?).

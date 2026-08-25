@@ -4,7 +4,7 @@ title: "Frammenti"
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/07_fragments.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 109-124.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 109-124.]{.riferimento}
 
 ::: {.cappello}
 Pagine scritte durante il soggiorno in fabbrica (1934-1935) e nell’anno seguente.

@@ -4,7 +4,7 @@ title: "Lettera a Boris Souvarine (1935)"
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/04_lettre_a_boris_souvarine.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 29-31.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 29-31.]{.riferimento}
 
 <div id="p29" class="ancora-pagina"></div><!-- page: 29; scan: Page:Weil - La Condition ouvrière, 1951.djvu/37 -->
 

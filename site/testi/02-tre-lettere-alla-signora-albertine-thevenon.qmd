@@ -4,7 +4,7 @@ title: "Tre lettere alla signora Albertine Thévenon (1934-1935)"
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/02_trois_lettres_a_albertine_thevenon.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 15-22.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 15-22.]{.riferimento}
 
 ## Prima lettera {.sez-ed}
 

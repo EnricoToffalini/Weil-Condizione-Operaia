@@ -4,7 +4,7 @@ title: "La vita e lo sciopero delle operaie metallurgiche (Sul posto) (10 giugno
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/09_la_vie_et_la_greve_des_ouvrieres_metallos.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 161-174.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 161-174.]{.riferimento}
 
 ::: {.cappello}
 Articolo apparso sotto lo pseudonimo di S. Galois nella *Révolution prolétarienne* del 10 giugno 1936 e nei *Cahiers de «Terre Libre»* del 15 luglio 1936.

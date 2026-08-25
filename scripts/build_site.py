@@ -326,7 +326,7 @@ def componi(sorgente: Path, impostazioni: dict, manifest: dict) -> tuple[str, st
     if unita.get("page_start"):
         pagine = f"pp. {unita['page_start']}-{unita['page_end']}"
         riferimento = (
-            f"[*La Condition ouvrière*, Gallimard, Paris 1951, {pagine}."
+            f"[*La Condizione Operaia*, Gallimard, Parigi 1951, {pagine}."
             "]{.riferimento}\n\n"
         )
 

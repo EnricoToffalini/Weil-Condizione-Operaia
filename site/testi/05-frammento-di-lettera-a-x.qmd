@@ -4,7 +4,7 @@ title: "Frammento di lettera a X. (1933-1934?)"
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/05_fragment_de_lettre_a_x.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 33-34.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 33-34.]{.riferimento}
 
 <div id="p33" class="ancora-pagina"></div><!-- page: 33; scan: Page:Weil - La Condition ouvrière, 1951.djvu/41 -->
 

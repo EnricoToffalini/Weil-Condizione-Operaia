@@ -25,7 +25,7 @@ book:
     title: "La Condizione Operaia - Simone Weil"
     style: docked
   page-footer:
-    left: "Simone Weil, *La Condition ouvrière*, Gallimard, Paris 1951."
+    left: "Simone Weil, *La Condizione Operaia*, Gallimard, Parigi 1951."
     right: "Traduzione italiana &middot; testo derivato da Wikisource, CC BY-SA 4.0."
   chapters:
     - index.qmd

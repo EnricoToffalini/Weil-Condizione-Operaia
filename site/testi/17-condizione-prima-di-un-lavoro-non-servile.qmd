@@ -4,7 +4,7 @@ title: "Condizione prima di un lavoro non servile (Marsiglia, 1941-1942)"
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/17_condition_premiere_d_un_travail_non_servile.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 261-273.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 261-273.]{.riferimento}
 
 ::: {.cappello}
 Scritto a Marsiglia nel 1941, apparso parzialmente nel n. 4 del *Cheval de Troie* nel 1947.

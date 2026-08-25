@@ -4,10 +4,6 @@ title: "Nota al testo"
 
 ## Che cosa contiene questo sito
 
-Questo sito pubblica soltanto la traduzione italiana. Il master francese resta
-nel repository, in `corpus/fr/`, come riferimento di lavoro, ma non viene
-pubblicato: le pagine che seguono sono monolingui.
-
 Il testo di riferimento è:
 
 > Simone Weil, *La Condition ouvrière*, texte établi par Albert Camus, Paris,
@@ -17,53 +13,7 @@ La fonte digitale del francese è [l'edizione su Wikisource](https://fr.wikisour
 collegata al facsimile del volume. I numeri di pagina indicati sotto ogni
 titolo sono quelli dell'edizione stampata del 1951.
 
-L'indice del volume ha diciassette unità, ma la raccolta comincia dalle *Tre
-lettere alla signora Albertine Thévenon*: l'unità 01, l'*Avant-propos* firmato
-da Albertine Thévenon, non è di Simone Weil e non fa parte di questo corpus.
-La numerazione dei testi conserva quella dell'edizione, e per questo parte da 02.
-
-## Come sono resi i testi
-
-Le pagine sono generate meccanicamente dai file di `corpus/it/` con
-`scripts/build_site.py`: il corpus resta la sola fonte autorevole e non viene
-mai modificato dalla generazione. Gli interventi sono soltanto questi.
-
-**Il titolo.** Nel corpus il titolo di ciascuno scritto è in maiuscolo, come nel
-volume; qui è ripreso dal front matter del file e reso in tondo, senza essere
-ripetuto nel corpo della pagina.
-
-**Il cappello.** Nell'edizione del 1951 alcuni titoli portano una nota che
-indica dove e quando lo scritto è apparso. Poiché una nota non può restare
-appesa al titolo di una pagina web, quel testo è riportato per intero in
-apertura, nel riquadro grigio.
-
-**I titoli editoriali.** Alcuni scritti sono lunghi e privi di articolazione, o
-la loro articolazione è implicita. Per renderli navigabili senza spezzarli in
-più pagine, ciascuno di essi resta in una pagina sola e riceve una serie di
-titoli di sezione che non appartengono al testo di Simone Weil: servono
-unicamente a costruire l'indice laterale. Sono composti in un carattere diverso
-dagli altri e sono riconoscibili a colpo d'occhio. Compaiono in:
-
-* *Tre lettere alla signora Albertine Thévenon*, *Lettere a un ingegnere
-  direttore di fabbrica* e *Lettere ad Auguste Detœuf*, dove distinguono le
-  singole lettere;
-* *Diario di fabbrica*, dove raggruppano le settimane sotto la fabbrica cui si
-  riferiscono;
-* *Frammenti*, *La vita e lo sciopero delle operaie metallurgiche*,
-  *La razionalizzazione*, *Esperienza della vita di fabbrica* e *Condizione
-  prima di un lavoro non servile*, dove segnano i movimenti dell'argomentazione.
-
-Dove un titolo editoriale cade esattamente su uno stacco del volume — un
-filetto o un asterismo — prende il posto dello stacco, che svolgeva la stessa
-funzione. I titoletti già presenti nel corpus sono invece riportati tali e
-quali, nel loro testo originale.
-
-**Le pagine del volume.** Ogni pagina stampata dell'edizione del 1951 conserva
-un'ancora invisibile nel testo. È possibile rimandare direttamente a una pagina
-aggiungendo `#p` e il numero all'indirizzo di un capitolo: per esempio
-`…/06-diario-di-fabbrica.html#p73`.
-
-Ortografia, lessico, punteggiatura, corsivi, note e tabelle sono lasciati come
+Ortografia, lessico, punteggiatura, corsivi, note e tabelle sono lasciati per quanto possibile come
 si trovano nel corpus. Le formule e i disegni tecnici dei *Frammenti* e del
 *Diario di fabbrica* arrivano dalla trascrizione Wikisource nella forma grezza
 in cui questa li registra.
@@ -75,3 +25,4 @@ trascrizione Wikisource è distribuita con licenza CC BY-SA 4.0, con
 attribuzione puntuale nel manifest del corpus. I diritti sulle opere
 sottostanti possono dipendere dalla giurisdizione: si veda il file `LICENSE`
 del repository.
+

@@ -4,7 +4,7 @@ title: "Lettera a un’allieva (1934)"
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/03_lettre_a_une_eleve.md. Non modificare a mano. -->
 
-[*La Condition ouvrière*, Gallimard, Paris 1951, pp. 23-28.]{.riferimento}
+[*La Condizione Operaia*, Gallimard, Parigi 1951, pp. 23-28.]{.riferimento}
 
 <div id="p23" class="ancora-pagina"></div><!-- page: 23; scan: Page:Weil - La Condition ouvrière, 1951.djvu/31 -->
 

@@ -211,7 +211,6 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#che-cosa-contiene-questo-sito" id="toc-che-cosa-contiene-questo-sito" class="nav-link active" data-scroll-target="#che-cosa-contiene-questo-sito">Che cosa contiene questo sito</a></li>
-  <li><a href="#come-sono-resi-i-testi" id="toc-come-sono-resi-i-testi" class="nav-link" data-scroll-target="#come-sono-resi-i-testi">Come sono resi i testi</a></li>
   <li><a href="#licenze" id="toc-licenze" class="nav-link" data-scroll-target="#licenze">Licenze</a></li>
   </ul>
 </nav>
@@ -240,28 +239,12 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="che-cosa-contiene-questo-sito" class="level2">
 <h2 class="anchored" data-anchor-id="che-cosa-contiene-questo-sito">Che cosa contiene questo sito</h2>
-<p>Questo sito pubblica soltanto la traduzione italiana. Il master francese resta nel repository, in <code>corpus/fr/</code>, come riferimento di lavoro, ma non viene pubblicato: le pagine che seguono sono monolingui.</p>
 <p>Il testo di riferimento è:</p>
 <blockquote class="blockquote">
 <p>Simone Weil, <em>La Condition ouvrière</em>, texte établi par Albert Camus, Paris, Gallimard, 1951.</p>
 </blockquote>
 <p>La fonte digitale del francese è <a href="https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re">l’edizione su Wikisource</a>, collegata al facsimile del volume. I numeri di pagina indicati sotto ogni titolo sono quelli dell’edizione stampata del 1951.</p>
-<p>L’indice del volume ha diciassette unità, ma la raccolta comincia dalle <em>Tre lettere alla signora Albertine Thévenon</em>: l’unità 01, l’<em>Avant-propos</em> firmato da Albertine Thévenon, non è di Simone Weil e non fa parte di questo corpus. La numerazione dei testi conserva quella dell’edizione, e per questo parte da 02.</p>
-</section>
-<section id="come-sono-resi-i-testi" class="level2">
-<h2 class="anchored" data-anchor-id="come-sono-resi-i-testi">Come sono resi i testi</h2>
-<p>Le pagine sono generate meccanicamente dai file di <code>corpus/it/</code> con <code>scripts/build_site.py</code>: il corpus resta la sola fonte autorevole e non viene mai modificato dalla generazione. Gli interventi sono soltanto questi.</p>
-<p><strong>Il titolo.</strong> Nel corpus il titolo di ciascuno scritto è in maiuscolo, come nel volume; qui è ripreso dal front matter del file e reso in tondo, senza essere ripetuto nel corpo della pagina.</p>
-<p><strong>Il cappello.</strong> Nell’edizione del 1951 alcuni titoli portano una nota che indica dove e quando lo scritto è apparso. Poiché una nota non può restare appesa al titolo di una pagina web, quel testo è riportato per intero in apertura, nel riquadro grigio.</p>
-<p><strong>I titoli editoriali.</strong> Alcuni scritti sono lunghi e privi di articolazione, o la loro articolazione è implicita. Per renderli navigabili senza spezzarli in più pagine, ciascuno di essi resta in una pagina sola e riceve una serie di titoli di sezione che non appartengono al testo di Simone Weil: servono unicamente a costruire l’indice laterale. Sono composti in un carattere diverso dagli altri e sono riconoscibili a colpo d’occhio. Compaiono in:</p>
-<ul>
-<li><em>Tre lettere alla signora Albertine Thévenon</em>, <em>Lettere a un ingegnere direttore di fabbrica</em> e <em>Lettere ad Auguste Detœuf</em>, dove distinguono le singole lettere;</li>
-<li><em>Diario di fabbrica</em>, dove raggruppano le settimane sotto la fabbrica cui si riferiscono;</li>
-<li><em>Frammenti</em>, <em>La vita e lo sciopero delle operaie metallurgiche</em>, <em>La razionalizzazione</em>, <em>Esperienza della vita di fabbrica</em> e <em>Condizione prima di un lavoro non servile</em>, dove segnano i movimenti dell’argomentazione.</li>
-</ul>
-<p>Dove un titolo editoriale cade esattamente su uno stacco del volume — un filetto o un asterismo — prende il posto dello stacco, che svolgeva la stessa funzione. I titoletti già presenti nel corpus sono invece riportati tali e quali, nel loro testo originale.</p>
-<p><strong>Le pagine del volume.</strong> Ogni pagina stampata dell’edizione del 1951 conserva un’ancora invisibile nel testo. È possibile rimandare direttamente a una pagina aggiungendo <code>#p</code> e il numero all’indirizzo di un capitolo: per esempio <code>…/06-diario-di-fabbrica.html#p73</code>.</p>
-<p>Ortografia, lessico, punteggiatura, corsivi, note e tabelle sono lasciati come si trovano nel corpus. Le formule e i disegni tecnici dei <em>Frammenti</em> e del <em>Diario di fabbrica</em> arrivano dalla trascrizione Wikisource nella forma grezza in cui questa li registra.</p>
+<p>Ortografia, lessico, punteggiatura, corsivi, note e tabelle sono lasciati per quanto possibile come si trovano nel corpus. Le formule e i disegni tecnici dei <em>Frammenti</em> e del <em>Diario di fabbrica</em> arrivano dalla trascrizione Wikisource nella forma grezza in cui questa li registra.</p>
 </section>
 <section id="licenze" class="level2">
 <h2 class="anchored" data-anchor-id="licenze">Licenze</h2>
@@ -803,7 +786,7 @@ document.addEventListener("DOMContentLoaded", () => {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Simone Weil, <em>La Condition ouvrière</em>, Gallimard, Paris 1951.</p>
+<p>Simone Weil, <em>La Condizione Operaia</em>, Gallimard, Parigi 1951.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
