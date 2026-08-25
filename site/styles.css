@@ -278,6 +278,12 @@ h2.sez-ed {
     font-size: clamp(1.15rem, 4.8vw, 1.4rem);
   }
 
+  /* Sotto il titolo ridotto (clamp) il margine negativo del riferimento
+     bibliografico lo schiaccia contro l'ultima riga del titolo. */
+  .riferimento {
+    margin-top: 0.3rem;
+  }
+
   /* Indice interno sempre raggiungibile durante la lettura. */
   #co-mobile-toc {
     display: block;
