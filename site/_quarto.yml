@@ -5,13 +5,19 @@ project:
   resources:
     - .nojekyll
     - robots.txt
+    # Immagine delle anteprime social: da sola la chiave `image` non basta a
+    # farla pubblicare. Le altre immagini di `_immagini/` servono al solo PDF.
+    - _immagini/cover.jpg
 
 lang: it-IT
 
-# La traduzione italiana di Quarto non copre l'etichetta del pulsante di
-# scaricamento, che resterebbe in inglese.
+# Etichette degli strumenti nella barra laterale. La traduzione italiana di
+# Quarto lascia in inglese il pulsante di scaricamento e rende «Source Code»
+# con «Eseguire il codice» (in _language-it.yml), fuorviante per il link al
+# repository: le correggiamo qui.
 language:
   tools-download: "Scarica"
+  code-tools-source-code: "Codice e testo su GitHub"
 
 book:
   title: "La Condizione Operaia"
@@ -26,7 +32,10 @@ book:
     Albert Camus in «La Condition ouvrière» (Gallimard, Parigi 1951): lettere,
     il diario dell'anno di fabbrica 1934-1935, frammenti, articoli e saggi sulla
     condizione operaia, la fatica, l'alienazione e il senso del lavoro.
-  cover-image: _immagini/cover.jpg
+  # Nessun `cover-image`: in HTML Quarto lo stamperebbe in cima alla pagina
+  # iniziale, dove la copertina non serve. Nel libro la copertina resta,
+  # disegnata a tutta pagina dal blocco `eso-pic` in coda a questo file.
+  # `image` non si vede nelle pagine: alimenta le anteprime social.
   image: _immagini/cover.jpg
   favicon: _immagini/cover.png
   # Nome del PDF del libro: docs/la-condizione-operaia.pdf

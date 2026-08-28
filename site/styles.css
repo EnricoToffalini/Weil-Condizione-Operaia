@@ -266,7 +266,7 @@ div.sidebar-item-container .show > .nav-link {
 }
 
 #quarto-sidebar .sidebar-tools-main .quarto-navigation-tool {
-  display: inline-flex;
+  display: flex; /* ogni strumento su una riga propria */
   align-items: baseline;
   gap: 0.4rem;
   padding-left: 0;
@@ -274,8 +274,15 @@ div.sidebar-item-container .show > .nav-link {
   color: var(--co-tenue);
 }
 
-#quarto-sidebar .sidebar-tools-main .quarto-navigation-tool::after {
+/* L'etichetta accanto all'icona dipende dallo strumento: senza questo vincolo
+   verrebbe scritto «Scarica il libro in PDF» anche accanto al link al
+   repository, che invece porta a GitHub. */
+#quarto-sidebar .sidebar-tools-main .quarto-navigation-tool[href$=".pdf"]::after {
   content: "Scarica il libro in PDF";
+}
+
+#quarto-sidebar .sidebar-tools-main .quarto-navigation-tool[href*="github.com"]::after {
+  content: "Codice e testo su GitHub";
 }
 
 #quarto-sidebar .sidebar-tools-main .quarto-navigation-tool:hover::after {

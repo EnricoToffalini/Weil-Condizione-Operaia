@@ -1,16 +1,25 @@
 ---
-title: "Prefazione"
+# Nel libro questo capitolo si chiama «Prefazione» e resta fuori
+# dall'indice: se ne occupa site/_filtri/struttura-pdf.lua.
+title: "La Condizione Operaia"
 pagetitle: "La Condizione Operaia — Simone Weil, traduzione italiana integrale"
 description: >-
   Traduzione italiana integrale dei sedici scritti di Simone Weil raccolti da
   Albert Camus in «La Condition ouvrière» (Gallimard, Parigi 1951): lettere, il
   diario dell'anno di fabbrica 1934-1935, frammenti, articoli e saggi sulla
   condizione operaia e sul senso del lavoro.
+format:
+  html:
+    # La pagina d'apertura non ha bisogno dell'indice nel margine destro:
+    # avrebbe una sola voce, «I sedici scritti».
+    toc: false
 ---
 
 Queste pagine raccolgono una traduzione italiana integrale dei sedici scritti di Simone Weil riuniti da Albert Camus in *La Condition ouvrière* (Gallimard, Parigi 1951): lettere, il diario tenuto durante l'anno di fabbrica del 1934-1935, appunti, articoli e saggi sulla condizione degli operai e sul senso del lavoro. Questa traduzione italiana è stata realizzata da GPT-5.6 Sol, con l’ausilio di Claude Opus 5.0. Ho realizzato la traduzione perché volevo leggerla; non l'ho trovata altrimenti disponibile pubblicamente.
 
 Di Simone Weil c'è qui l'esperienza della fabbrica, della fatica, dell'alienazione e dell'umiliazione, ma anche della solidarietà e della dignità che possono nascere pure dentro condizioni terribili. Qui nasce una parte fondamentale della matrice del suo pensiero, specialmente il concetto di *malheur*, la sventura, centrale nella sua riflessione successiva. Magari non sono pagine da leggere tutte, ma certo da conoscere.
+
+::: {.content-visible when-format="html"}
 
 ## I sedici scritti
 
@@ -32,5 +41,7 @@ Fra parentesi il titolo dell'originale francese stabilito da Albert Camus nell'e
 14. [La condizione operaia (30 settembre 1937)](testi/15-la-condizione-operaia.qmd) — *La condition ouvrière*
 15. [Esperienza della vita di fabbrica (Marsiglia, 1941-1942)](testi/16-esperienza-della-vita-di-fabbrica.qmd) — *Expérience de la vie d’usine*
 16. [Condizione prima di un lavoro non servile (Marsiglia, 1941-1942)](testi/17-condizione-prima-di-un-lavoro-non-servile.qmd) — *Condition première d’un travail non servile*
+
+:::
 
 Il testo francese di riferimento è quello dell'[edizione su Wikisource](https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re), collegata al facsimile del volume del 1951. I criteri della traduzione e degli interventi editoriali sono nella [Nota al testo](nota-al-testo.qmd).
