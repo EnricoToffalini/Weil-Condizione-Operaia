@@ -1,5 +1,6 @@
 ---
 title: "La condizione operaia (30 settembre 1937)"
+description: "Gli studi pubblicati in precedenza sulla condizione operaia in diversi paesi mostrano abbastanza chiaramente, se li si confronta, quale distanza separi…"
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/15_la_condition_ouvriere.md. Non modificare a mano. -->

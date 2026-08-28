@@ -4,8 +4,9 @@ project:
   output-dir: ../docs
   resources:
     - .nojekyll
+    - robots.txt
 
-lang: it
+lang: it-IT
 
 # La traduzione italiana di Quarto non copre l'etichetta del pulsante di
 # scaricamento, che resterebbe in inglese.
@@ -16,6 +17,18 @@ book:
   title: "La Condizione Operaia"
   subtitle: "Traduzione italiana dell'edizione Gallimard 1951"
   author: "Simone Weil"
+  # Indirizzo pubblico su GitHub Pages. Serve a Quarto per generare
+  # docs/sitemap.xml, gli URL canonici e i tag Open Graph / Twitter.
+  site-url: "https://enricotoffalini.github.io/Weil-Condizione-Operaia/"
+  repo-url: "https://github.com/EnricoToffalini/Weil-Condizione-Operaia"
+  description: >-
+    Traduzione italiana integrale dei sedici scritti di Simone Weil raccolti da
+    Albert Camus in «La Condition ouvrière» (Gallimard, Parigi 1951): lettere,
+    il diario dell'anno di fabbrica 1934-1935, frammenti, articoli e saggi sulla
+    condizione operaia, la fatica, l'alienazione e il senso del lavoro.
+  cover-image: _immagini/cover.jpg
+  image: _immagini/cover.jpg
+  favicon: _immagini/cover.png
   # Nome del PDF del libro: docs/la-condizione-operaia.pdf
   output-file: "la-condizione-operaia"
   # Mette il link di scaricamento del PDF nella barra laterale del sito.
@@ -47,13 +60,45 @@ book:
     - testi/17-condizione-prima-di-un-lavoro-non-servile.qmd
     - nota-al-testo.qmd
 
+# Metadati bibliografici: Quarto li rende come tag Highwire/Dublin Core e come
+# blocco citazione, utili a Google Scholar e alle anteprime.
+citation:
+  type: book
+  title: "La Condizione Operaia"
+  author: "Simone Weil"
+  publisher: "Gallimard"
+  publisher-place: "Parigi"
+  issued: 1951
+  language: it
+  url: "https://enricotoffalini.github.io/Weil-Condizione-Operaia/"
+
 format:
   html:
     theme: cosmo
     css: styles.css
+    open-graph: true
+    twitter-card:
+      card-style: summary_large_image
+    # Emette i tag <meta name="citation_*"> per Google Scholar e simili.
+    google-scholar: true
     include-in-header:
       text: |
         <script data-goatcounter="https://weil.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Book",
+          "name": "La Condizione Operaia",
+          "author": { "@type": "Person", "name": "Simone Weil" },
+          "translator": "GPT-5.6 Sol; Claude Opus 5.0",
+          "inLanguage": "it",
+          "isBasedOn": "https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re",
+          "publisher": { "@type": "Organization", "name": "Gallimard" },
+          "datePublished": "1951",
+          "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "url": "https://enricotoffalini.github.io/Weil-Condizione-Operaia/"
+        }
+        </script>
     include-after-body: _includes/mobile-html.html
     toc: true
     toc-depth: 3

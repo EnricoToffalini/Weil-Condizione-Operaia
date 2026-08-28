@@ -272,6 +272,37 @@ def cita_yaml(valore: str) -> str:
     return '"' + valore.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
+TAG_HTML = re.compile(r"<[^>]+>")
+MARCATURA_MD = re.compile(r"[*_`]|\[\^[^\]]+\]|\{\.[^}]+\}")
+LINK_MD = re.compile(r"\[([^\]]+)\]\([^)]*\)")
+
+
+def descrizione(titolo: str, cappello: list[str], righe: list[str]) -> str:
+    """Ricava una `meta description` dal primo paragrafo reale del testo.
+
+    Serve a Google e alle anteprime social: senza `site-url` e senza questo
+    campo Quarto non emette alcuna descrizione. Si preferisce il testo di
+    Simone Weil; se le prime righe sono solo ancore di pagina o riferimenti
+    bibliografici si ripiega su una frase costruita dal titolo.
+    """
+    for riga in [*cappello, *righe]:
+        nuda = riga.strip()
+        if not nuda or nuda.startswith((":::", "#", "<!--", "<div", "<a ", "[")):
+            continue
+        nuda = LINK_MD.sub(r"\1", nuda)
+        nuda = TAG_HTML.sub("", nuda)
+        nuda = MARCATURA_MD.sub("", nuda).strip()
+        if len(nuda) < 60 or sum(c.isascii() and c.isalpha() for c in nuda) < 40:
+            continue  # riga troppo corta o non in alfabeto latino (epigrafi)
+        if len(nuda) > 155:
+            nuda = nuda[:155].rpartition(" ")[0].rstrip(" ,;:—-") + "…"
+        return nuda
+    return (
+        f"{titolo} · Simone Weil, «La Condizione Operaia» (Gallimard 1951), "
+        "traduzione italiana integrale."
+    )
+
+
 def sigla(titolo: str, lunghezza_massima: int = 60) -> str:
     """Ricava dal titolo italiano una parte di URL leggibile."""
     piano = re.sub(r"\([^)]*\)", " ", titolo)
@@ -337,6 +368,7 @@ def componi(sorgente: Path, impostazioni: dict, manifest: dict) -> tuple[str, st
     testa = (
         "---\n"
         f"title: {cita_yaml(titolo)}\n"
+        f"description: {cita_yaml(descrizione(titolo, cappello, righe))}\n"
         "---\n\n"
         "<!-- Generato da scripts/build_site.py a partire da "
         f"corpus/it/{sorgente.name}. Non modificare a mano. -->\n\n"

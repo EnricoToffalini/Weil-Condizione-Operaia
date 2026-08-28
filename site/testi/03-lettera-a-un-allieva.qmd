@@ -1,5 +1,6 @@
 ---
 title: "Lettera a un’allieva (1934)"
+description: "È da molto tempo che voglio scriverle, ma il lavoro in fabbrica non invita molto alla corrispondenza. Come ha saputo che cosa facevo? Dalle sorelle…"
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/03_lettre_a_une_eleve.md. Non modificare a mano. -->

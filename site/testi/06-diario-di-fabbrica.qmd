@@ -1,5 +1,6 @@
 ---
 title: "Diario di fabbrica (1934-1935)"
+description: "Non basta che l’uomo sappia ciò che fa — occorre, se possibile, che ne percepisca l’uso — che percepisca la natura modificata da lui."
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/06_journal_d_usine.md. Non modificare a mano. -->

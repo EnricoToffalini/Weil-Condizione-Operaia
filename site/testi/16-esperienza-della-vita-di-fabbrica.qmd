@@ -1,5 +1,6 @@
 ---
 title: "Esperienza della vita di fabbrica (Marsiglia, 1941-1942)"
+description: "Articolo scritto a Marsiglia nel 1941, pubblicato successivamente in parte sotto lo pseudonimo di Émile Novis in Économie et Humanisme."
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/16_experience_de_la_vie_d_usine.md. Non modificare a mano. -->

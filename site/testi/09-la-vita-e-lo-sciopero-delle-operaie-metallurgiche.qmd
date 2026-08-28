@@ -1,5 +1,6 @@
 ---
 title: "La vita e lo sciopero delle operaie metallurgiche (Sul posto) (10 giugno 1936)"
+description: "Articolo apparso sotto lo pseudonimo di S. Galois nella Révolution prolétarienne del 10 giugno 1936 e nei Cahiers de «Terre Libre» del 15 luglio 1936."
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/09_la_vie_et_la_greve_des_ouvrieres_metallos.md. Non modificare a mano. -->

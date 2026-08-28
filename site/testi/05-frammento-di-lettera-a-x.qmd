@@ -1,5 +1,6 @@
 ---
 title: "Frammento di lettera a X. (1933-1934?)"
+description: "Ho tardato a risponderle, perché è difficile combinare l’incontro. Potrei essere a Moulins soltanto piuttosto tardi, nel pomeriggio di lunedì (verso le…"
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/05_fragment_de_lettre_a_x.md. Non modificare a mano. -->

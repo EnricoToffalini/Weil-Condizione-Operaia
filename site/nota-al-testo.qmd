@@ -1,5 +1,9 @@
 ---
 title: "Nota al testo"
+description: >-
+  Fonte, edizione di riferimento e criteri editoriali della traduzione italiana
+  di «La Condizione Operaia» di Simone Weil: testo francese da Wikisource,
+  facsimile Gallimard 1951, interventi dichiarati ai lettori.
 ---
 
 ## Che cosa contiene questo sito

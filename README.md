@@ -111,6 +111,8 @@ vincolata al manifest, ed è verificata invece da
 
 ## Il sito italiano
 
+Online: <https://enricotoffalini.github.io/Weil-Condizione-Operaia/>
+
 Il sito pubblica soltanto la traduzione italiana: `corpus/fr/` resta nel
 repository come riferimento di lavoro, ma non viene renderizzato. È un libro
 Quarto con un capitolo per ciascuno dei sedici scritti, tutti in pagina unica.

@@ -1,5 +1,6 @@
 ---
 title: "Osservazioni sugli insegnamenti da trarre dai conflitti del Nord (1936-1937 ?)"
+description: "È tanto più importante esaminare seriamente questa questione in quanto si pone, in misura maggiore o minore, per tutta l’industria francese. Nel Nord è…"
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/12_remarques_sur_les_conflits_du_nord.md. Non modificare a mano. -->

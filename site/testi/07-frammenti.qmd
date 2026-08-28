@@ -1,5 +1,6 @@
 ---
 title: "Frammenti"
+description: "Pagine scritte durante il soggiorno in fabbrica (1934-1935) e nell’anno seguente."
 ---
 
 <!-- Generato da scripts/build_site.py a partire da corpus/it/07_fragments.md. Non modificare a mano. -->

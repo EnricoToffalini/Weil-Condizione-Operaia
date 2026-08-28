@@ -1,8 +1,36 @@
 ---
 title: "Prefazione"
+pagetitle: "La Condizione Operaia — Simone Weil, traduzione italiana integrale"
+description: >-
+  Traduzione italiana integrale dei sedici scritti di Simone Weil raccolti da
+  Albert Camus in «La Condition ouvrière» (Gallimard, Parigi 1951): lettere, il
+  diario dell'anno di fabbrica 1934-1935, frammenti, articoli e saggi sulla
+  condizione operaia e sul senso del lavoro.
 ---
 
-Queste pagine raccolgono una traduzione italiana integrale dei sedici scritti di Simone Weil riuniti da Albert Camus in *La Condition ouvrière* (Gallimard, Parigi 1951): lettere, il diario tenuto durante l'anno di fabbrica del 1934-1935, appunti, articoli e saggi sulla condizione degli operai e sul senso del lavoro. Questa traduzione italiana è stata realizzata da GPT-5.6 Sol, con l’ausilio di Claude Opus 5.0. Ho realizzato la traduzione perché volevo leggerla; non l'ho trovata altrimenti disponibile pubblicamente. 
+Queste pagine raccolgono una traduzione italiana integrale dei sedici scritti di Simone Weil riuniti da Albert Camus in *La Condition ouvrière* (Gallimard, Parigi 1951): lettere, il diario tenuto durante l'anno di fabbrica del 1934-1935, appunti, articoli e saggi sulla condizione degli operai e sul senso del lavoro. Questa traduzione italiana è stata realizzata da GPT-5.6 Sol, con l’ausilio di Claude Opus 5.0. Ho realizzato la traduzione perché volevo leggerla; non l'ho trovata altrimenti disponibile pubblicamente.
 
-Di Simone Weil c'è qui l'esperienza della fabbrica, della fatica, dell'alienazione e dell'umiliazione, ma anche della solidarietà e della dignità che possono nascere pure dentro condizioni terribili. Qui nasce una parte fondamentale della matrice del suo pensiero, specialmente il concetto di *malheur*, la sventura, centrale nella sua riflessione successiva. Magari non sono pagine da leggere tutte, ma certo da conoscere. 
+Di Simone Weil c'è qui l'esperienza della fabbrica, della fatica, dell'alienazione e dell'umiliazione, ma anche della solidarietà e della dignità che possono nascere pure dentro condizioni terribili. Qui nasce una parte fondamentale della matrice del suo pensiero, specialmente il concetto di *malheur*, la sventura, centrale nella sua riflessione successiva. Magari non sono pagine da leggere tutte, ma certo da conoscere.
 
+## I sedici scritti
+
+Fra parentesi il titolo dell'originale francese stabilito da Albert Camus nell'edizione Gallimard del 1951.
+
+1. [Tre lettere alla signora Albertine Thévenon (1934-1935)](testi/02-tre-lettere-alla-signora-albertine-thevenon.qmd) — *Trois lettres à Mme Albertine Thévenon*
+2. [Lettera a un’allieva (1934)](testi/03-lettera-a-un-allieva.qmd) — *Lettre à une élève*
+3. [Lettera a Boris Souvarine (1935)](testi/04-lettera-a-boris-souvarine.qmd) — *Lettre à Boris Souvarine*
+4. [Frammento di lettera a X. (1933-1934?)](testi/05-frammento-di-lettera-a-x.qmd) — *Fragment de lettre à X.*
+5. [Diario di fabbrica (1934-1935)](testi/06-diario-di-fabbrica.qmd) — *Journal d’usine*
+6. [Frammenti](testi/07-frammenti.qmd) — *Fragments*
+7. [Lettere a un ingegnere direttore di fabbrica (Bourges, gennaio-giugno 1936)](testi/08-lettere-a-un-ingegnere-direttore-di-fabbrica.qmd) — *Lettres à un ingénieur directeur d’usine*
+8. [La vita e lo sciopero delle operaie metallurgiche (10 giugno 1936)](testi/09-la-vita-e-lo-sciopero-delle-operaie-metallurgiche.qmd) — *La vie et la grève des ouvrières métallos*
+9. [Lettera aperta a un iscritto al sindacato (dopo giugno 1936)](testi/10-lettera-aperta-a-un-iscritto-al-sindacato.qmd) — *Lettre ouverte à un syndiqué*
+10. [Lettere ad Auguste Detœuf (1936-1937)](testi/11-lettere-ad-auguste-detoeuf.qmd) — *Lettres à Auguste Detœuf*
+11. [Osservazioni sugli insegnamenti da trarre dai conflitti del Nord (1936-1937?)](testi/12-osservazioni-sui-conflitti-del-nord.qmd) — *Remarques sur les enseignements à tirer des conflits du Nord*
+12. [Principi di un progetto per un nuovo regime interno nelle imprese industriali (1936-1937?)](testi/13-principi-di-un-nuovo-regime-interno.qmd) — *Principes d’un projet pour un régime intérieur nouveau dans les entreprises industrielles*
+13. [La razionalizzazione (23 febbraio 1937)](testi/14-la-razionalizzazione.qmd) — *La rationalisation*
+14. [La condizione operaia (30 settembre 1937)](testi/15-la-condizione-operaia.qmd) — *La condition ouvrière*
+15. [Esperienza della vita di fabbrica (Marsiglia, 1941-1942)](testi/16-esperienza-della-vita-di-fabbrica.qmd) — *Expérience de la vie d’usine*
+16. [Condizione prima di un lavoro non servile (Marsiglia, 1941-1942)](testi/17-condizione-prima-di-un-lavoro-non-servile.qmd) — *Condition première d’un travail non servile*
+
+Il testo francese di riferimento è quello dell'[edizione su Wikisource](https://fr.wikisource.org/wiki/La_Condition_ouvri%C3%A8re), collegata al facsimile del volume del 1951. I criteri della traduzione e degli interventi editoriali sono nella [Nota al testo](nota-al-testo.qmd).
